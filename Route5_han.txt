@@ -1,0 +1,22 @@
+UnknownText_0x1adb22:	
+	text "발전소의 사고가"
+	line "해결될 때까지"
+	cont "통행금지라고 하더군!"
+	done
+	
+	
+	
+Route5UndergroundPathSignText:	;;No.01567 [D:0x0013DCB3] [L:43]
+	text "여기서부터 지하통로"
+	line "블루시티 …… 갈색시티"
+	done
+	
+	
+	
+HouseForSaleSignText:	;;No.01568 [D:0x0013DCDF] [L:65]
+	text "……종이가 붙어있다!"
+	cont "우냥……"
+	cont "아무도 살고있지 않아 보이는군……"
+	done
+	
+	

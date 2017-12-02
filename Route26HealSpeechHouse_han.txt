@@ -1,0 +1,16 @@
+UnknownText_0x7b14d:	;No.02972 [D:0x0018225A] [L:50]
+	text "네 포켓몬"
+	line "지쳐있는 것 같구나……"
+	
+	para "빨리 쉬게 하거라"
+	done
+	
+	
+UnknownText_0x7b18b:	;No.02973 [D:0x0018228D] [L:49]
+	text "움!"
+	line "포켓몬 건강을 되찾았구나!"
+	cont "그럼 잘 하거라!"
+	done
+	
+	
+	

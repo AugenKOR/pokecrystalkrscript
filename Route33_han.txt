@@ -1,0 +1,50 @@
+HikerAnthony2SeenText:	
+	text "동굴을 지금 막 벗어났지만"
+	line "아직 힘이 남아돌아!"
+	done
+	
+	
+	
+	
+HikerAnthony2BeatenText:	;;No.00987 [D:0x0012CF73] [L:32]
+	text "오옷!"
+	line "꼬마쪽이 힘이 넘치는군!"
+	done
+	
+HikerAnthony2AfterText:	;;No.00988 [D:0x0012CF94] [L:48]
+	text "등산가는 산에 있으면"
+	line "힘이 100배 된다는 것이다!"
+	done
+	
+	
+HikerAnthonyDunsparceText:	
+	text "Hey, did you get a"
+	line "DUNSPARCE?"
+	
+	para "I caught one too."
+	
+	para "Take a look at it"
+	line "in the light. It's"
+	cont "got a funny face!"
+	done
+	
+Route33LassText:	
+	text "Pant, pant…"
+	
+	para "I finally got"
+	line "through that cave."
+	
+	para "It was much bigger"
+	line "than I'd expected."
+	
+	para "I got too tired to"
+	line "explore the whole"
+	
+	para "thing, so I came"
+	line "outside."
+	done
+	
+Route33SignText:	
+	text "이곳은 33번 도로"
+	done
+	

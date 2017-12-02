@@ -1,0 +1,93 @@
+FisherTully1SeenText:	
+	text "내가 낚아 올린 포켓몬"
+	line "그 강함을 보여주겠다!"
+	done
+	
+	
+FisherTully1BeatenText:	;;No.01205 [D:0x00131AD0] [L:16]
+	text "오잉? 이상하네"
+	done
+	
+	
+UnknownText_0x1a93ab:	;;No.01206 [D:0x00131AE1] [L:82]
+	text "호호호 낚아 올린 포켓몬으로"
+	line "최강의 트레이너를 목표로!"
+	cont "이것이야말로 낚싯꾼의 참맛"
+	done
+	
+	
+	
+	
+	
+	
+HikerBenjaminSeenText:	;;No.01207 [D:0x00131B34] [L:53]
+	text "역시 하늘 아래는 좋구나!"
+	line "기분까지도 넓게 트이니까!"
+	done
+	
+	
+HikerBenjaminBeatenText:	;;No.01208 [D:0x00131B6A] [L:9]
+	text "캬하핫!"
+	done
+	
+UnknownText_0x1a943f:	;;No.01209 [D:0x00131B74] [L:52]
+	text "하늘의 광대함에 비교하면"
+	line "졌다는 것은 아주 작은 것!"
+	done
+	
+	
+	
+	
+PokemaniacShaneSeenText:	;;No.01210 [D:0x00131BA9] [L:66]
+	text "어이!"
+	
+	para "이 근방은 비밀의 낚시터란다"
+	line "이방인이 소란 피우지 말아 줘!"
+	done
+	
+	
+PokemaniacShaneBeatenText:	;;No.01211 [D:0x00131BEC] [L:39]
+	text "아아 달맞이 돌을"
+	line "사용했다면 좋았을까?"
+	done
+	
+UnknownText_0x1a94d6:	;;No.01212 [D:0x00131C14] [L:113]
+	text "호오 포켓몬 도감을 만들고 있어?"
+	line "그럼 진귀한 포켓몬이라든가"
+	cont "여러가지 알고 있겠구나?"
+	
+	para "저기 나한테도 도감을 보여줘"
+	done
+	
+	
+	
+	
+	
+Route42Sign1Text:	;;No.01213 [D:0x00131C86] [L:40]
+	text "이곳은 42번 도로"
+	line "인주시티 …… 황토마을"
+	done
+	
+	
+	
+MtMortarSign1Text:	;;No.01214 [D:0x00131CAF] [L:27]
+	text "절구산"
+	line "안은 큰 폭포의 동굴"
+	done
+	
+	
+	
+MtMortarSign2Text:	;;No.01215 [D:0x00131CCB] [L:27]
+	text "절구산"
+	line "안은 큰 폭포의 동굴"
+	done
+	
+	
+	
+Route42Sign2Text:	;;No.01216 [D:0x00131CE7] [L:40]
+	text "이곳은 42번 도로"
+	line "인주시티 …… 황토마을"
+	done
+	
+	
+	

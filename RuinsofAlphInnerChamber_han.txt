@@ -1,0 +1,35 @@
+UnknownText_0x58f89:	
+	text "뭔가의 기미가 느껴진다……"
+	done
+	
+	
+UnknownText_0x58fac:	
+	text "넓은 방이지만"
+	line "아무것도 없잖아"
+	done
+	
+	
+UnknownText_0x58fda:	;;No.00313 [D:0x0011082F] [L:43]
+	text "장엄하다고들 말하던 곳인가?"
+	line "신비한 장소네"
+	done
+	
+	
+	
+	
+	
+UnknownText_0x59024:	;;No.00314 [D:0x0011085B] [L:89]
+	text "아주 오래전의 건물이라고 말하니까"
+	line "임금님의 무덤을 연상해"
+	cont "피라미드라던가 고분이라던가……"
+	done
+	
+	
+	
+	
+UnknownText_0x59072:	;;No.00315 [D:0x001108B5] [L:39]
+	text "오래전의 포켓몬을"
+	line "흉내내서 만들어진 것"
+	done
+	
+	

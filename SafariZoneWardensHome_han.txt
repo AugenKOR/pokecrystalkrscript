@@ -1,0 +1,42 @@
+WardensGranddaughterText1:	;No.02612 [D:0x00170841] [L:155]
+	text "나의 할아버지는"
+	line "사파리존의 할아버지야!"
+	
+	para "…… 그랬었는데"
+	line "지금 외국을 여행중이야"
+	cont "「여행을 떠난다!」라고 하시며"
+	cont "혼자 가버리셨어!"
+	
+	para "그때 사파리존을"
+	line "그만뒀어!"
+	done
+	
+	
+	
+	
+	
+	
+WardensGranddaughterText2:	;No.02613 [D:0x001708DD] [L:71]
+	text "사파리존이 없어져서"
+	line "안타까워하는 사람이 있지만"
+	cont "할아버지가 완고하셔서!"
+	done
+	
+	
+	
+	
+WardenPhotoText:	;No.02614 [D:0x00170925] [L:57]
+	text "많은 포켓몬에 둘러싸여"
+	line "웃는 얼굴의 할아버지가 찍혀있다!"
+	done
+	
+	
+	
+	
+SafariZonePhotoText:	;No.02615 [D:0x0017095F] [L:49]
+	text "어딘가의 대 초원에서"
+	line "희귀한 포켓몬이 찍혀 있어!"
+	done
+	
+	
+	

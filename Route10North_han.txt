@@ -1,0 +1,3 @@
+PowerPlantSignText:	
+	text "이곳은 관동 발전소"
+	done

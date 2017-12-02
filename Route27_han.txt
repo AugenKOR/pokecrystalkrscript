@@ -1,0 +1,150 @@
+UnknownText_0x1a0a6b:	;;No.00853 [D:0x00128824] [L:7]
+	text "오잉!"
+	done
+	
+UnknownText_0x1a0a71:	;;No.00854 [D:0x0012882C] [L:85]
+	text "너는 지금!"
+	
+	para "관동지방으로의"
+	line "첫발을 내딛었다!"
+	
+	para "뭔가 있다면 마을지도로"
+	line "확인 해 보거라!"
+	done
+	
+	
+	
+CooltrainermBlakeSeenText:	;;No.00855 [D:0x00128882] [L:42]
+	text "꽤 강해보이는군"
+	line "어디 한번 상대를 해볼까!"
+	done
+	
+	
+CooltrainermBlakeBeatenText:	;;No.00856 [D:0x001288AD] [L:7]
+	text "……!"
+	done
+	
+UnknownText_0x1a0b0b:	;;No.00857 [D:0x001288B5] [L:97]
+	text "이 긴 여정을 넘었을 때"
+	line "반드시 무언가를 알 수 있을터"
+	
+	para "미안 아무생각 없이"
+	line "폼을 한번 잡아봤을 뿐이야"
+	done
+	
+	
+	
+	
+	
+CooltrainermBrianSeenText:	;;No.00858 [D:0x00128917] [L:21]
+	text "크윽 강한 녀석이구나"
+	done
+	
+	
+CooltrainermBrianBeatenText:	;;No.00859 [D:0x0012892D] [L:15]
+	text "생각한대로다!"
+	done
+	
+UnknownText_0x1a0bac:	;;No.00860 [D:0x0012893D] [L:49]
+	text "강한 사나이에게는"
+	line "강한 사나이를 느낄 수 있단다!"
+	done
+	
+	
+CooltrainerfReena1SeenText:	;;No.00861 [D:0x0012896F] [L:44]
+	text "이 근처의 포켓몬"
+	line "야생이라 해도 깔보지않아!"
+	done
+	
+	
+	
+	
+CooltrainerfReena1BeatenText:	;;No.00862 [D:0x0012899C] [L:16]
+	text "아아 강하구나!"
+	done
+	
+	
+UnknownText_0x1a0c35:	;;No.00863 [D:0x001289AD] [L:49]
+	text "너도 꼬마라고 해도"
+	line "멸시당하지 않았던 것 같구나!"
+	done
+	
+	
+	
+	
+CooltrainerfMeganSeenText:	;;No.00864 [D:0x001289DF] [L:53]
+	text "이야 특이한"
+	line "사람이 지나갈 줄이야"
+	cont "무사수행 도중이니?"
+	done
+	
+	
+	
+CooltrainerfMeganBeatenText:	;;No.00865 [D:0x00128A15] [L:16]
+	text "우와- 강하구나"
+	done
+	
+	
+UnknownText_0x1a0cce:	;;No.00866 [D:0x00128A26] [L:118]
+	text "진화시키거나 시키지 않거나 해서"
+	line "포켓몬의 특징을"
+	cont "확인하려고 하고있다"
+	
+	para "진화시키면 강해지지만"
+	line "기술을 배우는 것이 늦어지지"
+	done
+	
+	
+	
+	
+	
+	
+PsychicGilbertSeenText:	;;No.00867 [D:0x00128A9D] [L:71]
+	text "너의 생각을 맞추어보겠다"
+	
+	para "…… 음음음"
+	
+	para "알았다!"
+	line "포켓몬 리그 도전이구나!"
+	done
+	
+	
+	
+	
+	
+PsychicGilbertBeatenText:	;;No.00868 [D:0x00128AE5] [L:14]
+	text "…… 강하다!"
+	done
+	
+UnknownText_0x1a0dd2:	;;No.00869 [D:0x00128AF4] [L:66]
+	text "너의 강력함이라면"
+	line "포켓몬 리그에서도 통할 것 이다"
+	cont "그런 예감이 든다"
+	done
+	
+	
+	
+	
+Bird_keeperJose2SeenText:	;;No.00870 [D:0x00128B37] [L:23]
+	text "휘-익 휘이익 휘이이!"
+	done
+	
+	
+Bird_keeperJose2BeatenText:	;;No.00871 [D:0x00128B4F] [L:9]
+	text "휘-익!"
+	done
+	
+UnknownText_0x1a0e42:	;;No.00872 [D:0x00128B59] [L:71]
+	text "우리들 새 조련사는"
+	line "휘파람으로 포켓몬의 울음소리를"
+	cont "흉내내서 명령을 한다"
+	done
+	
+	
+	
+TohjoFallsSignText:	;;No.00873 [D:0x00128BA1] [L:38]
+	text "이곳은 동성 폭포"
+	line "관동과 성도의 갈림길"
+	done
+	
+	

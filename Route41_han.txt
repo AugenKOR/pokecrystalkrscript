@@ -1,0 +1,207 @@
+SwimmermCharlieSeenText:	
+	text "이곳의 바다는 따뜻하다"
+	line "몸도 풀리고 좋은 기분이다"
+	cont "잠시 상대를 해주겠다!"
+	done
+	
+	
+	
+	
+SwimmermCharlieBeatenText:	;;No.01172 [D:0x0013142F] [L:28]
+	text "물에 너무 오래 있었더니……"
+	done
+	
+	
+UnknownText_0x1a696e:	;;No.01173 [D:0x0013144C] [L:33]
+	text "이렇게 멍하게 있으면"
+	line "기분이 좋지"
+	done
+	
+	
+SwimmermGeorgeSeenText:	;;No.01174 [D:0x0013146E] [L:58]
+	text "약간 지쳐있는"
+	line "내가 이기면"
+	cont "너의 포켓몬을 빌려주지 않을래?"
+	done
+	
+SwimmermGeorgeBeatenText:	;;No.01175 [D:0x001314A9] [L:10]
+	text "하아 하아"
+	done
+	
+UnknownText_0x1a69d4:	;;No.01176 [D:0x001314B4] [L:76]
+	text "진청시티까지는 멀구나"
+	line "담청시티까지 돌아가는 것도"
+	cont "힘들 것 같고 어떡게 할까?"
+	done
+	
+	
+	
+	
+	
+	
+SwimmermBerkeSeenText:	;;No.01177 [D:0x00131501] [L:53]
+	text "소용돌이에 둘러싸인 섬"
+	line "비밀이 있다고 생각하지 않니?"
+	done
+	
+	
+	
+	
+	
+SwimmermBerkeBeatenText:	;;No.01178 [D:0x00131537] [L:33]
+	text "너의 강함은"
+	line "꼭 비밀이 있을꺼야!"
+	done
+	
+UnknownText_0x1a6aa4:	;;No.01179 [D:0x00131559] [L:108]
+	text "폭풍이 치던 밤의 이야기다"
+	
+	para "소용돌이 섬으로부터"
+	line "커다란 포켓몬이"
+	cont "은빛 날개를 펼치며"
+	cont "날고 있던 것을 본적이 있어"
+	done
+	
+	
+	
+	
+	
+SwimmermKirkSeenText:	;;No.01180 [D:0x001315C6] [L:44]
+	text "이 바다는 파도가 험해서"
+	line "헤엄치기도 힘들단다"
+	done
+	
+	
+	
+	
+SwimmermKirkBeatenText:	;;No.01181 [D:0x001315F3] [L:10]
+	text "지 지쳤다"
+	done
+	
+UnknownText_0x1a6b6c:	;;No.01182 [D:0x001315FE] [L:57]
+	text "바닷물의 흐름에 방해를 받아서"
+	line "저 섬에 올라갈 수가 없단다"
+	done
+	
+	
+SwimmermMathewSeenText:	;;No.01183 [D:0x00131638] [L:42]
+	text "너도 소용돌이 섬의 비밀을"
+	line "찾으러 왔는가?"
+	done
+	
+	
+SwimmermMathewBeatenText:	;;No.01184 [D:0x00131663] [L:12]
+	text "우우 겁난다"
+	done
+	
+	
+UnknownText_0x1a6bed:	;;No.01185 [D:0x00131670] [L:50]
+	text "소용돌이 섬의 비밀……"
+	line "어쨌든간에 안에는 캄캄하다"
+	done
+	
+	
+	
+	
+SwimmerfKayleeSeenText:	;;No.01186 [D:0x001316A3] [L:39]
+	text "친구와 함께"
+	line "소용돌이 섬을 탐험할꺼야!"
+	done
+	
+	
+	
+	
+SwimmerfKayleeBeatenText:	;;No.01187 [D:0x001316CB] [L:16]
+	text "흐-응 그렇구나"
+	done
+	
+	
+UnknownText_0x1a6c7f:	;;No.01188 [D:0x001316DC] [L:66]
+	text "소용돌이 섬의 지하에는"
+	line "커다란 포켓몬이 있다는데"
+	cont "어떤 포켓몬일까?"
+	done
+	
+	
+	
+	
+	
+SwimmerfSusieSeenText:	;;No.01189 [D:0x0013171F] [L:46]
+	text "엥? 포켓몬을 타서"
+	line "어쩐지 우아하게 보이는구나"
+	done
+	
+	
+SwimmerfSusieBeatenText:	;;No.01190 [D:0x0013174E] [L:11]
+	text "실망이예요"
+	done
+	
+UnknownText_0x1a6d11:	;;No.01191 [D:0x0013175A] [L:46]
+	text "라프라스에 타고있는 소년"
+	line "그런 노래 없었던가?"
+	done
+	
+	
+SwimmerfDeniseSeenText:	;;No.01192 [D:0x00131789] [L:40]
+	text "좋은 날씨로구나……"
+	line "잠이 오기 딱 좋겠어"
+	done
+	
+	
+SwimmerfDeniseBeatenText:	;;No.01193 [D:0x001317B2] [L:7]
+	text "히-잉"
+	done
+	
+UnknownText_0x1a6d79:	;;No.01194 [D:0x001317BA] [L:78]
+	text "직사광선은 피부의 천적"
+	
+	para "그렇다고 크림은 바르지 않았어"
+	line "바다가 오염이 될 테니까 "
+	done
+	
+	
+	
+	
+	
+SwimmerfKaraSeenText:	;;No.01195 [D:0x00131809] [L:73]
+	text "헤엄치면서 쉴 때는"
+	line "배영을 하는 것이 좋아"
+	cont "피로도 풀리고 기분도 좋아지지!"
+	done
+	
+	
+	
+	
+	
+	
+	
+SwimmerfKaraBeatenText:	;;No.01196 [D:0x00131853] [L:32]
+	text "당신쪽이 오히려"
+	line "힘이 넘치는군!"
+	done
+	
+UnknownText_0x1a6e58:	;;No.01197 [D:0x00131874] [L:62]
+	text "그러고보니까 섬의 저편으로부터"
+	line "무언가의 울음소리가 들려왔단다"
+	done
+	
+	
+SwimmerfWendySeenText:	;;No.01198 [D:0x001318B3] [L:41]
+	text "밤이되면"
+	line "별가사리가 수면 근처에"
+	cont "모인단다"
+	done
+	
+SwimmerfWendyBeatenText:	;;No.01199 [D:0x001318DD] [L:13]
+	text "……에고에고"
+	done
+	
+UnknownText_0x1a6ec2:	;;No.01200 [D:0x001318EB] [L:68]
+	text "모인 별가사리들이"
+	line "일제히 빛을 뿜는다!"
+	cont "무서울 정도로 아름다웠단다!"
+	done
+	
+	
+	
+	

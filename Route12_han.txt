@@ -1,0 +1,94 @@
+FisherMartinSeenText:	
+	text "낚시는 인내"
+	line "포켓몬도 인내!"
+	done
+	
+	
+FisherMartinBeatenText:	
+	text "인 인!"
+	done
+	
+UnknownText_0x1a704c:	
+	text "성격이 급한 나는"
+	line "낚시는 어울리지 않을지도……"
+	done
+	
+FisherStephenSeenText:	
+	text "낚시를 하면서 라디오에"
+	line "귀를 기울이는 행복!"
+	done
+	
+	
+	
+FisherStephenBeatenText:	
+	text "라디오를 들어가면서였기에……"
+	line "그래서 진거야!"
+	done
+	
+UnknownText_0x1a70d4:	
+	text "관동의 라디오 방송"
+	line "들어본 적 있니?"
+	cont "여러 방송을 하고있단다"
+	done
+	
+	
+	
+FisherBarneySeenText:	
+	text "일상의 생활에서"
+	line "소중한 것은 뭘까요?"
+	done
+	
+	
+FisherBarneyBeatenText:	
+	text "정답은 이 다음 바로!"
+	done
+	
+	
+UnknownText_0x1a716d:	
+	text "나는 역시"
+	line "전기라고 생각한다"
+	
+	para "그게 아니라면 발전소가"
+	line "움직이지 않는 정도로 그렇게"
+	cont "모두들 법석거리지는 않을꺼야"
+	done
+	
+	
+	
+	
+	
+	
+	
+	
+	
+FisherKyleSeenText:	
+	text "너는 기억하고 있니……!?"
+	done
+	
+FisherKyleBeatenText:	
+	text "기억하고 있냐구-!?"
+	done
+	
+UnknownText_0x1a7238:	
+	text "포켓몬이 낚일 때의"
+	line "그 낚싯대에 전해지는 느낌!"
+	cont "낚시의 묘미야!"
+	done
+	
+	
+	
+	
+	
+	
+	
+Route12SignText:	
+	text "이곳은 12번 도로"
+	line "북쪽 …… 보라타운"
+	done
+	
+	
+	
+FishingSpotSignText:	
+	text "이곳은 낚시의 명소"
+	done
+	

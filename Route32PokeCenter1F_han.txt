@@ -1,0 +1,48 @@
+UnknownText_0x69b83:	;No.02081 [D:0x00159945] [L:114]
+	text "이 근처는 낚시의 명소란다"
+	line "모두가 낚고 있는 것을 보고"
+	cont "너도 낚시가 하고싶어지지?"
+	
+	para "괜찮다면 내"
+	line "낚싯대를 나누어줄까?"
+	done
+	
+	
+	
+	
+UnknownText_0x69be8:	;No.02082 [D:0x001599B8] [L:50]
+	text "기쁘구나! 이것으로 너도"
+	line "낚시꾼의 동지가 되었단다"
+	done
+	
+	
+	
+	
+UnknownText_0x69c1b:	;No.02083 [D:0x001599EB] [L:84]
+	text "낚시는 아주 좋아!"
+	
+	para "물이 있는 곳이라면"
+	line "바다든지 강이든지"
+	cont "계속 낚싯대를 사용하거라! "
+	done
+	
+	
+	
+UnknownText_0x69c6c:	;No.02084 [D:0x00159A40] [L:29]
+	text "얼라리"
+	line "그렇다면 유감이로구나"
+	done
+	
+UnknownText_0x69c8d:	;No.02085 [D:0x00159A5E] [L:31]
+	text "어이! 소년"
+	line "낚시는 잘 되는가?"
+	done
+	
+UnknownText_0x69cac:	;No.02086 [D:0x00159A7E] [L:79]
+	text "움- 포켓몬에게"
+	line "무엇을 지니게 할까 망설여진다"
+	
+	para "공격력을 강하게 하는"
+	line "도구로 할까"
+	done
+	

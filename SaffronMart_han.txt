@@ -1,0 +1,14 @@
+UnknownText_0x18a3cc:	;No.03005 [D:0x00184798] [L:40]
+	text "보라타운에는"
+	line "커다란 라디오타워가 있다!"
+	done
+	
+	
+UnknownText_0x18a3f3:	;No.03006 [D:0x001847C1] [L:87]
+	text "더욱 강해지고 싶은데"
+	line "아직도 멀었어……"
+	
+	para "다음에는 강해지는 비결을"
+	line "가르쳐 주었으면 좋겠어"
+	done
+	

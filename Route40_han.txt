@@ -1,0 +1,175 @@
+SwimmermSimonSeenText:	
+	text "물에 들어가려는 너는"
+	line "반드시 준비운동을!"
+	
+	para "이것이 기본이니까!"
+	done
+	
+	
+SwimmermSimonBeatenText:	;;No.01153 [D:0x00130F74] [L:14]
+	text "우- 제기럴!"
+	done
+	
+UnknownText_0x1a6282:	;;No.01154 [D:0x00130F83] [L:45]
+	text "여기서부터 진청시티까지는"
+	line "꽤 거리가 있단다!"
+	done
+	
+	
+SwimmermRandallSeenText:	
+	text "어린이여"
+	line "포켓몬에 타지말고 수영을 해라!"
+	done
+	
+	
+	done
+	
+SwimmermRandallBeatenText:	;;No.01156 [D:0x00130FDB] [L:9]
+	text "져버렸다"
+	done
+	
+UnknownText_0x1a62fa:	;;No.01157 [D:0x00130FE5] [L:50]
+	text "헤엄치기는 전신을 사용하기에"
+	line "꽤 좋은 운동이란다!"
+	done
+	
+	
+SwimmerfElaineSeenText:	;;No.01158 [D:0x00131018] [L:66]
+	text "진청시티까지 헤엄칠 작정이니?"
+	
+	para "그전에 잠시"
+	line "한번 승부하지 않을래?"
+	done
+	
+	
+SwimmerfElaineBeatenText:	;;No.01159 [D:0x0013105B] [L:16]
+	text "나의 패배로구나"
+	done
+	
+UnknownText_0x1a637b:	;;No.01160 [D:0x0013106C] [L:46]
+	text "헤엄치기라면 내가"
+	line "실력이 더 좋다고 생각하는데"
+	done
+	
+	
+SwimmerfPaulaSeenText:	;;No.01161 [D:0x0013109B] [L:36]
+	text "튜브 대신"
+	line "바다의 포켓몬을 잡고 있어"
+	done
+	
+	
+	
+	
+SwimmerfPaulaBeatenText:	;;No.01162 [D:0x001310C0] [L:16]
+	text "우-웅"
+	line "빙빙돈다"
+	done
+	
+UnknownText_0x1a63f5:	;;No.01163 [D:0x001310D1] [L:55]
+	text "이렇게 둥둥떠서 멍청히 있으면"
+	line "파도에 떠내려 가버린단다"
+	done
+	
+	
+UnknownText_0x1a6429:	;;No.01164 [D:0x00131109] [L:71]
+	text "여기서는 보이지 않지만"
+	line "넓은 바다를 지나가면"
+	cont "진청시티라는 마을이 있단다"
+	done
+	
+	
+	
+UnknownText_0x1a646a:	
+	text "Hm! There's a big"
+	line "building up ahead!"
+	
+	para "What is it?"
+	done
+	
+UnknownText_0x1a649b:	
+	text "Hm! Look at all"
+	line "those serious-"
+	cont "looking trainers"
+	cont "streaming in."
+	
+	para "What? What?"
+	done
+	
+UnknownText_0x1a64e6:	
+	text "I came to OLIVINE"
+	line "by ship to see the"
+	
+	para "sights and soak up"
+	line "the atmosphere."
+	
+	para "Being a port, it"
+	line "feels so different"
+	cont "from a big city."
+	done
+	
+UnknownText_0x1a6564:	
+	text "Have you gone to"
+	line "the BATTLE TOWER?"
+	
+	para "I think a lot of"
+	line "tough trainers"
+	
+	para "have gathered"
+	line "there already."
+	
+	para "But since you have"
+	line "so many BADGES,"
+	
+	para "you shouldn't do"
+	line "badly at all."
+	done
+	
+MeetMonicaText:	
+	text "월희『처음뵙겠어요"
+	line "나는 월요일의 월희입니다"
+	done
+	
+	
+	
+MonicaGivesGiftText:	;;No.01166 [D:0x0013117E] [L:23]
+	text "만남의 징표로 이것을!"
+	done
+	
+	
+	
+MonicaGaveGiftText:	;;No.01167 [D:0x00131196] [L:94]
+	text "월희『그것은 비행타입의"
+	line "공격력을 올려주는 도구"
+	
+	para "당신도 새포켓몬에게"
+	line "지니게 한다면 좋을꺼예요!"
+	done
+	
+	
+	
+	
+	
+MonicaMondayText:	;;No.01168 [D:0x001311F5] [L:61]
+	text "월희『내"
+	line "남동생과 여동생들이"
+	cont "여러 장소에 있어요"
+	
+	para "찾아보세요!"
+	done
+	
+	
+	
+	
+MonicaNotMondayText:	;;No.01169 [D:0x00131233] [L:52]
+	text "월희『오늘은 월요일이"
+	line "아닌 것 같군요……"
+	cont "유감이네요"
+	done
+	
+Route40SignText:	;;No.01170 [D:0x00131268] [L:40]
+	text "이곳은 40번 터널"
+	line "진청시티 …… 담청시티"
+	done
+	
+	
+	

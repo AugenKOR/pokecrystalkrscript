@@ -1,0 +1,158 @@
+UnknownText_0x19938d:	
+	text "이곳은 흉내내기가 뛰어난"
+	line "여자아이의 집이란다"
+	
+	para "사람들의 흉내를 내서 말하니까"
+	line "말을 하면 곤란해지지"
+	done
+	
+	
+	
+	
+	
+	
+	
+UnknownText_0x19940d:	;No.01550 [D:0x0013D7D0] [L:75]
+	text "흉내내기 잘하는 여자아이"
+	line "소중히 여기던"
+	cont "삐삐인형을 잃어버려서"
+	cont "낙심하고 있어"
+	done
+	
+	
+	
+UnknownText_0x199460:	;No.01551 [D:0x0013D81C] [L:74]
+	text "성도에서 왔는가?"
+	
+	para "리니어 기차가 움직인다면"
+	line "바로 성도에 돌아갈 수 있는데!"
+	done
+	
+	
+	
+UnknownText_0x1994ae:	;No.01552 [D:0x0013D867] [L:71]
+	text "성도에서 왔는가?"
+	
+	para "리니어에 타면 눈 깜짝할 새에"
+	line "성도에 돌아갈 수 있지!"
+	done
+	
+	
+	
+UnknownText_0x1994fe:	;No.01553 [D:0x0013D8AF] [L:130]
+	text "자 체육관 트레이너랑 싸우자!"
+	line "라는건 체육관에 들어와서……"
+	
+	para "지금은 하고 있지 않다"
+	line "옆의 체육관에 들어가버렸다……"
+	cont "좀 창피했었어……"
+	done
+	
+	
+	
+	
+	
+	
+	
+UnknownText_0x19958e:	;No.01554 [D:0x0013D932] [L:88]
+	text "이곳은 포켓몬 제품으로"
+	line "유명한 실프주식회사!"
+	
+	para "그래서 예전에"
+	line "로켓단에게 표적이 되었었단다"
+	done
+	
+	
+	
+	
+	
+UnknownText_0x1995fc:	;No.01555 [D:0x0013D98B] [L:45]
+	text "우걱우걱……"
+	
+	para "발전소 큰일난 것 같군"
+	line "쩝 쩝……"
+	done
+	
+	
+	
+	
+UnknownText_0x19964b:	;No.01556 [D:0x0013D9B9] [L:79]
+	text "쩝 쩝……"
+	
+	para "발전소에 큰일이 났었다"
+	line "는 것 같아 우걱우걱……"
+	cont "배가 빵빵해졌다……!"
+	done
+	
+	
+	
+	
+UnknownText_0x1996a5:	;No.01557 [D:0x0013DA09] [L:43]
+	text "처음 들어가는 뒷골목이라"
+	line "약간 두근거리네!"
+	done
+	
+	
+	
+	
+UnknownText_0x1996e5:	;No.01558 [D:0x0013DA35] [L:68]
+	text "트레이너가 많이 모이는"
+	line "트레이너 하우스라는 건물이"
+	cont "상록시티에 있데!"
+	done
+	
+	
+	
+	
+	
+	
+UnknownText_0x199745:	;No.01559 [D:0x0013DA7A] [L:82]
+	text "라디오 방송에서 이 마을이"
+	line "소개되었단다"
+	
+	para "살고있는 마을을 칭찬받아서"
+	line "약간 부끄러워!"
+	done
+	
+	
+	
+	
+	
+	
+SaffronCitySignText:	;No.01560 [D:0x0013DACD] [L:44]
+	text "이곳은 노랑시티"
+	line "노랑은 금빛으로 빛나는 색깔"
+	done
+	
+	
+	
+SaffronGymSignText:	;No.01561 [D:0x0013DAFA] [L:47]
+	text "노랑시티 포켓몬 체육관"
+	line "관장 초련"
+	cont "에스퍼 레이디"
+	done
+	
+	
+	
+	
+FightingDojoSignText:	;No.01562 [D:0x0013DB2A] [L:28]
+	text "누구든지 오세요"
+	line "격투 도장!"
+	done
+	
+SilphCoSignText:	;No.01563 [D:0x0013DB47] [L:23]
+	text "실프주식회사"
+	line "본사 빌딩"
+	done
+	
+MrPsychicsHouseSignText:	;No.01564 [D:0x0013DB5F] [L:19]
+	text "에스퍼 아저씨의 집"
+	done
+	
+	
+SaffronCityMagnetTrainStationSignText:	;No.01565 [D:0x0013DB73] [L:30]
+	text "이곳은 노랑시티"
+	line "리니어 기차역"
+	done
+	
+	

@@ -1,0 +1,88 @@
+UnknownText_0x18a8a9:	;No.03013 [D:0x00184B70] [L:53]
+	text "죄송합니다"
+	line "리니어 기차는"
+	cont "현재 운행하고 있지 않습니다"
+	done
+	
+UnknownText_0x18a8dd:	;No.03014 [D:0x00184BA6] [L:49]
+	text "금빛시티행"
+	line "이제 곧 출발합니다"
+	cont "승차하시겠습니까?"
+	done
+	
+	
+	
+UnknownText_0x18a917:	;No.03015 [D:0x00184BD8] [L:51]
+	text "승차권을 확인하겠습니다!"
+	
+	para "네!"
+	line "이쪽으로 타십시오!"
+	done
+	
+	
+UnknownText_0x18a956:	;No.03016 [D:0x00184C0C] [L:39]
+	text "허허 손님"
+	line "승차권을 소지하지 않으셨군요"
+	done
+	
+UnknownText_0x18a978:	;No.03017 [D:0x00184C34] [L:33]
+	text "다음에 이용을"
+	line "부탁드리겠습니다!"
+	done
+	
+UnknownText_0x18a993:	;No.03018 [D:0x00184C56] [L:66]
+	text "감사합니다"
+	line "노랑시티 도착입니다"
+	
+	para "다음에도 이용을"
+	line "부탁드리겠습니다!"
+	done
+	
+UnknownText_0x18a9ca:	;No.03019 [D:0x00184C99] [L:85]
+	text "리니어 기차는"
+	line "전기랑 자석의 힘으로"
+	cont "달리는 꿈의 초특급열차!"
+	
+	para "그러나 전기가 없다면……"
+	done
+	
+	
+	
+	
+	
+	
+	
+	
+	
+UnknownText_0x18aa61:	;No.03020 [D:0x00184CEF] [L:48]
+	text "후우-……"
+	
+	para "관동과 성도를"
+	line "어떡게 왕복을 했을까?"
+	done
+	
+	
+	
+	
+UnknownText_0x18aaab:	;No.03021 [D:0x00184D20] [L:85]
+	text "리니어 기차역이 생기기 전에"
+	line "이 장소에는 흉내내기 아가씨라는"
+	cont "여자아이의 집이 있었단다"
+	done
+	
+	
+	
+	
+	
+	
+	
+UnknownText_0x18ab20:	;No.03022 [D:0x00184D76] [L:104]
+	text "오빠 정기권은 가지고 있어?"
+	line "나는 가지고 있어!"
+	
+	para "노랑시티의 사람들은 모두"
+	line "정기권으로"
+	cont "리니어 기차에 탄다!"
+	done
+	
+	

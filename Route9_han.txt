@@ -1,0 +1,118 @@
+CamperDeanSeenText:	;;No.01594 [D:0x00140081] [L:30]
+	text "돌산 터널을"
+	line "탐험하러 왔단다!"
+	done
+	
+CamperDeanBeatenText:	;;No.01595 [D:0x001400A0] [L:10]
+	text "이 이런!"
+	done
+	
+UnknownText_0x1aafd9:	;;No.01596 [D:0x001400AB] [L:64]
+	text "터널에 들어가기 전"
+	line "포켓몬이 상처를 입었다"
+	cont "포켓몬센터에 가야지!"
+	done
+	
+	
+	
+	
+	
+	
+	
+PicnickerHeidiSeenText:	;;No.01597 [D:0x001400EC] [L:41]
+	text "너 피크닉 한 적 있니?"
+	line "굉장히 재미있어!"
+	done
+	
+	
+	
+	
+PicnickerHeidiBeatenText:	;;No.01598 [D:0x00140116] [L:11]
+	text "아아앙-!"
+	done
+	
+UnknownText_0x1ab07c:	;;No.01599 [D:0x00140122] [L:52]
+	text "많이 과자를 만들어서"
+	line "모두함께 먹는거야!"
+	cont "맛있단다!"
+	done
+	
+	
+	
+CamperSidSeenText:	;;No.01600 [D:0x00140157] [L:43]
+	text "어이 너!"
+	line "담배 함부로 버리는 것은 금지다!"
+	done
+	
+CamperSidBeatenText:	;;No.01601 [D:0x00140183] [L:24]
+	text "주의만 준 것 뿐인데……"
+	done
+	
+	
+UnknownText_0x1ab0f6:	;;No.01602 [D:0x0014019C] [L:37]
+	text "담배같은건 피지 않는군"
+	line "내가 잘못봤다"
+	done
+	
+	
+PicnickerEdnaSeenText:	;;No.01603 [D:0x001401C2] [L:50]
+	text "쓰레기는 꼭 자신이"
+	line "가지고 돌아가지 않으면 안 되지"
+	done
+	
+	
+PicnickerEdnaBeatenText:	;;No.01604 [D:0x001401F5] [L:22]
+	text "아아……"
+	line "져버렸다……"
+	done
+UnknownText_0x1ab15f:	;;No.01605 [D:0x0014020C] [L:39]
+	text "전기도 소중하지만"
+	line "자연도 소중히 하거라"
+	done
+	
+	
+	
+	
+HikerTimSeenText:	;;No.01606 [D:0x00140234] [L:50]
+	text "산-은 은-빛-……"
+	
+	para "은빛이라는 산이"
+	line "성도에 있지?"
+	done
+	
+	
+	
+HikerTimBeatenText:	;;No.01607 [D:0x00140267] [L:38]
+	text "노래에 열중해서"
+	line "포켓몬을 소홀하게……"
+	done
+	
+UnknownText_0x1ab210:	;;No.01608 [D:0x0014028E] [L:16]
+	text "싸움은 집중력!"
+	done
+	
+	
+HikerSidneySeenText:	;;No.01609 [D:0x0014029F] [L:49]
+	text "비밀을 가르쳐주겠다!"
+	line "그러나 그전에 포켓몬이다!"
+	done
+	
+	
+	
+	
+HikerSidneyBeatenText:	;;No.01610 [D:0x001402D1] [L:22]
+	text "제기럴!"
+	line "졌단말인가!"
+	done
+	
+UnknownText_0x1ab278:	;;No.01611 [D:0x001402E8] [L:45]
+	text "폭이 좁은 강을 건너면"
+	line "커다란 발전소가 있단다"
+	done
+	
+	
+Route9SignText:	;;No.01612 [D:0x00140316] [L:40]
+	text "이곳은 9번 도로"
+	line "블루시티 …… 돌산 터널"
+	done
+	

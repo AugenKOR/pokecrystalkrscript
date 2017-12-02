@@ -1,0 +1,61 @@
+SwimmerfNicoleSeenText:	
+	text "물에 들어가면"
+	line "몸이 가벼워지는 느낌이 들어"
+	done
+	
+SwimmerfNicoleBeatenText:	
+	text "싫-어!"
+	done
+	
+UnknownText_0x1acd93:	
+	text "수영은 전신을 사용하니까"
+	line "건강에 매우 좋단다!"
+	done
+	
+	
+	
+	
+SwimmerfLoriSeenText:	
+	text "굉장히 배지를 많이 모았군!"
+	line "승부하자!"
+	done
+	
+	
+	
+	
+SwimmerfLoriBeatenText:	
+	text "싫어-!"
+	done
+	
+UnknownText_0x1ace15:	
+	text "물에서 쓸 수 있는 비전기술은"
+	line "파도타기만이 아니지"
+	done
+	
+	
+SwimmermCameronSeenText:	
+	text "이대로 성도까지"
+	line "헤엄치기는 무리일꺼야"
+	done
+	
+	
+	
+	
+SwimmermCameronBeatenText:	
+	text "으학-!"
+	done
+	
+UnknownText_0x1ace8b:	
+	text "바다이외에도 연못이랑 "
+	line "여기저기 있지……"
+	done
+	
+	
+CinnabarGymSignText:	
+	text "…… 벽보가 붙어있다!"
+	
+	para "홍련마을의 체육관은 이곳!"
+	line "체육관 관장 강연"
+	done
+	
+	

@@ -1,0 +1,65 @@
+BikerRileySeenText:	
+	text "너!"
+	line "성도에서 왔구나!"
+	done
+	
+BikerRileyBeatenText:	
+	text "강하다……!"
+	done
+	
+UnknownText_0x1ad13b:	
+	text "성도의 녀석에게"
+	line "조롱을 당하고 참을 수 있을까!"
+	done
+	
+BikerJoelSeenText:	
+	text "어이 어이!"
+	line "근사한 자전거잖아!"
+	done
+	
+BikerJoelBeatenText:	
+	text "폼만은 아니었군……!"
+	done
+	
+	
+UnknownText_0x1ad196:	
+	text "폼잡고도 약하면"
+	line "웃기는 일이지……"
+	cont "나도 분발할꺼야!"
+	done
+	
+	
+	
+	
+BikerGlennSeenText:	
+	text "나와 스피드 시합"
+	line "해볼테냐?"
+	done
+	
+BikerGlennBeatenText:	
+	text "대단한 다리 힘이다……"
+	done
+	
+	
+UnknownText_0x1ad225:	
+	text "자전거 길은"
+	line "손놓고 타기가 기분 최고지"
+	done
+	
+	
+BikerCharlesSeenText:	
+	text "우리들은"
+	line "죽음을 두려워 않고 달리지!"
+	done
+	
+BikerCharlesBeatenText:	
+	text "부릉부릉!"
+	done
+	
+	
+UnknownText_0x1ad293:	
+	text "무모한 운전은 사고의 원인"
+	line "모두 주의하도록 하자……!"
+	done
+	
+	

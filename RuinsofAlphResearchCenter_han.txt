@@ -1,0 +1,199 @@
+UnknownText_0x59278:	;;No.00317 [D:0x00110A9D] [L:109]
+	text "좋아!"
+	
+	para "포켓몬 도감의 개조가"
+	line "끝났다!"
+	
+	para "옵션에서 안농도감을"
+	line "추가해 넣었다"
+	
+	para "잡힌 순서대로"
+	line "기록될 수 있도록 했단다"
+	done
+	
+	
+	
+	
+	
+UnknownText_0x592fa:	;;No.00318 [D:0x00110B0B] [L:38]
+	text "<PLAYER>"
+	db "의"
+	line "포켓몬 도감의 성능이 향상되었다!"
+	done
+UnknownText_0x59311:	;;No.00319 [D:0x00110B32] [L:66]
+	text "잡힌 안농이"
+	line "전부 기록되어질꺼야"
+	
+	para "몇 종류나 있을까"
+	line "너도 확인해 줘!"
+	done
+	
+	
+UnknownText_0x5935f:	;;No.00320 [D:0x00110B75] [L:39]
+	text "안농을 전부"
+	line "잡았다구?"
+	cont "그것 굉장하군!"
+	done
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+UnknownText_0x593ed:	;;No.00321 [D:0x00110B9D] [L:81]
+	text "대략 1500년 전에"
+	line "유적이 만들어졌지만"
+	cont "누가 무엇을 위해 만들었나"
+	cont "아직 모릅니다……"
+	done
+	
+	
+	
+	
+UnknownText_0x59445:	;;No.00322 [D:0x00110BEF] [L:36]
+	text "유적의 포켓몬"
+	line "전부 몇 종류나 있지?"
+	done
+	
+	
+UnknownText_0x59478:	;;No.00323 [D:0x00110C14] [L:75]
+	text "유적의 포켓몬이"
+	line "출현했어요!?"
+	
+	para "이건 대 사건이군"
+	line "바로 조사를 착수해야겠군!"
+	done
+	
+	
+	
+	
+UnknownText_0x594cb:	
+	text "Our investigation,"
+	line "with your help, is"
+	
+	para "giving us insight"
+	line "into the RUINS."
+	
+	para "The RUINS appear"
+	line "to have been built"
+	
+	para "as a habitat for"
+	line "#MON."
+	done
+	
+UnknownText_0x5954f:	;;No.00324 [D:0x00110C60] [L:78]
+	text "벽에 그려져 있는 모양이"
+	line "유적의 수수께끼를 푸는 열쇠다!"
+	
+	para "……라고 생각하는데-"
+	done
+	
+	
+	
+	
+	
+	
+	
+UnknownText_0x595cb:	;;No.00325 [D:0x00110CAF] [L:113]
+	text "네가 만난 포켓몬은"
+	line "유적 벽의 모양과"
+	cont "닮아있는것 같군"
+	
+	para "……흐음"
+	
+	para "그렇다고하면 수많은 종류가"
+	line "유적에 있다는 것인가……"
+	done
+	
+	
+	
+	
+	
+	
+	
+	
+UnknownText_0x59669:	
+	text "We think something"
+	line "caused the cryptic"
+	
+	para "patterns to appear"
+	line "in the RUINS."
+	
+	para "We've focused our"
+	line "studies on that."
+	done
+	
+UnknownText_0x596d3:	
+	text "According to my"
+	line "research…"
+	
+	para "Those mysterious"
+	line "patterns appeared"
+	
+	para "when the #COM"
+	line "CENTER was built."
+	
+	para "It must mean that"
+	line "radio waves have"
+	
+	para "some sort of a"
+	line "link…"
+	done
+	
+UnknownText_0x59769:	
+	text "Why did those"
+	line "ancient patterns"
+	
+	para "appear on the wall"
+	line "now?"
+	
+	para "The mystery"
+	line "deepens…"
+	done
+	
+UnknownText_0x597b6:	;;No.00326 [D:0x00110D21] [L:35]
+	text "알프 유적의 조사"
+	line "……올해로 10년째"
+	done
+	
+	
+	
+UnknownText_0x597d9:	;;No.00327 [D:0x00110D45] [L:52]
+	text "수수께끼의 포켓몬"
+	line "이름……안농"
+	cont "전부해서 26종류 발견"
+	done
+	
+	
+	
+UnknownText_0x5980e:	;;No.00328 [D:0x00110D7A] [L:18]
+	text "이상한 기계다……"
+	done
+	
+	
+UnknownText_0x5982d:	;;No.00329 [D:0x00110D8D] [L:37]
+	text "안농의 모습을"
+	line "프린트할 수 있습니다!"
+	done
+	
+UnknownText_0x59848:	;;No.00330 [D:0x00110DB3] [L:51]
+	text "알프의 유적 연구소"
+	line "초대 소장"
+	cont "작명박사의 사진이다!"
+	done
+	
+	
+	
+UnknownText_0x59886:	;;No.00331 [D:0x00110DE7] [L:70]
+	text "어려운 책들이 가득하군"
+	line "『고대 유적』……"
+	cont "『고대 문명의 수수께끼』……"
+	done
+	
+	
+	
+	

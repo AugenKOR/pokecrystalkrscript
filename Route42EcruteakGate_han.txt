@@ -1,0 +1,8 @@
+
+UnknownText_0x19a4b8:
+	text "MT.MORTAR is like"
+	line "a maze inside."
+
+	para "Be careful. Don't"
+	line "get lost in there."
+	done

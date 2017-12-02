@@ -1,0 +1,151 @@
+Route31CooltrainerMText:	
+	text "어둠의 동굴……"
+	line "포켓몬이 주변을 밝게 해주는"
+	cont "기술을 쓸 수 있다면"
+	cont "안을 조사해 볼 수 있을텐데"
+	done
+	
+	
+Bug_catcherWade1SeenText:	;;No.00916 [D:0x00129A43] [L:44]
+	text "잔뜩 포켓몬을 잡았다"
+	line "잠시 승부를 겨루어줘!"
+	done
+	
+	
+Bug_catcherWade1BeatenText:	;;No.00917 [D:0x00129A70] [L:9]
+	text "어쩐지-"
+	done
+	
+Bug_catcherWade1AfterText:	;;No.00918 [D:0x00129A7A] [L:88]
+	text "6마리를 가지고 있을 때"
+	line "포켓몬을 잡으면"
+	cont "컴퓨터 통신에서 자동적으로"
+	cont "박스에 보내어진단다!"
+	done
+	
+	
+	
+	
+	
+	
+Text_Route31SleepyMan:	;;No.00919 [D:0x00129AD3] [L:141]
+	text "움 음냐음냐……"
+	
+	para "포켓몬을 찾아서 너무 돌아다녔다"
+	line "다리는 아프고 잠도오고……"
+	
+	para "내가 야생 포켓몬이라면"
+	line "잡기 쉬운 상태다……"
+	cont "쿠우…… 음냐음냐……"
+	done
+	
+	
+	
+	
+	
+	
+	
+Text_Route31SleepyManGotMail:	;;No.00920 [D:0x00129B61] [L:63]
+	text "쿠우…… 음냐음냐……"
+	
+	para "응? 뭐라고?"
+	line "나에게 메일을 가져왔다고?"
+	done
+	
+Text_Route31HandOverMailMon:	;;No.00921 [D:0x00129BA1] [L:44]
+	text "<PLAYER>"
+	db "는(은) 메일을 지닌"
+	line "포켓몬을 건네주었다!"
+	done
+	
+	
+Text_Route31ReadingMail:	;;No.00922 [D:0x00129BCE] [L:172]
+	text "머 뭐라고……"
+	
+	para "「어둠의 동굴에서부터"
+	line "다른길이 연결되어있어」"
+	cont "라고"
+	
+	para "고맙다!"
+	
+	para "친구도 친절하지만"
+	line "너도 친절하구나!"
+	
+	para "친절에 감동받아서"
+	line "나도 무언가 해주고싶어"
+	
+	para "맞아!"
+	line "이것을 줄께!"
+	done
+	
+	
+	
+	
+	
+	
+Text_Route31DescribeNightmare:	;;No.00923 [D:0x00129C7B] [L:115]
+	text "기술머신50은 악몽"
+	
+	para "자고있는 상대의 체력을"
+	line "천천히 줄게하는 무서운 기술"
+	
+	para "우- 떨려라……"
+	line "무서운 꿈은 꾸고싶지 않아……"
+	done
+	
+	
+	
+	
+	
+	
+	
+Text_Route31WrongMail:	;;No.00924 [D:0x00129CEF] [L:29]
+	text "이건 나에게 온 메일이 아니야"
+	done
+	
+	
+Text_Route31MissingMail:	;;No.00925 [D:0x00129D0D] [L:53]
+	text "그 포켓몬이 뭘 어떡했는데?"
+	line "메일을 가지고있지 않잖아"
+	done
+	
+	
+	
+	
+Text_Route31DeclinedToHandOverMail:	;;No.00926 [D:0x00129D43] [L:25]
+	text "뭐? 아무것도 아니라구?"
+	done
+	
+	
+Text_Route31CantTakeLastMon:	;;No.00927 [D:0x00129D5D] [L:55]
+	text "내가 그 포켓몬을 받으면"
+	line "너는 싸울 수 없게되는 것이군!"
+	done
+	
+	
+	
+	
+Route31YoungsterText:	;;No.00928 [D:0x00129D95] [L:105]
+	text "어둠의 동굴에서"
+	line "좋은 포켓몬을 잡았다!"
+	
+	para "이녀석을 단련시켜서"
+	line "도라지시티 체육관 관장"
+	cont "비상과 승부를 내겠어!"
+	done
+	
+	
+	
+	
+	
+Route31SignText:	;;No.00929 [D:0x00129DFF] [L:42]
+	text "이곳은 31번 도로"
+	line "도라지시티 …… 무궁시티"
+	done
+	
+	
+	
+DarkCaveSignText:	;;No.00930 [D:0x00129E2A] [L:19]
+	text "이곳은 어둠의 동굴"
+	done
+	

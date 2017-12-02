@@ -1,0 +1,44 @@
+UnknownText_0x62d9d:	;No.02304 [D:0x0015EFC9] [L:113]
+	text "음 너"
+	line "포켓몬 도감을 만들고 있니?"
+	
+	para "포켓몬이 나와주지 않으면 큰일이군"
+	line "괜찮다면 이 기술머신을"
+	cont "사용해보면 어떻겠니?"
+	done
+	
+	
+	
+UnknownText_0x62df6:	;No.02305 [D:0x0015F03B] [L:108]
+	text "내용물은 달콤한 향기"
+	
+	para "포켓몬이 나올 것 같은"
+	line "장소에서 사용한다면……"
+	
+	para "달콤한 향기에 이끌려"
+	line "포켓몬이 나타난단다"
+	done
+	
+UnknownText_0x62e41:	
+	text "너도밤나무 숲에"
+	line "뭔가 일어난것 같아……"
+	cont "여기에 있는 편이 좋을거야"
+	done
+	
+UnknownText_0x62e83:	;No.02306 [D:0x0015F0A8] [L:17]
+	text "버터플『버터플!"
+	done
+	
+UnknownText_0x62e97:	;No.02307 [D:0x0015F0BA] [L:91]
+	text "너 숲의 신의"
+	line "사당에 참배했니?"
+	
+	para "숲의 신은 시간을 초월해서"
+	line "숲을 지켜준단다"
+	cont "꼭 풀포켓몬일꺼야"
+	done
+	
+	
+	
+	
+	

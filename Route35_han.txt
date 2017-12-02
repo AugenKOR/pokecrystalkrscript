@@ -1,0 +1,186 @@
+CamperIvanSeenText:	
+	text "라디오에서 여러 포켓몬의"
+	line "정보를 수집하고 있으니까"
+	cont "꽤 강할 것이라고 생각해"
+	done
+	
+	
+	
+CamperIvanBeatenText:	;;No.01042 [D:0x0012DB7F] [L:13]
+	text "틀려먹었다!"
+	done
+	
+UnknownText_0x19cac4:	;;No.01043 [D:0x0012DB8D] [L:75]
+	text "라디오 방송의 음악을 듣고"
+	line "야생 포켓몬이 건강해지거나"
+	cont "얌전해지기도 한단다!"
+	done
+	
+CamperElliotSeenText:	;;No.01044 [D:0x0012DBD9] [L:52]
+	text "좋-아! 여자친구에게"
+	line "좋은 것을 구경이나 시켜줄까!"
+	done
+	
+	
+CamperElliotBeatenText:	;;No.01045 [D:0x0012DC0E] [L:19]
+	text "너……"
+	line "좀 져줘……"
+	done
+	
+UnknownText_0x19cb47:	;;No.01046 [D:0x0012DC22] [L:42]
+	text "여자친구에게 창피한 것을"
+	line "보여줘버렸당……"
+	done
+	
+	
+PicnickerBrookeSeenText:	;;No.01047 [D:0x0012DC4D] [L:46]
+	text "내 남자친구 너무 약해서"
+	line "의지 할 수 없구만……"
+	done
+	
+	
+PicnickerBrookeBeatenText:	;;No.01048 [D:0x0012DC7C] [L:14]
+	text "아 강하구나!"
+	done
+	
+	
+UnknownText_0x19cbba:	;;No.01049 [D:0x0012DC8B] [L:52]
+	text "남자친구보다 포켓몬쪽이"
+	line "믿음직 스러운 것도 문제구나"
+	done
+	
+	
+PicnickerKimSeenText:	;;No.01050 [D:0x0012DCC0] [L:44]
+	text "너 포켓몬 체육관에 가고있니?"
+	line "나도 그렇걸랑"
+	done
+	
+PicnickerKimBeatenText:	;;No.01051 [D:0x0012DCED] [L:22]
+	text "우-웅 이길 수 없구나"
+	done
+	
+	
+UnknownText_0x19cc21:	;;No.01052 [D:0x0012DD04] [L:52]
+	text "체육관에서 받은 배지"
+	line "너무 예쁘기 때문에 모으고 있어"
+	done
+	
+	
+Bird_keeperBryanSeenText:	;;No.01053 [D:0x0012DD39] [L:46]
+	text "너 포켓몬을 잡을 때"
+	line "어떤 볼을 사용하고 있니?"
+	done
+	
+Bird_keeperBryanBeatenText:	;;No.01054 [D:0x0012DD68] [L:25]
+	text "히야"
+	line "스피드가 부족하구만"
+	done
+	
+UnknownText_0x19cc87:	;;No.01055 [D:0x0012DD82] [L:176]
+	text "바로 도망치는 포켓몬이 있지?"
+	line "그럴 때 도움이 되는 것은"
+	cont "강집 할아버지의 스피드볼!"
+	
+	para "나 하얀 규토리를 발견하면은"
+	line "강집 할아버지의 집에 가지고 가서"
+	cont "특수한 볼을 만들어 달라고 할꺼야"
+	done
+	
+	
+	
+	
+	
+	
+	
+JugglerIrwin1SeenText:	;;No.01056 [D:0x0012DE33] [L:33]
+	text "보아라!"
+	line "이 화려한 볼의 심판을!"
+	done
+	
+JugglerIrwin1BeatenText:	;;No.01057 [D:0x0012DE55] [L:23]
+	text "히익- 꼼짝도 못하겠다"
+	done
+	
+	
+UnknownText_0x19cd5a:	;;No.01058 [D:0x0012DE6D] [L:89]
+	text "내가 자랑하는 포켓몬으로"
+	line "꼼짝못하게 만들려고 생각했는데"
+	cont "너의 강함에 내가 꼼짝도 못하겠어"
+	done
+	
+	
+	
+	
+Bug_catcherArnie1SeenText:	;;No.01059 [D:0x0012DEC7] [L:41]
+	text "벌레포켓몬이 있다면"
+	line "어떤 곳이든 찾아간다"
+	done
+	
+	
+Bug_catcherArnie1BeatenText:	
+	text "Huh? I shouldn't"
+	line "have lost that…"
+	done
+	
+UnknownText_0x19cdf6:	
+	text "내 소중한 콘팡은"
+	line "공원의 곤충채집 대회에서"
+	cont "우승했을 때의 포켓몬이란다"
+	done
+	
+	
+	
+UnknownText_0x19ce38:	
+	text "Wow… Look at all"
+	line "those YANMA!"
+	
+	para "I'm so blown away,"
+	line "I can't move."
+	done
+	
+FirebreatherWaltSeenText:	
+	text "이런 곳에서"
+	line "불을 뿜는 연습을!"
+	done
+	
+FirebreatherWaltBeatenText:	;;No.01063 [D:0x0012DF7B] [L:25]
+	text "아뜨뜨뜨"
+	line "코끝이 타버렸다"
+	done
+	
+UnknownText_0x19cebc:	;;No.01064 [D:0x0012DF95] [L:68]
+	text "라디오로 포켓몬마치를 듣고 있으면"
+	line "평상시보다 더 포켓몬이 튀어나온다"
+	done
+	
+	
+UnknownText_0x19ceea:	;;No.01065 [D:0x0012DFDA] [L:25]
+	text "밤에는 위험이 가득하다!"
+	done
+	
+	
+UnknownText_0x19cf06:	;;No.01066 [D:0x0012DFF4] [L:14]
+	text "허허 이런이런"
+	done
+	
+UnknownText_0x19cf0f:	;;No.01067 [D:0x0012E003] [L:59]
+	text "밤은 밤이라서 즐거운 것이지"
+	line "그럼 그다지 무리는 하지 말거라"
+	done
+	
+	
+	
+	
+	
+UnknownText_0x19cf56:	;;No.01068 [D:0x0012E03F] [L:52]
+	text "강해보이는 포켓몬이군"
+	line "그렇다면 어디에 있던 안심이다"
+	done
+	
+	
+	
+	
+Route35SignText:	;;No.01069 [D:0x0012E074] [L:17]
+	text "이곳은 35번 도로"
+	done
+	

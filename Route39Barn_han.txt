@@ -1,0 +1,62 @@
+Text_MoomooIsSick:	
+	text "튼튼이가 힘이 없어……"
+	line "나무열매를 많이 먹이지 않으면……"
+	done
+	
+	
+	
+Text_WereFeedingMoomoo:	;No.01722 [D:0x00144CE8] [L:29]
+	text "튼튼이에게 먹이를 주고있어!"
+	done
+	
+	
+Text_WeakMoo:	;No.01723 [D:0x00144D06] [L:18]
+	text "밀탱크『…… 밀탱"
+	done
+	
+Text_ItsCryIsWeak:	;No.01724 [D:0x00144D19] [L:25]
+	text "울음소리에 힘이 없어……"
+	done
+	
+UnknownText_0x9cd92:	;No.01725 [D:0x00144D33] [L:18]
+	text "밀탱크『밀 탱-!"
+	done
+	
+Text_AskGiveBerry:	;No.01726 [D:0x00144D46] [L:35]
+	text "밀탱크에게 나무열매를 주겠습니까?"
+	done
+	
+	
+Text_GaveBerry:	;No.01727 [D:0x00144D6A] [L:30]
+	text "<PLAYER>"
+	db "는(은)"
+	line "나무열매를 먹였다!"
+	done
+	
+Text_LittleHealthier:	;No.01728 [D:0x00144D89] [L:32]
+	text "밀탱크는"
+	line "약간 건강을 되찾았다!"
+	done
+	
+Text_QuiteHealthy:	;No.01729 [D:0x00144DAA] [L:32]
+	text "밀탱크는"
+	line "거의 건강을 되찾았다!"
+	done
+	
+Text_TotallyHealthy:	;No.01730 [D:0x00144DCB] [L:27]
+	text "밀탱크는"
+	line "매우 건강해졌다!"
+	done
+	
+Text_NoBerries:	;No.01731 [D:0x00144DE7] [L:37]
+	text "<PLAYER>"
+	db"는(은)"
+	line "나무열매를 가지고있지 않다"
+	done
+	
+Text_RefusedToGiveBerry:	;No.01732 [D:0x00144E0D] [L:68]
+	text "<PLAYER>"
+	db "는(은) 나무열매를"
+	line "주지않았기에 밀탱크는"
+	cont "슬픈 눈빛을 하고있다……"
+	done

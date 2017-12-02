@@ -1,0 +1,33 @@
+UnknownText_0x58e4f:	
+	text "Patterns appeared"
+	line "on the walls…"
+	done
+	
+; possibly unused.. again?	
+UnknownText_0x58e70:	
+	text "It's UNOWN text!"
+	done
+	
+UnknownText_0x58e81:	
+	text "Patterns appeared"
+	line "on the walls…"
+	done
+	
+UnknownText_0x58ea2:
+	text "There's a big hole"
+	line "in the wall!"
+	done
+UnknownText_0x58ec2:	
+	text "오래전의 포켓몬을"
+	line "흉내내서 만들어진 포켓몬"
+	done
+	
+	
+UnknownText_0x58ee7:	
+	text "톱같이 생긴 이빨로"
+	line "사냥감을 덮치던 하늘의 포켓몬"
+	done
+	
+	
+	
+	

@@ -1,0 +1,20 @@
+UnknownText_0x7352c:	;No.02845 [D:0x0017A828] [L:70]
+	text "발전소에서 사고가"
+	line "있었던 것 같다"
+	
+	para "발전소는 반대편"
+	line "보라타운 쪽에 있단다"
+	done
+	
+	
+	
+UnknownText_0x73592:	;No.02846 [D:0x0017A86F] [L:56]
+	text "나는 성실한 경비원"
+	line "그건 포켓몬 도감이군"
+	cont "통과해도 좋다!"
+	done
+	
+	
+	
+	
+	

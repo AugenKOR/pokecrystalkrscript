@@ -1,0 +1,378 @@
+UnknownText_0x6add5:	
+	text "오늘은 @"
+	text_from_ram StringBuffer3
+	text "요일"
+	line "곤충채집 대회가 열립니다"
+	
+	para "룰은 간단!"
+	
+	para "소지한 포켓몬 1마리로"
+	line "강해보이는 벌레포켓몬을"
+	cont "잡을 수 있을까 경쟁하는겁니다"
+	
+	para "참가하겠습니까?"
+	done
+	
+	
+	
+	
+	
+	
+	
+	
+UnknownText_0x6ae87:	
+	text "대회에서 사용할"
+	line "전용볼을 받으세요!"
+	done
+	
+	
+UnknownText_0x6aeb1:	;No.02134 [D:0x0015AA5A] [L:33]
+	text "<PLAYER>"
+	db "는(은)"
+	line "파크볼을 20개 받았다!"
+	done
+	
+UnknownText_0x6aecc:	;No.02135 [D:0x0015AA7C] [L:206]
+	text "가장 강해보이는 포켓몬을"
+	line "잡은 사람이 우승입니다!"
+	
+	para "제한시간은 20분!"
+	
+	para "또한 파크볼이 전부 떨어지면"
+	line "종료입니다!"
+	
+	para "최종적으로 잡은 포켓몬은"
+	line "참가자의 것이 되겠습니다!"
+	
+	para "열심히 해서 강해보이는"
+	line "포켓몬을 잡아주세요!"
+	done
+	
+	
+	
+	
+	
+	
+	
+	
+	
+UnknownText_0x6afb0:	
+	text "엥?"
+	line "포켓몬이 한마리가 아니로군요!"
+
+	para "시합에 필요한 포켓몬……"
+	line "@"
+	text_from_ram StringBuffer3
+	text "(으)로"
+	cont "참가하기로 되겠습니다"
+	cont "괜찮겠습니까?"
+	done
+	
+	
+	
+	
+	
+	
+	
+UnknownText_0x6b021:	
+	text "그럼 남은 포켓몬은"
+	line "여기서 맡아놓겠습니다!"
+	done
+	
+	
+UnknownText_0x6b055:	;No.02138 [D:0x0015ABE7] [L:39]
+	text ""
+	db "<PLAYER>"
+	db "는(은) 관계자에게"
+	line "포켓몬을 맡겼다!"
+	done
+	
+	
+UnknownText_0x6b081:	;No.02139 [D:0x0015AC0F] [L:58]
+	text "대회에서 싸우게 할"
+	line "포켓몬을 정하고나서"
+	cont "다시 한번 와주세요"
+	done
+	
+	
+	
+UnknownText_0x6b0c6:	;No.02140 [D:0x0015AC4A] [L:38]
+	text "그렇습니까"
+	line "그럼 다음에 참가해주세요!"
+	done
+	
+	
+UnknownText_0x6b0f2:	;No.02141 [D:0x0015AC71] [L:73]
+	text "엥?"
+	line "참가할 포켓몬이"
+	cont "싸울 수 없어보이는군요"
+	
+	para "포켓몬을 바꾸고나서"
+	line "와주세요"
+	done
+	
+	
+	
+	
+	
+	
+UnknownText_0x6b166:	;No.02142 [D:0x0015ACBB] [L:130]
+	text "엥?"
+	line "소지품과 컴퓨터 박스도"
+	cont "가득인 것 같군요"
+	
+	para "그렇다면 벌레포켓몬을"
+	line "잡아도 지닐 수 없어요"
+	
+	para "소지품과 컴퓨터 박스를"
+	line "정리하고 와주세요"
+	done
+	
+	
+	
+	
+	
+	
+	
+UnknownText_0x6b209:	;No.02143 [D:0x0015AD3E] [L:61]
+	text "엥?"
+	line "맨 앞의 포켓몬이"
+	cont "알 같군요"
+	
+	para "포켓몬을 바꾸고나서"
+	line "와주세요"
+	done
+	
+	
+	
+	
+	
+	
+UnknownText_0x6b284:	
+	text "남은 시간은"
+	line "앞으로 @"
+	text_from_ram StringBuffer3
+	text "분입니다"
+	cont "벌써 끝내겠습니까?"
+	done
+	
+	
+	
+	
+	
+	
+UnknownText_0x6b2c5:	
+	text "그렇습니까"
+	line "그럼 여기서 결과발표를"
+	cont "기다려 주십시오"
+	done
+	
+	
+	
+UnknownText_0x6b300:	;No.02146 [D:0x0015ADE4] [L:50]
+	text "그렇습니까"
+	line "그럼 남은시간"
+	cont "더욱 분발하고 와주세요!"
+	done
+	
+UnknownText_0x6b32b:	;No.02147 [D:0x0015AE17] [L:52]
+	text "오늘의 콘테스트는"
+	line "끝났어요"
+	cont "다음에 다시 참가하세요!"
+	done
+	
+	
+	
+UnknownText_0x6b370:	;No.02148 [D:0x0015AE4C] [L:44]
+	text "공원에서만 발견할 수 있는"
+	line "포켓몬도 있단다!"
+	done
+	
+	
+UnknownText_0x6b399:	;No.02149 [D:0x0015AE79] [L:45]
+	text "미키『나를 패배시키다니……"
+	line "너 꽤 잘하는군!"
+	done
+	
+	
+UnknownText_0x6b3c4:	;No.02150 [D:0x0015AEA7] [L:47]
+	text "미키『포켓몬이 나올까 어떨까는"
+	line "운도 중요하단다"
+	done
+	
+	
+	
+	
+	
+UnknownText_0x6b40f:	;No.02151 [D:0x0015AED7] [L:39]
+	text "태민『움 부럽군"
+	line "이번에는 상태가 나빳어"
+	done
+	
+	
+UnknownText_0x6b440:	;No.02152 [D:0x0015AEFF] [L:42]
+	text "태민『혹시 커다란"
+	line "포켓몬이라면 우승일까?"
+	done
+	
+UnknownText_0x6b462:	;No.02153 [D:0x0015AF2A] [L:45]
+	text "켄『훌륭해!"
+	line "나도 포켓몬을 새롭게 키울꺼야!"
+	done
+	
+	
+UnknownText_0x6b496:	;No.02154 [D:0x0015AF58] [L:47]
+	text "켄『포켓몬의 색깔이"
+	line "희귀하면 포인트가 높아질까"
+	done
+	
+	
+	
+	
+UnknownText_0x6b4da:	;No.02155 [D:0x0015AF88] [L:45]
+	text "인명『네가 우승인가!"
+	line "어떤 포켓몬을 잡았느냐"
+	done
+	
+	
+UnknownText_0x6b50a:	;No.02156 [D:0x0015AFB6] [L:42]
+	text "인명『원하던 포켓몬을"
+	line "발견한다면 만족이지"
+	done
+	
+	
+	
+	
+UnknownText_0x6b54e:	;No.02157 [D:0x0015AFE1] [L:44]
+	text "정남『축하해!"
+	line "너에대해 존경을 할 것 같아!"
+	done
+	
+	
+UnknownText_0x6b57c:	;No.02158 [D:0x0015B00E] [L:51]
+	text "정남『요전에"
+	line "스라크를 잡았는데"
+	cont "우승을 못했었어……"
+	done
+	
+UnknownText_0x6b5b0:	;No.02159 [D:0x0015B042] [L:34]
+	text "웅일『네가 잡은"
+	line "포켓몬 멋있구나!"
+	done
+	
+	
+UnknownText_0x6b5dd:	;No.02160 [D:0x0015B065] [L:73]
+	text "웅일『레벨이 높으면"
+	line "우승하기 쉬울텐데……"
+	cont "그밖에도 포인트가 있는 것 같아"
+	done
+	
+	
+	
+	
+	
+	
+	
+UnknownText_0x6b64b:	;No.02161 [D:0x0015B0AF] [L:80]
+	text "미지『네가 우승!?"
+	line "대단하네!!"
+	
+	para "다음번에 함께 벌레포켓몬을"
+	line "잡으러가지 않을래?"
+	done
+	
+	
+UnknownText_0x6b698:	;No.02162 [D:0x0015B100] [L:38]
+	text "미지『난 벌레포켓몬을"
+	line "제일 좋아한단다"
+	done
+	
+UnknownText_0x6b6b8:	;No.02163 [D:0x0015B127] [L:43]
+	text "희주『벌레포켓몬 잡기에"
+	line "이 내가 지다니……"
+	done
+	
+	
+UnknownText_0x6b6e9:	;No.02164 [D:0x0015B153] [L:42]
+	text "희주『캐터피로"
+	line "우승한 사람이 있다고한다!"
+	done
+	
+	
+UnknownText_0x6b71b:	;No.02165 [D:0x0015B17E] [L:31]
+	text "동석『다음번엔 내가 이길꺼야!"
+	done
+	
+	
+UnknownText_0x6b740:	;No.02166 [D:0x0015B19E] [L:44]
+	text "동석『움 더 많이"
+	line "포인트가 높다고 생각했는데"
+	done
+	
+	
+UnknownText_0x6b76f:	;No.02167 [D:0x0015B1CB] [L:44]
+	text "지선『꼭 비법을 가르쳐줘!"
+	line "공부하고싶걸랑!"
+	done
+	
+	
+	
+	
+UnknownText_0x6b7af:	;No.02168 [D:0x0015B1F8] [L:56]
+	text "지선『공부하고는 있지만……"
+	line "그것만으로는 이길 수 없겠지"
+	done
+	
+	
+	
+	
+UnusedSudowoodoText:	;No.02169 [D:0x0015B231] [L:95]
+	text "커다란 나무와 같은 모습의"
+	line "포켓몬이 어딘가에 있다고한다"
+	
+	para "실프 스코프2가 있다면"
+	line "정체를 알 수 있데"
+	done
+	
+	
+	
+UnknownText_0x6b84c:	;No.02170 [D:0x0015B291] [L:123]
+	text "곤충채집 대회가"
+	line "열리는 것은……"
+	cont "화요일 목요일 토요일"
+	
+	para "참가상을 받는 것은 물론이고"
+	line "잡은 벌레포켓몬을"
+	cont "자기가 가질 수 있습니다"
+	done
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+UnknownText_0x6b910:	;No.02171 [D:0x0015B30D] [L:89]
+	text "오잉?"
+	line "짐이 가득찬 것 같군요."
+	
+	para "오늘 가져갈 수 없다면"
+	line "맡아두겠으니"
+	cont "짐을 정리하고 와주세요"
+	done
+	
+	
+	
+	
+UnknownText_0x6b97f:	;No.02172 [D:0x0015B367] [L:35]
+	text "<PLAYER>"
+	db "씨죠?"
+	
+	para "여기"
+	line "맡아두었던 상품입니다"
+	done
+	

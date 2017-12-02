@@ -1,0 +1,25 @@
+UnknownText_0x69a36:	
+	text "보고 만질 수 있는"
+	line "알프의 유적 관광!"
+	
+	para "움직일 수 있는 돌 아래를"
+	line "꼭 손으로 만져봐 주세요"
+	done
+	
+	
+	
+UnknownText_0x69a81:	;No.02079 [D:0x00159865] [L:43]
+	text "옷 유적의 공부인가?"
+	line "장래희망은 박사로군!"
+	done
+	
+	
+	
+	
+UnknownText_0x69abd:	;No.02080 [D:0x00159891] [L:63]
+	text "돌 아래에 그림이 그려져 있다!"
+	line "움직여 보았지만 그건 무엇일까?"
+	done
+	
+	
+	

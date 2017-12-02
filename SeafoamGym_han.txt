@@ -1,0 +1,96 @@
+UnknownText_0x1ab548:	;No.01879 [D:0x0014D0EE] [L:257]
+	text "강연『우오오-옷!"
+	
+	para "홍련에 있던 내 체육관이"
+	line "사라져버렸다!"
+	
+	para "불꽃 포켓몬을 조종하는"
+	line "내 체육관이"
+	cont "화산에 타버렸어!"
+	
+	para "우오오-옷!"
+	
+	para "그러나 나는 이 동굴에서"
+	line "체육관 관장일을 계속하고 있다!"
+	
+	para "나를 쓰러뜨리면"
+	line "배지를 건네주마!"
+	
+	para "우오오-옷!"
+	line "화상 치료제는 잘 준비했는가!"
+	done
+	
+	
+	
+	
+	
+	
+	
+UnknownText_0x1ab646:	;No.01880 [D:0x0014D1F0] [L:61]
+	text "강연『후 …… 훌륭해!"
+	line "내가 졌다……!"
+	
+	para "진홍색배지를 받아라!"
+	done
+	
+	
+UnknownText_0x1ab683:	;No.01881 [D:0x0014D22E] [L:45]
+	text ""
+	db "<PLAYER>"
+	db "는(은) 강연으로부터"
+	line "진홍색배지를 얻었다!"
+	done
+	
+UnknownText_0x1ab69d:	;No.01882 [D:0x0014D25C] [L:98]
+	text "강연『이번엔 내가 졌지만"
+	line "홍련마을 체육관을 고쳐서"
+	cont "다음에는 꼭 이기겠다!"
+	cont "언젠가 다시한번 겨루자!"
+	done
+	
+	
+	
+	
+	
+	
+	
+	
+UnknownText_0x1ab71c:	;No.01883 [D:0x0014D2BF] [L:41]
+	text "강연『내 불꽃 포켓몬을"
+	line "파워업 시키겠어!"
+	done
+	
+	
+	
+	
+SeafoamGymGuyWinText:	;No.01884 [D:0x0014D2E9] [L:153]
+	text "어-이!"
+	
+	para "…… 엥?"
+	line "끝난 것 같구나"
+	
+	para "미안 미안!"
+	line "홍련섬의 체육관이 없어져서"
+	cont "찾고있었어 나!"
+	
+	para "뭐 내 어드바이스 없이도"
+	line "엄청 강해보이니까"
+	cont "이긴다고 믿고있었어!"
+	done
+	
+	
+	
+	
+	
+	
+	
+SeafoamGymGuyWinText2:	;No.01885 [D:0x0014D383] [L:68]
+	text "체육관 관장이 있다면"
+	line "그곳이 포켓몬 체육관"
+	cont "건물같은 것은 관계 없단다"
+	done
+	
+	
+	
+	
+	

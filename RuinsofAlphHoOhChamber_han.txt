@@ -1,0 +1,34 @@
+
+UnknownText_0x58612:
+	text "Patterns appeared"
+	line "on the walls…"
+	done
+
+; possibly unused
+UnknownText_0x58633:
+	text "It's UNOWN text!"
+	done
+
+UnknownText_0x58644:
+	text "Patterns appeared"
+	line "on the walls…"
+	done
+
+UnknownText_0x58665:
+	text "There's a big hole"
+	line "in the wall!"
+	done
+
+UnknownText_0x58685:
+	text "It's a replica of"
+	line "an ancient #-"
+	cont "MON."
+	done
+
+UnknownText_0x586aa:
+	text "A #MON that"
+	line "flew gracefully on"
+
+	para "rainbow-colored"
+	line "wings."
+	done

@@ -1,0 +1,15 @@
+UnknownText_0x7362c:	;No.02847 [D:0x0017A8F4] [L:38]
+	text "자전거 길"
+	line "여기서부터는 오르막길입니다"
+	done
+	
+UnknownText_0x7364d:	;No.02848 [D:0x0017A91B] [L:97]
+	text "아- 이봐 너!"
+	line "자전거 가지고 있지 않니?"
+	
+	para "여기부터는"
+	line "자전거 길!"
+	cont "자전거가 없으면 달릴 수 없단다!"
+	done
+	
+	

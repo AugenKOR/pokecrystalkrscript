@@ -1,0 +1,4 @@
+CyclingRoadSignText:	
+	text "비탈길을 즐기자!"
+	line "자전거 길!"
+	done

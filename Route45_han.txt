@@ -1,0 +1,217 @@
+HikerErikSeenText:	
+	text "대비해 놓으면 근심은 없다"
+	line "포켓몬을 단련시켰는지 보겠다!"
+	done
+	
+	
+	
+	
+	
+HikerErikBeatenText:	;;No.01279 [D:0x00134F97] [L:10]
+	text "우웃 졌다"
+	done
+	
+UnknownText_0x19e301:	;;No.01280 [D:0x00134FA2] [L:51]
+	text "검은먹시티의 얼음샛길로"
+	line "돌아가서 새로 단련시켜볼까"
+	done
+	
+	
+	
+	
+HikerMichaelSeenText:	;;No.01281 [D:0x00134FD6] [L:66]
+	text "오웃! 힘이 넘치는 것 같군"
+	line "하지만 힘이라면"
+	cont "아저씨도 지지 않는다!"
+	done
+	
+	
+	
+	
+HikerMichaelBeatenText:	;;No.01282 [D:0x00135019] [L:44]
+	text "아저씨는 지지 않았지만"
+	line "포켓몬의 힘이 없었다"
+	done
+	
+UnknownText_0x19e3b1:	;;No.01283 [D:0x00135046] [L:77]
+	text "아저씨의 대응물은"
+	line "맥스 업!"
+	
+	para "맛있으니까 나도모르게"
+	line "포켓몬의 몫도 마셔버린단다"
+	done
+	
+	
+	
+HikerParry3SeenText:	;;No.01284 [D:0x00135094] [L:28]
+	text "내 포켓몬은"
+	line "힘이 자랑이다!"
+	done
+	
+HikerParry3BeatenText:	;;No.01285 [D:0x001350B1] [L:23]
+	text "와하핫"
+	line "아저씨가 졌다!"
+	done
+	
+UnknownText_0x19e434:	;;No.01286 [D:0x001350C9] [L:60]
+	text "생각하는 것은 소질이 없어서"
+	line "아무튼 골치가 지끈지끈 아프단다"
+	done
+	
+	
+	
+	
+HikerTimothySeenText:	;;No.01287 [D:0x00135106] [L:105]
+	text "어째서 산을 오르는가"
+	line "…… 그곳에 산이 있기 때문이다"
+	
+	para "어째서 포켓몬을 하는가"
+	line "그건 포켓몬이 있기 때문이다!"
+	done
+	
+	
+	
+	
+	
+	
+	
+HikerTimothyBeatenText:	;;No.01288 [D:0x00135170] [L:23]
+	text "그것에 패배가 있었다!"
+	done
+	
+	
+UnknownText_0x19e4f1:	;;No.01289 [D:0x00135188] [L:51]
+	text "인생 최고의 기쁨"
+	line "그것은 포켓몬과 만났다는 것이다!"
+	done
+	
+	
+	
+	
+UnknownText_0x19e52c:	
+	text "I just can't find"
+	line "a way to win!"
+	
+	para "Keep it up!"
+	
+	para "Oh, and take this"
+	line "--it's the gift"
+	
+	para "you couldn't take"
+	line "when we last met."
+	done
+	
+BlackbeltKenji3SeenText:	
+	text "여기서 혼자"
+	line "수행을 하고있었다……"
+	
+	para "그 성과를 보여주겠다!"
+	done
+	
+	
+BlackbeltKenji3BeatenText:	;;No.01291 [D:0x001351F6] [L:11]
+	text "이야-앗!"
+	done
+	
+UnknownText_0x19e5e2:	;;No.01292 [D:0x00135202] [L:46]
+	text "눈썹을 깎고"
+	line "산중에 틀어박히지 않으면 안되는가"
+	done
+	
+	
+	
+	
+	
+UnknownText_0x19e634:	
+	text "I'm going to train"
+	line "a bit more before"
+	cont "I break for lunch."
+	done
+	
+UnknownText_0x19e66c:	
+	text "We had plenty of"
+	line "rest at lunch, so"
+	
+	para "now we're all"
+	line "ready to go again!"
+	
+	para "We're going to"
+	line "train again!"
+	done
+	
+CooltrainermRyanSeenText:	
+	text "너는 어떤 생각으로"
+	line "포켓몬을 키우고 있느냐?"
+	done
+	
+	
+CooltrainermRyanBeatenText:	;;No.01294 [D:0x0013525E] [L:14]
+	text "역시 대단하군"
+	done
+	
+	
+UnknownText_0x19e70d:	;;No.01295 [D:0x0013526D] [L:84]
+	text "소중하게 포켓몬을 돌보고 있구나"
+	
+	para "그러한 정이란 것이"
+	line "언젠가 때가 되면 중요하게 된단다"
+	done
+	
+	
+	
+	
+CooltrainerfKellySeenText:	;;No.01296 [D:0x001352C2] [L:99]
+	text "포켓몬으로 싸울 때"
+	line "너 뭔가 생각하고 있니?"
+	
+	para "앞뒤 생각않고 강한 기술을"
+	line "명령하는 것만으로는 안 된단다"
+	done
+	
+	
+CooltrainerfKellyBeatenText:	;;No.01297 [D:0x00135326] [L:19]
+	text "…… 나의 패배로군"
+	done
+	
+UnknownText_0x19e7d1:	;;No.01298 [D:0x0013533A] [L:112]
+	text "그렇군 그다지 강력한"
+	line "기술은 바라지도 않아"
+	
+	para "승부에서는 이기고싶지만"
+	line "별로 포켓몬에게 상처를 입히고"
+	cont "싶지는 않으니까"
+	done
+	
+	
+UnknownText_0x19e830:	
+	text "I'm really, really"
+	line "tough!"
+	
+	para "Is there anywhere"
+	line "I can prove how"
+	cont "tough I really am?"
+	done
+	
+UnknownText_0x19e87f:	
+	text "I'm really, really"
+	line "tough!"
+	done
+	
+UnknownText_0x19e899:	
+	text "I was tough at the"
+	line "BATTLE TOWER…"
+	done
+	
+UnknownText_0x19e8bb:	
+	text "Have you been to"
+	line "the BATTLE TOWER?"
+	
+	para "I never, ever lose"
+	line "there, but…"
+	done
+	
+Route45SignText:	
+	text "이곳은 45번 도로"
+	line "이 앞은 마운틴 로드"
+	done
+	

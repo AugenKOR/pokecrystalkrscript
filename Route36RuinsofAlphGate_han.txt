@@ -1,0 +1,12 @@
+UnknownText_0x6aa20:	
+	text "도대체 누가 무엇을 위하여"
+	line "이런 것을 만들었을까?"
+	done
+	
+	
+	
+UnknownText_0x6aa5b:	;No.02131 [D:0x0015A649] [L:77]
+	text "도로에 이상한 나무가 있었지"
+	line "그때문인가 모르겠지만"
+	cont "유적에도 손님이 줄어들었다"
+	done

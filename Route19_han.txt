@@ -1,0 +1,124 @@
+SwimmermHaroldSeenText:	
+	text "어두워 지고나서부터"
+	line "바다에서 수영한 적 있니?"
+	done
+	
+	
+SwimmermHaroldBeatenText:	
+	text "어푸-!"
+	done
+	
+UnknownText_0x19eab4:	
+	text "밤이 되면 바다가 깜깜해져서"
+	line "빨려들 것 같은 기분이 든단다!"
+	done
+	
+	
+	
+	
+SwimmermTuckerSeenText:	
+	text "영차영차……"
+	line "연분홍시티까지……"
+	cont "으싸으싸…… 조금만 더……"
+	done
+	
+	
+	
+SwimmermTuckerBeatenText:	
+	text "빠 빠져 죽겠어!"
+	done
+	
+UnknownText_0x19eb3b:	
+	text "애인에게 연분홍시티까지"
+	line "헤엄치자고 말했단다……"
+	cont "영차영차……"
+	done
+	
+SwimmerfDawnSeenText:	
+	text "나는 단정하지 못한 사람"
+	line "싫어한단다!"
+	done
+	
+SwimmerfDawnBeatenText:	
+	text "수영이라면 이길 수 있는데……"
+	done
+	
+	
+UnknownText_0x19ebad:	
+	text "연분홍시티와 쌍둥이섬을"
+	line "왕복할 정도로……"
+	cont "힘을 내라! 사나이니까!"
+	done
+	
+	
+	
+	
+	
+	
+	
+	
+SwimmermJeromeSeenText:	
+	text "수영……?"
+	line "특기가 아니야"
+	cont "얕은 곳에서 미역감는 중이야"
+	done
+	
+	
+	
+	
+SwimmermJeromeBeatenText:	
+	text "이길 수 있다고 생각했는데……!"
+	done
+	
+	
+UnknownText_0x19ec7e:	
+	text "수영을 잘 못해도"
+	line "바다는 매우 좋아한다구!"
+	done
+	
+	
+UnknownText_0x19ecaf:	
+	text "이곳은 공사중이라 지나갈 수 없다"
+	line "홍련마을에는 태초마을"
+	cont "쪽으로 돌아서 가거라"
+	done
+	
+	
+	
+	
+	
+	
+	
+UnknownText_0x19ed24:	
+	text "땀을 흠뻑 흘리고"
+	line "헤엄이나 한번 쳐볼까!"
+	done
+	
+Route19FisherText1:	
+	text "이 바위를 치우는데"
+	line "얼마나 걸릴까……"
+	done
+	
+	
+Route19FisherText2:	
+	text "드디어 공사가 끝났단다!"
+	
+	para "이것으로 낚시하러 갈 수 있단다!"
+	done
+	
+	
+	
+Route19SignText:	
+	text "이곳은 19번 터널"
+	line "연분홍시티 …… 쌍둥이섬"
+	done
+	
+	
+	
+CarefulSwimmingSignText:	
+	text "헤엄쳐서 쌍둥이섬에 가는 사람은"
+	line "반드시 주의해주십시오!"
+	
+	para "……연분홍시티 경찰서 "
+	done
+	

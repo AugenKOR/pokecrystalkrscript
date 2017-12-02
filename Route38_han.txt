@@ -1,0 +1,150 @@
+Bird_keeperTobySeenText:	
+	text "크게 위세를 떨치는"
+	line "나의 새포켓몬"
+	done
+	
+	
+Bird_keeperTobyBeatenText:	;;No.01118 [D:0x001305E5] [L:50]
+	text "이대로 새포켓몬을 타고"
+	line "어딘가에 가고싶은 기분이야"
+	done
+	
+UnknownText_0x1a1f86:	;;No.01119 [D:0x00130618] [L:76]
+	text "포켓몬에게 공중날기 기술을"
+	line "가르치기위해 진청시티로"
+	cont "수행을 하러갈 작정이야!"
+	done
+	
+	
+	
+SchoolboyChad1SeenText:	;;No.01120 [D:0x00130665] [L:36]
+	text "이제 곧 오늘 공부한 것을"
+	line "확인해볼까"
+	done
+	
+	
+SchoolboyChad1BeatenText:	;;No.01121 [D:0x0013068A] [L:45]
+	text "얼라리? 이상하네"
+	line "아직도 공부가 부족한건가?"
+	done
+	
+UnknownText_0x1a200e:	;;No.01122 [D:0x001306B8] [L:103]
+	text "늘상은 시험만 봐서"
+	line "그다지 포켓몬을 하지않았다"
+	
+	para "그래서 포켓몬을 할 수 있을 때"
+	line "엄청나게 집중을 하고있지!"
+	done
+	
+	
+	
+	
+	
+LassDana1SeenText:	
+	text "You seem to be"
+	line "good at #MON."
+	
+	para "If you are, how"
+	line "about giving me"
+	cont "some advice?"
+	done
+	
+LassDana1BeatenText:	
+	text "역시 그렇군"
+	line "그런 싸움법이 있었구나"
+	done
+	
+UnknownText_0x1a20ec:	;;No.01125 [D:0x00130785] [L:63]
+	text "나도 좋은 것을 가르쳐줄께"
+	
+	para "튼튼 목장의 우유가"
+	line "맛있다는 소문이야"
+	done
+	
+	
+	
+BeautyValerieSeenText:	;;No.01126 [D:0x001307C5] [L:69]
+	text "아항-"
+	line "귀여운 트레이너씨"
+	
+	para "어떤 포켓몬을 가지고 있나"
+	line "보여주지 않겠니?"
+	done
+	
+BeautyValerieBeatenText:	;;No.01127 [D:0x0013080B] [L:32]
+	text "여러 포켓몬"
+	line "볼 수 있어서 행복해"
+	done
+	
+UnknownText_0x1a2185:	;;No.01128 [D:0x0013082C] [L:54]
+	text "포켓몬을 보고있으면"
+	line "차분해진다고 할까"
+	cont "마음이 진정되지"
+	done
+	
+SailorHarrySeenText:	;;No.01129 [D:0x00130863] [L:48]
+	text "나는 외국을 돌아다녀서"
+	line "여러 포켓몬을 알고있지!"
+	done
+	
+	
+	
+	
+SailorHarryBeatenText:	;;No.01130 [D:0x00130894] [L:31]
+	text "그 강함"
+	line "틀림없이 세계적인 수준"
+	done
+	
+UnknownText_0x1a220c:	;;No.01131 [D:0x001308B4] [L:57]
+	text "여러 나라에서"
+	line "여러 사람이"
+	cont "포켓몬과 사이좋게 지내고있단다"
+	done
+	
+	
+	
+BeautyOliviaSeenText:	
+	text "Don't you think my"
+	line "#MON and I are"
+	cont "beautiful?"
+	done
+	
+BeautyOliviaBeatenText:	
+	text "We drink MOOMOO"
+	line "MILK every day."
+	done
+	
+UnknownText_0x1a229a:	
+	text "MOOMOO MILK is"
+	line "good for beauty"
+	
+	para "and health, but"
+	line "inconveniently,"
+	
+	para "they only sell a"
+	line "bottle at a time."
+	done
+	
+Route38SignText:	
+	text "이곳은 38번 도로"
+	line "담청시티 …… 인주시티"
+	done
+	
+	
+	
+Route38TrainerTipsText:	;;No.01133 [D:0x00130917] [L:115]
+	text "득이 되는 게시판!"
+	
+	para "포켓몬이 진화할 것 같은 때"
+	line "B버튼을 누르면"
+	cont "놀라서 진화를 멈춥니다"
+	cont "이것을 진화캔슬이라고 말합니다"
+	done
+	
+	
+	
+	
+	
+	
+	
+	

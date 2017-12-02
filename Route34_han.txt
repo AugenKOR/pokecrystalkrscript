@@ -1,0 +1,253 @@
+YoungsterSamuelSeenText:	
+	text "이 근처는 나의"
+	line "연습 장소란다!"
+	done
+	
+YoungsterSamuelBeatenText:	
+	text "Beaten by a"
+	line "passing stranger!"
+	done
+	
+YoungsterSamuelMobileText:	
+	text "Have you been to"
+	line "GOLDENROD CITY?"
+	
+	para "Weren't you amazed"
+	line "by how they've"
+	
+	para "changed the"
+	line "#MON CENTER?"
+	done
+	
+YoungsterSamuelAfterText:	
+	text "연습으로도 안 된다면 특훈이다!"
+	line "어떻게되던 나의 목표는"
+	cont "체육관 관장이니까!"
+	done
+	
+	
+	
+	
+YoungsterIanSeenText:	;;No.01000 [D:0x0012D2F6] [L:35]
+	text "나는 반에서 제일"
+	line "포켓몬이 강하다!"
+	done
+	
+YoungsterIanBeatenText:	;;No.01001 [D:0x0012D31A] [L:49]
+	text "에고고……뛰는놈 위에"
+	line "나는놈이 있다는 것인가……"
+	done
+	
+YoungsterIanAfterText:	;;No.01002 [D:0x0012D34C] [L:45]
+	text "반에서 자랑하기위해"
+	line "여러가지 노력을 하고있어"
+	done
+	
+	
+CamperTodd1SeenText:	;;No.01003 [D:0x0012D37A] [L:48]
+	text "포켓몬을 키우는데 자신이 있다구"
+	line "잠시 승부할래?"
+	done
+	
+	
+	
+	
+CamperTodd1BeatenText:	
+	text "Did I screw up my"
+	line "training?"
+	done
+	
+CamperTodd1AfterText:	
+	text "Maybe I should"
+	line "take one to a DAY-"
+	
+	para "CARE. Or maybe use"
+	line "some items…"
+	done
+	
+CamperToddSaleText:	
+	text "Shopping under the"
+	line "sky!"
+	
+	para "It feels so nice"
+	line "up on a rooftop."
+	done
+	
+PicnickerGina1SeenText:	
+	text "너 포켓몬 트레이너니?"
+	line "그럼 연습상대가 되어줘!"
+	done
+	
+	
+	
+PicnickerGina1BeatenText:	;;No.01007 [D:0x0012D426] [L:31]
+	text "이런!"
+	line "절대로 이길 수 없구나!"
+	done
+	
+PicnickerGina1AfterText:	;;No.01008 [D:0x0012D446] [L:45]
+	text "너는 너무 강해서"
+	line "연습에 도움이 되지 않겠어!"
+	done
+	
+	
+OfficerKeithSeenText:	;;No.01009 [D:0x0012D474] [L:29]
+	text "이봐 너"
+	line "거기서 뭘 하고있니?"
+	done
+	
+	
+OfficerKeithWinText:	
+	text "강한 아이로군!"
+	done
+	
+	
+OfficerKeithAfterText:	
+	text "순찰은 이상 없음!"
+	line "너도 조심하거라"
+	done
+	
+	
+	
+	
+OfficerKeithDaytimeText:	;;No.01012 [D:0x0012D4C9] [L:37]
+	text "이상한 인간이 없나"
+	line "순찰하고 있습니다"
+	done
+	
+	
+PokefanmBrandonSeenText:	;;No.01013 [D:0x0012D4EF] [L:71]
+	text "보모로부터"
+	line "돌려 받은지 얼마되지 않은 포켓몬"
+	cont "얼마나 강해졌는가 보겠어!"
+	done
+	
+	
+	
+	
+PokefanmBrandonBeatenText:	;;No.01014 [D:0x0012D537] [L:23]
+	text "왜 이렇게 되는걸까!?"
+	done
+	
+	
+PokefanmBrandonAfterText:	;;No.01015 [D:0x0012D54F] [L:67]
+	text "포켓몬 언제부턴가"
+	line "모르는 기술을 배웠기때문에"
+	cont "내가 갈피를 못 잡았다"
+	done
+	
+	
+	
+	
+CooltrainerfIreneSeenText:	;;No.01016 [D:0x0012D593] [L:31]
+	text "마리사『꺄앗!"
+	line "남자애가 왔어!"
+	done
+	
+CooltrainerfIreneBeatenText:	
+	text "마리사『아-앙 강하구나!"
+	done
+	done
+	
+CooltrainerfIreneAfterText1:	
+	text "마리사『마리아 언니에게"
+	line "복수를 해달라고 할꺼야!"
+	done
+	
+	
+CooltrainerfIreneAfterText2:	;;No.01019 [D:0x0012D600] [L:52]
+	text "마리사『아름다운 모래펄이지?"
+	line "우리들의 비밀장소야!"
+	done
+	
+	
+	
+	
+CooltrainerfJennSeenText:	;;No.01020 [D:0x0012D635] [L:40]
+	text "고움『잘도 이겼구나!"
+	line "마리사의 복수닷!"
+	done
+	
+	
+CooltrainerfJennBeatenText:	;;No.01021 [D:0x0012D65E] [L:31]
+	text "고움『미안해요"
+	line "마리사! 언니!"
+	done
+	
+CooltrainerfJennAfterText1:	;;No.01022 [D:0x0012D67E] [L:61]
+	text "고움『방심하지 말았어야 했는데"
+	line "마리아 언니는 무척 강하단다!"
+	done
+	
+	
+CooltrainerfJennAfterText2:	;;No.01023 [D:0x0012D6BC] [L:43]
+	text "고움『햇님의 햇살은"
+	line "몸을 튼튼하게 한단다!"
+	done
+	
+	
+CooltrainerfKateSeenText:	;;No.01024 [D:0x0012D6E8] [L:42]
+	text "마리아『여동생들을"
+	line "잘도 귀여워 해줬구나!"
+	done
+	
+	
+CooltrainerfKateBeatenText:	;;No.01025 [D:0x0012D713] [L:22]
+	text "마리아『내가"
+	line "지다니!"
+	done
+	
+CooltrainerfKateOfferSoftSandText:	;;No.01026 [D:0x0012D72A] [L:49]
+	text "마리아『강하구나"
+	line "졌다 완벽하게……"
+	
+	para "이것을 줄께!"
+	done
+	
+	
+	
+CooltrainerfKateAfterText:	;;No.01027 [D:0x0012D75C] [L:80]
+	text "마리아『미안해"
+	line "갑자기 싸움을 걸어서"
+	
+	para "아무도 오지 않을꺼라 생각해서"
+	line "무척 놀랬거든"
+	done
+	
+	
+	
+	
+MapRoute34UnusedSignpostText:	;;No.01028 [D:0x0012D7AD] [L:34]
+	text "게이트를 빠져나오면 너도밤나무 숲"
+	done
+	
+	
+Route34SignText:	;;No.01029 [D:0x0012D7D0] [L:61]
+	text "이곳은 34번 도로"
+	line "금빛시티 …… 고동마을"
+	cont "도중의 너도밤나무 숲"
+	done
+	
+	
+	
+	
+	
+Route34TrainerTipsText:	;;No.01030 [D:0x0012D80E] [L:115]
+	text "득이 되는 게시판!"
+	
+	para "열매나무는 하루가 지나면"
+	line "새로운 나무열매가 열립니다"
+	
+	para "어디에 무엇이 있는지"
+	line "기억해두고 또 옵시다!"
+	done
+	
+	
+	
+DayCareSignText:	
+	;;No.01031 [D:0x0012D882] [L:44]
+	text "이곳은 보모의 집"
+	line "당신의 포켓몬을 돌봐줍니다"
+	done
+	
+	

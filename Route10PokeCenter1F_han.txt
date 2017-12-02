@@ -1,0 +1,40 @@
+UnknownText_0x188bf1:	;No.01940 [D:0x00150AA6] [L:41]
+	text "동굴 가까이 있는"
+	line "포켓몬 센터는 참 기쁘지"
+	done
+	
+	
+	
+	
+UnknownText_0x188c26:	;No.01941 [D:0x00150AD0] [L:94]
+	text "발전소의 소장이"
+	line "강한 트레이너를 찾고 있어"
+	
+	para "도둑에게 도둑맞은 물건을"
+	line "찾아와 주길 바라는 것 같아"
+	done
+	
+	
+	
+	
+	
+	
+	
+UnknownText_0x188c9e:	;No.01942 [D:0x00150B2F] [L:87]
+	text "그러고보니 로켓단이"
+	line "성도에서 부활했다고 하더군"
+	cont "이미 망해버린 것 같지만"
+	
+	para "전혀 몰랐었어!"
+	done
+	
+	
+	
+	
+UnknownText_0x188d0c:	;No.01943 [D:0x00150B87] [L:72]
+	text "건물의 지붕이 있는 것이"
+	line "밖으로 나오는 것처럼 보이지?"
+	cont "저기가 발전소야!"
+	done
+	
+	

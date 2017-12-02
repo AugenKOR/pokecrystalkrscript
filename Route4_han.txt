@@ -1,0 +1,69 @@
+Bird_keeperHankSeenText:	
+	text "I'm raising my"
+	line "#MON. Want to"
+	cont "battle with me?"
+	done
+	
+Bird_keeperHankBeatenText:	
+	text "Ack! I lost that"
+	line "one…"
+	done
+	
+UnknownText_0x1ae258:	
+	text "If you have a"
+	line "specific #MON"
+	
+	para "that you want to"
+	line "raise, put it out"
+	
+	para "first, then switch"
+	line "it right away."
+	
+	para "That's how to do"
+	line "it."
+	done
+	
+PicnickerHopeSeenText:	
+	text "어쩐지 이길 것 같은 기분"
+	line "나랑 대전하자!"
+	done
+	
+	
+	
+	
+PicnickerHopeBeatenText:	;;No.01662 [D:0x001412A0] [L:20]
+	text "강하구나 역시……!"
+	done
+	
+	
+UnknownText_0x1ae320:	;;No.01663 [D:0x001412B5] [L:62]
+	text "달맞이 산에 삐삐가"
+	line "모습을 나타낸다고 들었는데"
+	cont "어디에 있을까?"
+	done
+	
+	
+	
+PicnickerSharonSeenText:	;;No.01664 [D:0x001412F4] [L:16]
+	text "저기……"
+	line "나……"
+	done
+	
+PicnickerSharonBeatenText:	;;No.01665 [D:0x00141305] [L:15]
+	text "…… …… ……"
+	done
+	
+UnknownText_0x1ae369:	;;No.01666 [D:0x00141315] [L:50]
+	text "…… …… ……"
+	
+	para "…… 조금 더"
+	line "수행해 보겠습니다……"
+	done
+	
+MtMoonSquareSignText:	;;No.01667 [D:0x00141348] [L:38]
+	text "달맞이 산 광장"
+	line "……계단을 올라 바로!"
+	done
+	
+	
+	

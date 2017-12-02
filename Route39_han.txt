@@ -1,0 +1,161 @@
+Route39MiltankText:	
+	text "MILTANK: Mooo!"
+	done
+	
+SailorEugeneSeenText:	
+	text "I just got back to"
+	line "OLIVINE."
+	
+	para "So how about a"
+	line "#MON battle?"
+	done
+	
+SailorEugeneBeatenText:	
+	text "Awaaargh!"
+	done
+	
+UnknownText_0x1a5c4d:	
+	text "내 포켓몬"
+	line "외국에서 잡아서 키웠단다"
+	cont "오랜 선상생활의 소중한 녀석이지!"
+	done
+	
+	
+	
+	
+	
+PokefanmDerek1SeenText:	
+	text "This is a good"
+	line "time to brag about"
+	cont "my PIKACHU!"
+	done
+	
+PokefanmDerek1BeatenText:	
+	text "I had no time to"
+	line "show off PIKACHU…"
+	done
+	
+UnknownText_0x1a5cf8:	
+	text "사람의 자랑꺼리는 듣지않는다!"
+	line "왜냐면 그것이"
+	cont "애호가 클럽의 규칙!"
+	done
+	
+	
+	
+	
+	
+	
+PokefanfRuthSeenText:	;;No.01143 [D:0x00130BEE] [L:39]
+	text "너 귀여운 포켓몬을"
+	line "보여주지 않으려고?"
+	done
+	
+	
+	
+	
+	
+PokefanfRuthBeatenText:	;;No.01144 [D:0x00130C16] [L:16]
+	text "졌어도 괜찮아요"
+	done
+	
+	
+UnknownText_0x1a5db2:	;;No.01145 [D:0x00130C27] [L:71]
+	text "당신은 포켓몬의"
+	line "아기라는 것을 알고 있나요?"
+	cont "틀림없이 매우 귀여울꺼예요"
+	done
+	
+	
+	
+UnknownText_0x1a5dec:	
+	text "PIKACHU is it!"
+	line "Don't you agree?"
+	done
+	
+PsychicNormanSeenText:	
+	text "너의 포켓몬"
+	line "무엇을 할 수 있나 보여줘!"
+	done
+	
+	
+PsychicNormanBeatenText:	;;No.01147 [D:0x00130C97] [L:47]
+	text "좋구나 너의 포켓몬"
+	line "좋은 가능성을 가지고 있구나"
+	done
+	
+UnknownText_0x1a5e57:	;;No.01148 [D:0x00130CC7] [L:82]
+	text "포켓몬은 여러가지"
+	line "능력을 지니고있지"
+	
+	para "그것처럼 사람도"
+	line "여러 가능성을 가지고 있는거야"
+	done
+	
+	
+	
+	
+UnknownText_0x1a5ec4:	
+	text "Ufufufu… I hope it"
+	line "gets dark soon."
+	done
+	
+UnknownText_0x1a5ee8:	
+	text "You came at just"
+	line "the right time."
+	
+	para "Let's battle."
+	done
+	
+UnknownText_0x1a5f17:	
+	text "Oh, how disap-"
+	line "pointing…"
+	done
+	
+UnknownText_0x1a5f31:	
+	text "I met my MEOWTH at"
+	line "night, right here"
+	cont "on ROUTE 39."
+	
+	para "I'm not sure why,"
+	line "but it seems to"
+	
+	para "like it when I"
+	line "train here."
+	
+	para "It seems to become"
+	line "friendlier by"
+	
+	para "training here than"
+	line "anywhere else."
+	done
+	
+Route39SignText:	
+	text "이곳은 39번 도로"
+	line "담청시티 …… 인주시티"
+	done
+	
+	
+	
+MoomooFarmSignText:	;;No.01150 [D:0x00130D43] [L:41]
+	text "튼튼 목장"
+	line "맛있는 직접 짠 우유를 드세요!"
+	done
+	
+	
+	
+Route39TrainerTipsText:	;;No.01151 [D:0x00130D6D] [L:117]
+	text "득이 되는 게시판!"
+	
+	para "박치기로 나무를 흔들 때"
+	line "떨어지는 포켓몬은"
+	cont "나무에따라 여러가지입니다"
+	
+	para "여러 나무에 박치기를 합시다!"
+	done
+	
+	
+	
+	
+	
+	

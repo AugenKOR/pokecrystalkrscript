@@ -1,0 +1,10 @@
+UnknownText_0x19763a:	;No.03080 [D:0x00188EDF] [L:36]
+	text "어이 아이야"
+	line "모다피의 탑 견학은 했니?"
+	done
+	
+	
+UnknownText_0x197661:	;No.03081 [D:0x00188F04] [L:38]
+	text "꽤나 멀리도 왔다!"
+	line "집에 전화 해야지!"
+	done

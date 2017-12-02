@@ -1,0 +1,7 @@
+UnknownText_0x73379:	;No.02842 [D:0x0017A6A2] [L:49]
+	text "자전거 길을"
+	line "달려 내려가면"
+	cont "연분홍시티에 갈 수있어"
+	done
+	
+	

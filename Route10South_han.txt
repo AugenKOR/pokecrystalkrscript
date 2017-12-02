@@ -1,0 +1,43 @@
+HikerJimSeenText:	
+	text "하하 핫핫핫핫!"
+	done
+	
+HikerJimBeatenText:	;;No.01687 [D:0x001417C8] [L:52]
+	text "하하 핫핫핫!"
+	line "하하 핫핫핫!"
+	cont "웃음버섯을 먹어버렸어!"
+	done
+	
+UnknownText_0x1ae43b:	;;No.01688 [D:0x001417FD] [L:37]
+	text "히잇 힛힛힛힛!"
+	line "…… 하아 하히히……"
+	done
+	
+	
+PokefanmRobertSeenText:	;;No.01689 [D:0x00141823] [L:46]
+	text "너도 포켓몬 좋아하지?"
+	line "나도 엄청 좋아한단다!"
+	done
+	
+	
+	
+PokefanmRobertBeatenText:	;;No.01690 [D:0x00141852] [L:34]
+	text "이것은 그야말로"
+	line "나의 패배같구나!"
+	done
+	
+UnknownText_0x1ae4a9:	;;No.01691 [D:0x00141875] [L:54]
+	text "소중한 포켓몬을……"
+	line "너에대한 추억을 잊지 않을꺼야……"
+	done
+	
+	
+	
+	
+Route10SignText:	;;No.01692 [D:0x001418AC] [L:40]
+	text "이곳은 10번 도로"
+	line "블루시티 …… 보라타운"
+	done
+	
+	
+	

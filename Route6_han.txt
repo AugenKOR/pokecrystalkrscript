@@ -1,0 +1,53 @@
+UnknownText_0x1ad957:	
+	text "발전소의 사고가"
+	line "해결될 때까지"
+	cont "통행금지라고 하더군!"
+	done
+	
+	
+	
+Route6UndergroundPathSignText:	;;;No.01547 [D:0x0013D6B5] [L:43]
+	text "여기서부터 지하통로"
+	line "블루시티 …… 갈색시티"
+	done
+	
+	
+	
+PokefanmRexSeenText:	
+	text "My PHANPY is the"
+	line "cutest in the"
+	cont "world."
+	done
+	
+PokefanmRexBeatenText:	
+	text "My PHANPY!"
+	done
+	
+UnknownText_0x1ad9ff:	
+	text "Look how adorable"
+	line "my PHANPY acts!"
+	
+	para "Isn't it cute"
+	line "enough to make"
+	cont "your heart melt?"
+	done
+	
+PokefanmAllanSeenText:	
+	text "My TEDDIURSA is"
+	line "the cutest in the"
+	cont "world."
+	done
+	
+PokefanmAllanBeatenText:	
+	text "My TEDDIURSA!"
+	done
+	
+UnknownText_0x1ada88:	
+	text "Look how adorable"
+	line "my TEDDIURSA acts!"
+	
+	para "Isn't it cute"
+	line "enough to make"
+	cont "your heart melt?"
+	done
+	

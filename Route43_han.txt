@@ -1,0 +1,177 @@
+PokemaniacBenSeenText:	
+	text "나는 포켓몬을 아주 좋아해!"
+	
+	para "그래서 늘 언제나 계속"
+	line "포켓몬이랑 함께 있단다!"
+	done
+	
+	
+	
+	
+PokemaniacBenBeatenText:	;;No.01222 [D:0x001341DB] [L:9]
+	text "도대체!"
+	done
+	
+	
+UnknownText_0x19d2d2:	;;No.01223 [D:0x001341E5] [L:67]
+	text "포켓몬 이외의 좋아하는 것?"
+	
+	para "…… 라디오의 호두님"
+	line "틀림없이 예쁠꺼야"
+	done
+	
+	
+	
+PokemaniacBrent1SeenText:	;;No.01224 [D:0x00134229] [L:40]
+	text "너 뭔가 희귀한"
+	line "포켓몬 가지고있지 않니?"
+	done
+	
+PokemaniacBrent1BeatenText:	;;No.01225 [D:0x00134252] [L:12]
+	text "내 포켓몬!"
+	done
+	
+	
+UnknownText_0x19d359:	;;No.01226 [D:0x0013425F] [L:53]
+	text "나라면 희귀한 포켓몬을"
+	line "가지고있는 것 만으로도 행복해"
+	done
+	
+	
+PokemaniacRonSeenText:	;;No.01227 [D:0x00134295] [L:107]
+	text "내말좀 들어줘!"
+	
+	para "<RIVAL>"
+	db "(이)라고 하는 녀석이"
+	line "내 소중한 포켓몬을"
+	cont "바보취급 했어!"
+	
+	para "제기럴"
+	line "내 포켓몬은 굉장하다니까"
+	done
+	
+	
+PokemaniacRonBeatenText:	;;No.01228 [D:0x00134301] [L:31]
+	text "어떠니 나의 니드킹"
+	line "꽤 잘하지?"
+	done
+	
+UnknownText_0x19d3f8:	;;No.01229 [D:0x00134321] [L:105]
+	text "어떤 포켓몬을 좋아한다는 것"
+	line "사람들 각각으로 좋다고 생각해"
+	
+	para "강한 포켓몬 만이"
+	line "포켓몬이라고는 할 수 없으니까"
+	done
+	
+	
+	
+	
+	
+FisherMarvinSeenText:	;;No.01230 [D:0x0013438B] [L:99]
+	text "최근에 슬럼프에 빠졌단다"
+	line "사용하고 있는 도구가 나쁜걸까"
+	
+	para "뭐 어떻든 기분이나 전환하자"
+	line "포켓몬 승부다!"
+	done
+	
+	
+	
+FisherMarvinBeatenText:	;;No.01231 [D:0x001343EF] [L:32]
+	text "졌지만"
+	line "좋은 기분전환이 되었단다"
+	done
+	
+UnknownText_0x19d4d3:	;;No.01232 [D:0x00134410] [L:110]
+	text "흐으음…… 역시 낚아 올린"
+	line "포켓몬을 잡으려 한다면"
+	cont "강집 할아버지의 루어볼이지"
+	
+	para "하이퍼볼보다도"
+	line "단연 잡기 쉽단다!"
+	done
+	
+	
+	
+	
+CamperSpencerSeenText:	;;No.01233 [D:0x0013447F] [L:56]
+	text "포켓몬이랑 함께 있으면"
+	line "여러가지를 할 수 있어서 즐거워!"
+	done
+	
+	
+CamperSpencerBeatenText:	;;No.01234 [D:0x001344B8] [L:14]
+	text "지면 재미없지"
+	done
+	
+	
+UnknownText_0x19d57e:	;;No.01235 [D:0x001344C7] [L:54]
+	text "분노의 호수에 뭔가 있니?"
+	line "우리들은 캠프를 할 작정인데"
+	done
+	
+	
+	
+	
+PicnickerTiffany3SeenText:	;;No.01236 [D:0x001344FE] [L:50]
+	text "너도 분노의 호수에 가니?"
+	line "그전에 잠깐 같이 놀자!"
+	done
+	
+	
+	
+	
+PicnickerTiffany3BeatenText:	;;No.01237 [D:0x00134531] [L:19]
+	text "너무 과하게 놀았다"
+	done
+	
+UnknownText_0x19d618:	;;No.01238 [D:0x00134545] [L:46]
+	text "포켓몬이랑 함께 피크닉"
+	line "너도 함께하면 어떠니?"
+	done
+	
+	
+	
+UnknownText_0x19d64b:	
+	text "Isn't my CLEFAIRY"
+	line "just the most"
+	cont "adorable thing?"
+	done
+	
+Route43Sign1Text:	
+	text "이곳은 43번 도로"
+	line "분노의 호수"
+	cont "…… 황토마을"
+	done
+	
+	
+Route43Sign2Text:	;;No.01240 [D:0x001345A0] [L:43]
+	text "이곳은 43번 도로"
+	line "분노의 호수"
+	cont "…… 황토마을"
+	done
+	
+	
+Route43TrainerTipsText:	;;No.01241 [D:0x001345CC] [L:167]
+	text "득이 되는 게시판!"
+	
+	para "포켓몬에게는 타입의"
+	line "상성이 있습니다"
+	
+	para "레벨이 높아도 그것만으로"
+	line "이길 수는 없습니다"
+	
+	para "자신의 포켓몬 타입은"
+	line "무엇이 특기고 무엇이 약한가"
+	cont "파악을 해 놓읍시다"
+	done
+	
+	
+	
+	
+	
+	
+	
+	
+	

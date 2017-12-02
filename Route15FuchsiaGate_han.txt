@@ -1,0 +1,7 @@
+UnknownText_0x1967a1:	;No.02616 [D:0x001709C7] [L:54]
+	text "포켓몬 도감 완성을"
+	line "목표로 하고있는 것 같군!"
+	cont "힘내라!"
+	done
+	
+	

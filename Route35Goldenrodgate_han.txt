@@ -1,0 +1,101 @@
+
+UnknownText_0x69ddd:
+	text "Excuse me, kid!"
+	line "Can you do a guy"
+	cont "a favor?"
+
+	para "Can you take this"
+	line "#MON with MAIL"
+	cont "to my friend?"
+
+	para "He's on ROUTE 31."
+	done
+
+UnknownText_0x69e48:
+	text "You will? Perfect!"
+	line "Thanks, kid!"
+
+	para "My pal's a chubby"
+	line "guy who snoozes"
+	cont "all the time."
+
+	para "You'll recognize"
+	line "him right away!"
+	done
+
+UnknownText_0x69eb8:
+	text "<PLAYER> received a"
+	line "#MON with MAIL."
+	done
+
+UnknownText_0x69ed6:
+	text "You can read it,"
+	line "but don't lose it!"
+	cont "ROUTE 31!"
+
+	para "Oh, yeah. There"
+	line "was a weird tree"
+	cont "blocking the road."
+
+	para "I wonder if it's"
+	line "been cleared?"
+	done
+
+UnknownText_0x69f56:
+	text "You can't carry"
+	line "another #MON…"
+	done
+
+UnknownText_0x69f74:
+	text "Oh… Never mind,"
+	line "then…"
+	done
+
+UnknownText_0x69f8b:
+	text "Thanks, kid! You"
+	line "made the delivery"
+	cont "for me!"
+
+	para "Here's something"
+	line "for your trouble!"
+	done
+
+UnknownText_0x69fd9:
+	text "My pal was snooz-"
+	line "ing, right? Heh,"
+	cont "what'd I say?"
+	done
+
+UnknownText_0x6a00a:
+	text "A strange tree is"
+	line "blocking the road."
+
+	para "It wriggles around"
+	line "if you talk to it."
+
+	para "I heard it became"
+	line "wild when someone"
+
+	para "watered it with a"
+	line "SQUIRTBOTTLE."
+	done
+
+UnknownText_0x6a09a:
+	text "I like the #MON"
+	line "Lullaby they play"
+	cont "on the radio."
+	done
+
+UnknownText_0x6a0cb:
+	text "I wonder how many"
+	line "kinds of #MON"
+
+	para "there are in the"
+	line "world."
+
+	para "Three years ago,"
+	line "PROF.OAK said that"
+
+	para "there were 150"
+	line "different kinds."
+	done

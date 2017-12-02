@@ -1,0 +1,54 @@
+UnknownText_0x19acd2:	;No.01901 [D:0x0014DB1A] [L:53]
+	text "잠깐!"
+	
+	para "이곳의 통행료는"
+	line "1000원을 내도록 되어 있습니다"
+	done
+	
+	
+UnknownText_0x19ad0a:	;No.01902 [D:0x0014DB50] [L:20]
+	text "헤헤헤 고맙습니다!"
+	done
+	
+	
+UnknownText_0x19ad20:	;No.01903 [D:0x0014DB65] [L:30]
+	text "그럼 있는 것만이라도 받겠어요"
+	done
+	
+	
+UnknownText_0x19ad41:	;No.01904 [D:0x0014DB84] [L:85]
+	text "헤헤헤 분노의 호수에서"
+	line "이상한 일이 일어나고 부터는"
+	cont "지나가는 녀석들이 많아서 돈벌지!"
+	done
+	
+	
+	
+	
+	
+	
+UnknownText_0x19ad9b:	;No.01905 [D:0x0014DBDA] [L:131]
+	text "갑자기 검은색 투성의 녀석들에게"
+	line "쫓겨나서 큰일이었단다"
+	
+	para "이런 것이 남겨져 있었는데"
+	line "어쩐지 기분이 나쁘니까"
+	cont "네가 괜찮다면 가지고 가거라"
+	done
+	
+	
+	
+	
+	
+UnknownText_0x19ae1b:	;No.01906 [D:0x0014DC5E] [L:32]
+	text ""
+	db "<PLAYER>"
+	db "는(은)"
+	line "기술머신30을 얻었다!"
+	done
+	
+UnknownText_0x19ae2d:	;No.01907 [D:0x0014DC7F] [L:64]
+	text "이 게이트는"
+	line "풀숲을 피해서 지나가고싶은"
+	cont "사람들을 위한 게이트란다"
+	done

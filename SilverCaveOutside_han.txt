@@ -1,0 +1,3 @@
+MtSilverSignText:	
+	text "이곳은 은빛 산"
+	done
