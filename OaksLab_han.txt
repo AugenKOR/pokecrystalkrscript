@@ -1,0 +1,185 @@
+OakWelcomeKantoText:	
+	text "오박사『오오 "
+	db "<PLAY_G>!"
+	line "잘 와주었다!"
+	
+	para "어떠냐?"
+	line "관동의 트레이너들도"
+	cont "상대하기가 벅차지!"
+	done
+	
+	
+	
+	
+	
+	
+OakLabDexCheckText:	;No.02373 [D:0x00165772] [L:58]
+	text "어디 어디 포켓몬 도감은"
+	line "어느정도나 완성했느냐"
+	
+	para "흐음 흠……"
+	done
+	
+OakLabGoodbyeText:	;No.02374 [D:0x001657AD] [L:31]
+	text "이 근처까지 온다면"
+	line "또 들리거라"
+	done
+	
+	
+OakOpenMtSilverText:	;No.02375 [D:0x001657CD] [L:329]
+	text "오박사『오오! 굉장하구나!"
+	line "관동의  배지도 전부 모았느냐!"
+	cont "내가 생각한대로구나!"
+	
+	para "그래! "
+	db "<PLAY_G>"
+	db "이"
+	line "은빛 산에 들어갈 수 있도록"
+	cont "연락을 해두마"
+	
+	para "은빛 산에는 야생 포켓몬이"
+	line "많이 살고 있는 커다란 산이란다"
+	
+	para "보통의 트레이너에게는 위험해서"
+	line "들어갈 수 없도록 해 놓았지만"
+	cont "<PLAY_G>"
+	db "이라면 걱정 없겠지!"
+	
+	para "석영고원에 가 보거라"
+	line "그곳에서 은빛 산으로 갈 수 있다"
+	done
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+OakNoKantoBadgesText:	
+	text "오박사『오잉?"
+	line "관동의 배지를"
+	cont "모으지 않은 것 같구나"
+	
+	para "관동의 체육관 관장들도"
+	line "성도에 지지 않을 정도로"
+	cont "기본이 잘 갖추어져 있단다"
+	cont "도전해 보는것이 어떻겠느냐?"
+	done
+	
+	
+	
+	
+	
+	
+OakYesKantoBadgesText:	;No.02377 [D:0x001659B1] [L:137]
+	text "오박사『관동 배지를"
+	line "모은 것 같구나!"
+	
+	para "힘들었겠지만"
+	line "경험은 "
+	db "<PLAY_G>"
+	db "의"
+	cont "힘이 될꺼란다"
+	
+	para "전부 모았다면"
+	line "또 놀러오너라"
+	cont "내가 선물을 주마"
+	
+	para "<PLAY_G>"
+	line "힘내거라!"
+	done
+	
+	
+	
+	
+	
+	
+OaksAssistant1Text:	
+	text "박사님의 포켓몬 강좌"
+	line "관동에서는 방송하지 않습니다"
+	cont "듣고싶은데 유감이네요"
+	done
+	
+	
+	
+	
+	
+	
+OaksAssistant2Text:	;No.02379 [D:0x00165A84] [L:63]
+	text "<PLAY_G>"
+	db "이"
+	line "도감을 만들어주어서"
+	cont "박사님의 연구가"
+	cont "잘 진행되고 있어요!"
+	done
+	
+	
+	
+OaksAssistant3Text:	;No.02380 [D:0x00165AC4] [L:77]
+	text "……여기서만의 이야기입니다!"
+	
+	para "오박사님의 포켓몬 강좌는"
+	line "생방송이 아니랍니다!"
+	done
+	
+	
+OaksLabPoster1Text:	
+	text "스타트 버튼을 누르자!"
+	line "누르면 메뉴가 뜬다"
+	done
+	
+OaksLabPoster2Text:	;No.02382 [D:0x00165B3D] [L:45]
+	text "세이브를 함에는 포켓몬 레포트"
+	line "자주 쓰면 좋다"
+	done
+	
+	
+	
+	
+OaksLabTrashcanText	
+	text "안은 텅 비었다……"
+	done
+	
+	
+OaksLabPCText:	;No.02384 [D:0x00165B7F] [L:237]
+	text "컴퓨터를 보면"
+	line "전자메일이 와 있다!"
+	
+	para "…… …… ……"
+	
+	para "오박사님의 연구는"
+	line "잘 진행되고 있습니까"
+	
+	para "내쪽은……"
+	line "한창 힘내고 있는 중입니다"
+	
+	para "그건 그렇고"
+	db "<PLAY_G>"
+	db "이"
+	line "열심히 하고 있다는 소문을 들어서"
+	cont "매우 기쁘답니다!"
+	
+	para "……연두마을의 공박사로부터"
+	line "…… …… ……"
+	done
+	
+	
+	
+	
+	
+	

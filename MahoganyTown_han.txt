@@ -1,0 +1,104 @@
+UnknownText_0x1900b0:	
+	text "잠깐 잠깐만 꼬마야!"
+	
+	para "황토마을에 처음 왔나보구나!"
+	
+	
+	para "황토마을에 왔다면"
+	line "분노의 호두과자를 사는 것이"
+	cont "여행의 상식이라는 것이다"
+	
+	para "지금이라면 딱 300원"
+	line "어떠냐 살꺼지?"
+	done
+	
+	
+	
+	
+UnknownText_0x19014a:	
+	text "그럼 천천히 맛을 보거라!"
+	done
+	
+UnknownText_0x19015b:	;;No.00765 [D:0x00124AEC] [L:16]
+	text "돈이 부족하구나"
+	done
+	
+	
+UnknownText_0x190178:	;;No.00766 [D:0x00124AFD] [L:12]
+	text "아 그래……"
+	done
+	
+UnknownText_0x190188:	;;No.00767 [D:0x00124B0A] [L:21]
+	text "그 이상 지닐 수 없어"
+	done
+	
+	
+UnknownText_0x1901a6:	;;No.00768 [D:0x00124B20] [L:81]
+	text "분노의 호두과자는 품절이다"
+	line "문 닫을 준비를 하고있단다"
+	cont "그럼 방해하지 말고 비키거라"
+	done
+	
+	
+	
+	
+UnknownText_0x1901e5:	;;No.00769 [D:0x00124B72] [L:44]
+	text "너도 호수에 가서"
+	line "갸라도스의 춤을 보려는거냐"
+	done
+	
+	
+UnknownText_0x19021d:	;;No.00770 [D:0x00124B9F] [L:91]
+	text "분노의 호수에"
+	line "잉어킹이 돌아온 것 같다"
+	
+	para "이것으로 분노의 호수 근처의"
+	line "낚시꾼도 기뻐하고 있단다"
+	done
+	
+	
+	
+UnknownText_0x190276:	;;No.00771 [D:0x00124BFB] [L:90]
+	text "이봐 이봐 애써서 왔잖아"
+	line "천천히 관광이나 하거라"
+	
+	para "지금 북쪽에 있는"
+	line "분노의 호수가 볼 만하단다"
+	done
+	
+	
+	
+	
+	
+	
+	
+UnknownText_0x1902f2:	;;No.00772 [D:0x00124C56] [L:56]
+	text "할머니의 가게에 들려봐"
+	line "이곳에서밖에 팔지 않는 것도 있어"
+	done
+	
+	
+	
+	
+MahoganyTownSignText:	;;No.00773 [D:0x00124C8F] [L:38]
+	text "이곳은 황토마을"
+	line "닌자의 마을에 잘 왔다"
+	done
+	
+	
+	
+MahoganyTownRagecandybarSignText:	;;No.00774 [D:0x00124CB6] [L:46]
+	text "황토마을에 왔다면"
+	line "명물「분노의 호도과자」!!"
+	done
+	
+	
+MahoganyGymSignText:	;;No.00775 [D:0x00124CE5] [L:65]
+	text "황토마을 포켓몬 체육관"
+	line "관장 류옹이"
+	cont "겨울의 혹독함을 가르쳐주는 자"
+	done
+	
+	
+	
+	

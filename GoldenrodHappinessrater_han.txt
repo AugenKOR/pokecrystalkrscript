@@ -1,0 +1,64 @@
+UnknownText_0x549a3:	
+	text "If you treat your"
+	line "#MON nicely,"
+	
+	para "they will love you"
+	line "in return."
+	
+	para "Oh? Let me see"
+	line "your @"
+	text_from_ram StringBuffer3
+	text "…"
+	done
+	
+UnknownText_0x549fc:	
+	text "매우 행복해 보이는군"
+	line "틀림없이 아주 많이"
+	cont "너를 잘 따르고 있는 것 같구나!"
+	done
+	
+UnknownText_0x54a2c:	;No.02205 [D:0x0015CAE0] [L:37]
+	text "너를 믿을 수 있겠다"
+	line "그런 기분이 들어"
+	done
+	
+	
+UnknownText_0x54a5a:	;No.02206 [D:0x0015CB06] [L:47]
+	text "너를 잘 따르고 있구나"
+	line "어쩐지 행복해 보이는구나"
+	done
+	
+	
+UnknownText_0x54a8e:	;No.02207 [D:0x0015CB36] [L:12]
+	text "제법 귀엽네"
+	done
+	
+UnknownText_0x54a9f:	;No.02208 [D:0x0015CB43] [L:61]
+	text "조금 더 귀여워 해주면 어때?"
+	line "아직 너에게 익숙해지지 않았나봐"
+	done
+	
+	
+UnknownText_0x54ad1:	;No.02209 [D:0x0015CB81] [L:49]
+	text "전혀 따르지 않는 것 같구나"
+	line "어쩐지 눈빛이 안 좋아"
+	done
+	
+	
+UnknownText_0x54b04:	;No.02210 [D:0x0015CBB3] [L:86]
+	text "언제나 포켓몬 승부에 져서"
+	line "기절만 시키고……"
+	
+	para "그것이 이유일까"
+	line "포켓몬이 잘 따라주질 않아"
+	done
+	
+	
+	
+	
+	
+UnknownText_0x54b67:	;No.02211 [D:0x0015CC0A] [L:52]
+	text "포켓몬에게 도구를 사용해주면"
+	line "매우 기뻐하게 된단다!"
+	done
+	

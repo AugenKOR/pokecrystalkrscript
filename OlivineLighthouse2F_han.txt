@@ -1,0 +1,53 @@
+SailorHuey1SeenText:	;;No.00392 [D:0x00112239] [L:44]
+	text "바다 사나이는"
+	line "언제든지 싸움을 달고 다니지!"
+	done
+	
+	
+SailorHuey1BeatenText:	;;No.00393 [D:0x00112266] [L:19]
+	text "오우!"
+	line "내가 졌다!"
+	done
+	
+UnknownText_0x5b0be:	;;No.00394 [D:0x0011227A] [L:43]
+	text "그 강함 맘에 들었어!"
+	line "함께 외국에 가볼래?"
+	done
+	
+	
+	
+	
+GentlemanAlfredSeenText:	;;No.00395 [D:0x001122A6] [L:39]
+	text "어랏 너는……?"
+	line "이곳은 놀이터가 아니야"
+	done
+	
+GentlemanAlfredBeatenText:	;;No.00396 [D:0x001122CE] [L:16]
+	text "오오 진심이로군"
+	done
+	
+	
+UnknownText_0x5b13e:	;;No.00397 [D:0x001122DF] [L:134]
+	text "제일 꼭대기에는 포켓몬이 있어서"
+	line "항상 빛나고있어"
+	
+	para "하지만 지금은 병이 났다고 한다"
+	line "게다가 보통의 치료약으로는"
+	cont "치료할 수 없다는 이야기란다"
+	done
+	
+	
+	
+	
+UnknownText_0x5b1b6:	
+	text "Man! You're as"
+	line "tough as ever!"
+	
+	para "Anyway, here's"
+	line "that medicine from"
+	cont "before."
+	done
+	text "You really are"
+	line "concerned…"
+	done
+	

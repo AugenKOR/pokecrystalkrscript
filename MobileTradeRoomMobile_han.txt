@@ -1,0 +1,5 @@
+
+MobileTradeRoomMobile_EstablishingCommsText:
+	text "Establishing"
+	line "communications…"
+	done

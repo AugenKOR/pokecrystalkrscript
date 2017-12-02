@@ -1,0 +1,233 @@
+UnknownText_0x18e473:	;No.01989 [D:0x0015482F] [L:417]
+	text "엇 넌 누구냐?"
+	
+	para "그런가 "
+	db "<PLAYER>"
+	db "(이)라고 하는가"
+	line "볼을 만들어줬으면 좋겠는가"
+	cont "미안하지만 그럴 때가 아니다"
+	
+	para "로켓단을 알고 있냐?"
+	line "뭐 몰라도 좋아"
+	cont "이야기를 계속하겠다"
+	
+	para "로켓단이라고 하는 것은"
+	line "포켓몬을 강제로 나쁜 짓에 사용한"
+	cont "아무 쓸모 없는 녀석들이지"
+	
+	para "3년전에"
+	line "해산했을 텐데……"
+	
+	para "어쨌든 그녀석들이"
+	line "우물에서 야돈의 꼬리를"
+	cont "잘라서 팔아먹고 있단다"
+	
+	para "그래서 내가 가서"
+	line "확실히 야단치려고 한다!"
+	
+	para "좋아! 기다려라 야돈!"
+	line "사나이 강집이 구하러 간다!"
+	done
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+UnknownText_0x18e615:	;No.01990 [D:0x001549D1] [L:189]
+	text "강집『오오 "
+	db "<PLAYER>"
+	db ""
+	line "우물에서 네가 한 일"
+	cont "그것은 아주 훌륭했단다!"
+	
+	para "나는 네가 마음에 들었다!"
+	line "너 같은 트레이너가 쓰겠다면"
+	cont "볼을 만들어 주고싶구나"
+	
+	para "지금 손에 있는 것은"
+	line "이것뿐이지만 아무튼 가지고 가라!"
+	done
+	
+	
+	
+	
+	
+	
+	
+UnknownText_0x18e6c9:	;No.01991 [D:0x00154A8F] [L:138]
+	text "강집『나는 규토리를 사용해서"
+	line "특수한 볼을 만든단다"
+	
+	para "그 근처의 규토리 나무를 조사해서"
+	line "열매를 모아오면 좋을꺼다"
+	cont "그러면 내가 볼을 만들어주겠다"
+	done
+	
+	
+	
+	
+UnknownText_0x18e736:	;No.01992 [D:0x00154B1A] [L:61]
+	text "강집『오옷"
+	line "규토리를 가지고 있구나!"
+	
+	para "좋아 볼을 만들어주겠다!"
+	done
+	
+	
+UnknownText_0x18e779:	;No.01993 [D:0x00154B58] [L:65]
+	text "강집『볼이 완성되려면"
+	line "하루정도는 걸릴테니까"
+	cont "다음에 찾으러 오너라"
+	done
+	
+	
+	
+UnknownText_0x18e7bc:	;No.01994 [D:0x00154B9A] [L:38]
+	text "강집『그런가……"
+	line "어쩐지 맥이 빠지는군"
+	done
+	
+UnknownText_0x18e7d8:	;No.01995 [D:0x00154BC1] [L:43]
+	text "강집『지금 만들고 있단다"
+	line "방해하지 말거라!"
+	done
+	
+UnknownText_0x18e7fb:	;No.01996 [D:0x00154BED] [L:72]
+	text "강집『오오 "
+	db "<PLAYER>"
+	db "(인)가"
+	line "지금 막 볼이 완성되었으니까"
+	cont "가지고 가도록 하거라!"
+	done
+	
+UnknownText_0x18e82a:	;No.01997 [D:0x00154C36] [L:80]
+	text "강집『마음에 드느냐!"
+	
+	para "그것으로 잡을 수 있을까 없을까"
+	line "포켓몬과 승부를 해보거라!"
+	done
+	
+	
+UnknownText_0x18e863:	
+	text "KURT: Now that my"
+	line "granddaughter is"
+	
+	para "helping me, I can"
+	line "work much faster."
+	done
+	
+UnknownText_0x18e8ab:	
+	text "Wh-what is that?"
+	
+	para "I've never seen"
+	line "one before."
+	
+	para "It looks a lot"
+	line "like a # BALL,"
+	
+	para "but it appears to"
+	line "be something else."
+	
+	para "Let me check it"
+	line "for you."
+	done
+	
+UnknownText_0x18e934:	
+	text "I'm checking it"
+	line "now."
+	done
+	
+UnknownText_0x18e949:	
+	text "Ah-ha! I see!"
+	line "So…"
+	done
+	
+UnknownText_0x18e95c:	
+	text ""
+	db "<PLAYER>"
+	db "!"
+	
+	para "This BALL started"
+	line "to shake while I"
+	cont "was checking it."
+	
+	para "There must be"
+	line "something to this!"
+	done
+	
+KurtsGranddaughterSlowpokeGoneText:	
+	text "야돈이 사라져버렸어……"
+	line "어떡하지……"
+	cont "나쁜 사람들에게 잡혀갔을까?"
+	done
+	
+	
+	
+KurtsGranddaughterLonelyText:	;No.01999 [D:0x00154CCA] [L:46]
+	text "할아버지 어디 가셨지……?"
+	line "나 너무 쓸쓸해……"
+	done
+	
+KurtsGranddaughterSlowpokeBackText:	;No.02000 [D:0x00154CF9] [L:60]
+	text "아빠한테 선물받은"
+	line "내 야돈이 돌아왔어!"
+	cont "꼬리도 다시 날꺼야!"
+	done
+	
+	
+	
+KurtsGranddaughterDadText:	;No.02001 [D:0x00154D36] [L:115]
+	text "아빠는 실프주식회사 라는 회사에서"
+	line "새로운 몬스터볼의"
+	cont "연구를 하고계셔"
+	
+	para "그 기간동안 나는"
+	line "할아버지랑 야돈이랑 집을 지켜"
+	done
+	
+	
+KurtsGranddaughterHelpText:	
+	text "I get to help"
+	line "Grandpa now!"
+	
+	para "We'll make good"
+	line "BALLS for you, so"
+	cont "please wait!"
+	done
+	
+KurtsGranddaughterFunText:	
+	text "It's fun to make"
+	line "BALLS!"
+	done
+	
+KurtsGranddaughterGSBallText:	
+	text "Grandpa's checking"
+	line "a BALL right now."
+	
+	para "So I'm waiting"
+	line "till he's done."
+	done
+	
+KurtsHouseSlowpokeText:	
+	text "야돈『…… …… 야아?"
+	done
+	
+	
+KurtsHouseOakPhotoText:	;No.02003 [D:0x00154DC2] [L:28]
+	text "…… 젊었을 때의 오박사님?"
+	done
+	
+	
+KurtsHouseCelebiStatueText:	;No.02004 [D:0x00154DDF] [L:26]
+	text "숲의 신령을 받들어 모신다"
+	done
+	
+	

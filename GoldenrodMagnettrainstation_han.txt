@@ -1,0 +1,58 @@
+UnknownText_0x55160:	
+	text "전철이 오지 않아!"
+	
+	para "이렇게되면 대신 내가"
+	line "손님을 업고……"
+	
+	para "그건 무리인가"
+	done
+	
+	
+	
+UnknownText_0x551b7:	;No.02227 [D:0x0015D1F1] [L:49]
+	text "노랑시티행"
+	line "이제 곧 출발합니다"
+	cont "승차하시겠습니까?"
+	done
+	
+	
+	
+UnknownText_0x551ed:	;No.02228 [D:0x0015D223] [L:51]
+	text "승차권을 확인하겠습니다!"
+	
+	para "네!"
+	line "이쪽으로 타십시오!"
+	done
+	
+	
+UnknownText_0x5522c:	;No.02229 [D:0x0015D257] [L:38]
+	text "저 손님"
+	line "승차권을 가지고 있지 않는군요"
+	done
+	
+UnknownText_0x5524f:	;No.02230 [D:0x0015D27E] [L:35]
+	text "다음에도 이용을"
+	line "부탁드리겠습니다!"
+	done
+	
+UnknownText_0x5526a:	;No.02231 [D:0x0015D2A2] [L:77]
+	text "대단히 고맙습니다"
+	line "금빛시티에 도착했습니다"
+	
+	para "다음에도 이용을"
+	line "부탁드리겠습니다!"
+	done
+	
+UnknownText_0x552a3:	;No.02232 [D:0x0015D2F0] [L:108]
+	text "내가 사장이다!"
+	
+	para "포켓몬보다도 빠른 철도!"
+	line "그것이 꿈이었단다!"
+	
+	para "이것으로 성도랑 관동지방이"
+	line "더욱 가까워졌단다!"
+	done
+	
+	
+	
+	

@@ -1,0 +1,4 @@
+IcePathBoulderFellThroughText:	
+	text "돌은 아래로 떨어졌다!"
+	done
+	

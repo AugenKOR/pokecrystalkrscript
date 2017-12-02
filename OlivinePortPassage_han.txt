@@ -1,0 +1,7 @@
+UnknownText_0x76faf:	;No.02579 [D:0x0016E560] [L:54]
+	text "쾌속선 아쿠아호는"
+	line "월요일과 금요일"
+	cont "관동으로 출발한다!"
+	done
+	
+	

@@ -1,0 +1,14 @@
+UnknownText_0x62c80:	;No.02302 [D:0x0015EEFF] [L:53]
+	text "너도밤나무 숲은 넓으니까"
+	line "길을 헤매지 않도록 조심해!"
+	done
+	
+	
+UnknownText_0x62cb0:	;No.02303 [D:0x0015EF35] [L:53]
+	text "숲에는 신이 있다고 한다……"
+	line "나쁜짓을 한다면 아니되지"
+	done
+	
+	
+	
+	

@@ -1,0 +1,51 @@
+KrissNeighborsDaughterText:	;No.02962 [D:0x00181EBC] [L:166]
+	text "피카츄는 이미 진화한"
+	line "포켓몬이다!"
+	
+	para "그 공박사님의 발표에는"
+	line "나도 깜짝 놀랐었다!"
+	
+	para "역시 포켓몬 진화의"
+	line "연구에서는 유명한 박사님"
+	
+	para "하아…… 나도 그런"
+	line "훌륭한 연구자가 되고싶어"
+	done
+	
+	
+	
+	
+	
+	
+KrissNeighborText:	
+	text "My daughter is"
+	line "adamant about"
+	
+	para "becoming PROF."
+	line "ELM's assistant."
+	
+	para "She really loves"
+	line "#MON!"
+	
+	para "But then, so do I!"
+	done
+	
+KrisNeighborRadioText1:	;No.02963 [D:0x00181F63] [L:44]
+	text "오박사님의 포켓몬 강좌"
+	line "모두 꼭 들어주세요!"
+	done
+	
+	
+KrisNeighborRadioText2:	;No.02964 [D:0x00181F90] [L:19]
+	text "여기는 포켓몬 채널"
+	done
+	
+KrisNeighborRadioText3:	;No.02965 [D:0x00181FA4] [L:25]
+	text "상대는"
+	line "DJ 호두였습니다!"
+	done
+	
+KrisNeighborRadioText4:	;No.02966 [D:0x00181FBE] [L:23]
+	text "포켓몬"
+	line "포켓몬 채널……"
+	done

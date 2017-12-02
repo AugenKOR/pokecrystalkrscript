@@ -1,0 +1,14 @@
+UnknownText_0x19b050:	
+	text "<PLAYER>"
+	db "는(은)"
+	line "현대 컴보이64를 하고 있다!"
+	cont "…… …… 좋아!"
+	cont "이제 슬슬 나가볼까!"
+	done
+	
+	
+UnknownText_0x19b087:	;No.02362 [D:0x001653F6] [L:34]
+	text "……긴 시간"
+	line "지치지도 않은 것 같다"
+	done
+	

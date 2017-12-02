@@ -1,0 +1,133 @@
+UnknownText_0x1a28d0:	;;No.02387 [D:0x001680CC] [L:186]
+	text "웅『성도에서"
+	line "도전하다니 특이하군"
+	
+	para "나는 회색시티 포켓몬 체육관"
+	line "관장인 웅!"
+	cont "바위 타입의 전문가다!"
+	
+	para "약간 긁히는 정도의 공격은"
+	line "내 포켓몬들에게는 효과가 없다"
+	cont "아프지도 가렵지도 않지!"
+	
+	para "오너라!"
+	done
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+UnknownText_0x1a29bb:	;;No.02388 [D:0x00168187] [L:90]
+	text "웅『……방어를 웃도는"
+	line "강렬한 공격……"
+	cont "내 예상을 넘어섰다……!"
+	
+	para "자 이 배지를"
+	line "가지고 가라!"
+	done
+	
+	
+	
+	
+	
+UnknownText_0x1a2a3d:	;;No.02389 [D:0x001681E2] [L:41]
+	text "<PLAYER>"
+	db "는(은) 웅으로부터"
+	line "회색배지를 받았다!"
+	done
+	
+UnknownText_0x1a2a57:	;;No.02390 [D:0x0016820C] [L:102]
+	text "웅『고맙다"
+	line "<PLAY_G>!"
+	cont "좋은 시합이었어!"
+	
+	para "내 회색배지로"
+	line "너의 포켓몬은"
+	cont "더욱 강해진단다"
+	cont "조금은 분하지만 말야!"
+	done
+	
+	
+	
+	
+	
+UnknownText_0x1a2ada:	;;No.02391 [D:0x00168273] [L:107]
+	text "웅『세상은 참 넓구나……"
+	line "이렇게 강한 트레이너가"
+	cont "아직도 많이 존재한다"
+	
+	para "나도 더욱 더"
+	line "강한 트레이너가 되겠다!"
+	done
+	
+	
+	
+	
+	
+CamperJerrySeenText:	;;No.02392 [D:0x001682DF] [L:112]
+	text "이곳은 바위 포켓몬을"
+	line "다루는 트레이너의 체육관!"
+	
+	para "바위타입은 방어력이"
+	line "높으니까!"
+	
+	para "싸움이 장기화될꺼다!"
+	line "각오해랏!"
+	done
+	
+	
+	
+	
+	
+CamperJerryBeatenText:	;;No.02393 [D:0x00168350] [L:32]
+	text "싸움은 마음먹은대로 되지 않는군"
+	done
+	
+	
+UnknownText_0x1a2c0f:	;;No.02394 [D:0x00168371] [L:62]
+	text "웅이님은 강하단다!"
+	line "방심하면 큰 코 다칠꺼야"
+	cont "성도의 트레이너!"
+	done
+	
+	
+	
+	
+	
+	
+PewterGymGuyText:	;;No.02395 [D:0x001683B0] [L:124]
+	text "오- 미래의 챔피언"
+	line "상태가 좋아보이는군"
+	
+	para "관동의 체육관 관장이랑"
+	line "싸웠는가?"
+	
+	para "성도에 뒤지지 않을 만큼"
+	line "상대하기 벅찬 녀석들이지!"
+	done
+	
+	
+	
+	
+	
+	
+	
+PewterGymGuyWinText:	;;No.02396 [D:0x0016842D] [L:62]
+	text "역시 미래의 챔피언!"
+	line "스릴 있는 싸움이었다!"
+	cont "감동했단다 정말!"
+	done
+	
+	
+	
+	
+	
+	
+	
+	

@@ -1,0 +1,29 @@
+UnknownText_0x19a362:	
+	text "뭐야 뭐야"
+	line "로켓단이 부활 했다고?"
+	
+	para "분노의 호수에서"
+	line "검은복장 투성인 놈들을 봤었는데"
+	done
+	
+	
+	
+UnknownText_0x19a3b3:	;No.01771 [D:0x00145C32] [L:76]
+	text "나는 진화 캔슬을 사용해서"
+	line "먼저 기술을 가르치고 난 뒤에"
+	cont "포켓몬을 키우고 있어"
+	done
+	
+	
+	
+	
+	
+	
+UnknownText_0x19a418:	;No.01772 [D:0x00145C7F] [L:64]
+	text "포켓몬은 진화하면"
+	line "힘이 강해지지만"
+	cont "기술을 익히는 것이 늦어진단다"
+	done
+	
+	
+	

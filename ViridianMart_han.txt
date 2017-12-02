@@ -1,0 +1,13 @@
+UnknownText_0x9b5f4:	;No.02876 [D:0x0017CA67] [L:38]
+	text "이 마을의 체육관 관장"
+	line "매우 멋있단다!"
+	done
+	
+	
+UnknownText_0x9b61a:	;No.02877 [D:0x0017CA8E] [L:81]
+	text "홍련마을에는 갔었나?"
+	
+	para "여기서부터 계속 남쪽으로 내려가면"
+	line "있는 섬이 홍련마을이야!"
+	done
+	

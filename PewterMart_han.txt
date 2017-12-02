@@ -1,0 +1,22 @@
+UnknownText_0x1a2dd8:	;No.02397 [D:0x001684BC] [L:70]
+	text "볼래 볼래 내 갸라도스"
+	
+	para "잉어킹 때부터 키워서"
+	line "이렇게도 강하게 되었단다!"
+	done
+	
+	
+	
+	
+	
+UnknownText_0x1a2e3a:	;No.02398 [D:0x00168503] [L:96]
+	text "예전에 포켓몬을 강매하는"
+	line "이상한 아저씨가 있었단다"
+	
+	para "분노의 호수에 사는"
+	line "잉어킹이 좋다고 말했었단다"
+	done
+	
+	
+	
+	

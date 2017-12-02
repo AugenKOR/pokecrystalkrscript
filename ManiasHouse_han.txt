@@ -1,0 +1,100 @@
+ManiaText_AskLookAfterShuckle:	;No.02681 [D:0x00174DC0] [L:210]
+	text "뭐 뭐냐……"
+	
+	para "너랑 같은정도의 나이또래로"
+	line "눈매가 사납고"
+	cont "머리가 길고"
+	cont "어쩐지 겁이나는 소년에게"
+	cont "소중한 포켓몬을 빼앗겼어!"
+	
+	para "손에는 1마리 남아 있지만"
+	line "또 빼앗기면 어떡하지……"
+	
+	para "너는 강한 것 같구나"
+	line "빨리 포켓몬을 맡아줘!"
+	done
+	
+	
+	
+	
+	
+	
+	
+	
+	
+ManiaText_TakeCareOfShuckle:	;No.02682 [D:0x00174E93] [L:33]
+	text "자 자 부탁할께!"
+	line "소중하게 키워줘"
+	done
+	
+	
+	
+ManiaText_GotShuckle:	;No.02683 [D:0x00174EB5] [L:41]
+	text ""
+	db "<PLAYER>"
+	db "는(은) 매니아로부터"
+	line "포켓몬을 맡았다!"
+	done
+	
+ManiaText_PartyFull:	;No.02684 [D:0x00174EDF] [L:21]
+	text "포켓몬이 잔뜩 있잖아"
+	done
+	
+	
+ManiaText_IfHeComesBack:	;No.02685 [D:0x00174EF5] [L:29]
+	text "그 그런"
+	line "또 빼앗기면 어떡하나"
+	done
+	
+	
+ManiaText_CanIHaveMyMonBack:	;No.02686 [D:0x00174F13] [L:70]
+	text "내 포켓몬 잘 있니?"
+	
+	para "더 이상 빼앗길 염려도 없고"
+	line "포켓몬 돌려주면 좋겠어"
+	done
+	
+	
+	
+ManiaText_ThankYou:	;No.02687 [D:0x00174F5A] [L:9]
+	text "고마워!"
+	done
+	
+ManiaText_ShuckleNotThere:	;No.02688 [D:0x00174F64] [L:17]
+	text "내 포켓몬 없잖아"
+	done
+	
+	
+	
+ManiaText_ShuckleLikesYou:	;No.02689 [D:0x00174F76] [L:80]
+	text "내 포켓몬"
+	line "너에게 정이 들었구나"
+	
+	para "알았어! 포켓몬 양보할께!"
+	line "그 대신 소중히 키워줘"
+	done
+	
+	
+	
+	
+ManiaText_SameAsBeingRobbed:	;No.02690 [D:0x00174FC7] [L:35]
+	text "그 그런"
+	line "그렇다면 빼앗긴거랑 같잖아"
+	done
+	
+	
+ManiaText_HappinessSpeech:	;No.02691 [D:0x00174FEB] [L:74]
+	text "포켓몬에게 있어서 행복이란"
+	line "소중히 키워주는 사람과"
+	cont "함께 지내는 것이 아닐까"
+	done
+	
+	
+	
+ManiaText_ShuckleIsYourLastMon:	;No.02692 [D:0x00175036] [L:52]
+	text "내가 그 포켓몬을 받으면"
+	line "너는 싸우지 못하게 되는군!"
+	done
+	
+	
+	

@@ -1,0 +1,12 @@
+GuideGentsHouseGuideGentText:	;No.03058 [D:0x001883FB] [L:143]
+	text "나도 젊었을 때에는"
+	line "힘찬 트레이너였단다!"
+	
+	para "그런 나로부터의 어드바이스!"
+	line "포켓몬은 많이 잡아라!"
+	
+	para "그리고 온화함을 지니고"
+	line "포켓몬을 대해주는 것이다!"
+	done
+	
+	

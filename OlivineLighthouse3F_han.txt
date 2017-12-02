@@ -1,0 +1,66 @@
+Bird_keeperTheoSeenText:	;;No.00398 [D:0x001123E4] [L:64]
+	text "넌 뭐냐?"
+	line "문병이냐? 아님 놀리러왔냐?"
+	cont "놀리러왔다면 돌아가 줘!"
+	done
+	
+	
+	
+Bird_keeperTheoBeatenText:	;;No.00399 [D:0x00112425] [L:27]
+	text "정말이군"
+	line "문병하러 와줬구나"
+	done
+	
+UnknownText_0x5b2df:	;;No.00400 [D:0x00112441] [L:77]
+	text "어떡게 해서 위로 올라가지?"
+	line "문병하러 가고싶은데"
+	cont "갈 수 없어서 곤란해 하고있어"
+	done
+	
+	
+	
+	
+	
+	
+SailorTerrellSeenText:	;;No.00401 [D:0x0011248F] [L:75]
+	text "바다의 사나이는 강함과 부드러움"
+	line "그 두가지를 겸해 가지고 있다"
+	cont "너는 어떠니?"
+	done
+	
+SailorTerrellBeatenText:	;;No.00402 [D:0x001124DB] [L:49]
+	text "너의 싸우는 방식은"
+	line "강함과 부드러움을 느끼게 한다"
+	done
+	
+UnknownText_0x5b384:	;;No.00403 [D:0x0011250D] [L:120]
+	text "담청시티에 되돌아왔을 때"
+	line "포켓몬 체육관에 들려봤는데……"
+	
+	para "체육관 관장이 사용하는 포켓몬의"
+	line "타입이 언제부턴가 바뀌어 있었다"
+	done
+	
+	
+	
+	
+	
+GentlemanPrestonSeenText:	;;No.00404 [D:0x00112586] [L:74]
+	text "나는 이 세상을 여행하며"
+	line "포켓몬을 단련시키고 있다"
+	cont "나와 약간 승부해보겠니?"
+	done
+	
+	
+GentlemanPrestonBeatenText:	;;No.00405 [D:0x001125D1] [L:32]
+	text "하아……"
+	line "아직도 수행이 부족하군"
+	done
+	
+UnknownText_0x5b457:	;;No.00406 [D:0x001125F2] [L:73]
+	text "규리는 원래"
+	line "롱스톤 같은 바위타입의"
+	cont "포켓몬을 사용하는"
+	cont "포켓몬 트레이너였다"
+	done
+	

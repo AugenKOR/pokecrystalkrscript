@@ -1,0 +1,59 @@
+UnknownText_0x1ad702:	
+	text "커다란 건물이지?"
+	line "관동지방의 라디오타워이다!"
+	done
+	
+	
+	
+	
+UnknownText_0x1ad73a:	;No.01521 [D:0x0013CF41] [L:40]
+	text "관동지방에서도"
+	line "라디오 방송을 하고있단다"
+	done
+	
+UnknownText_0x1ad75c:	;No.01522 [D:0x0013CF6A] [L:37]
+	text "여러 마을의 사람들이"
+	line "성묘하러 왔단다"
+	done
+	
+	
+	
+	
+	
+UnknownText_0x1ad7ac:	;No.01523 [D:0x0013CF90] [L:73]
+	text "잠자고 있는 포켓몬을 깨우려면"
+	line "포켓몬 피리가 최고!"
+	cont "트레이너의 상식이지!"
+	done
+	
+	
+	
+	
+LavenderTownSignText:	;No.01524 [D:0x0013CFDA] [L:43]
+	text "이곳은 보라타운"
+	line "보라는 잘 익은 포도빛 색깔"
+	done
+	
+	
+	
+KantoRadioStationSignText:	;No.01525 [D:0x0013D006] [L:44]
+	text "이곳은 관동 라디오 방송국"
+	line "프로그램 방송중!"
+	done
+	
+	
+	
+	
+	
+VolunteerPokemonHouseSignText:	;No.01526 [D:0x0013D033] [L:37]
+	text "이곳은 사랑의 봉사활동"
+	line "포켓몬 하우스"
+	done
+	
+SoulHouseSignText:	;No.01527 [D:0x0013D059] [L:38]
+	text "이곳은 영혼의 집"
+	line "포켓몬 여기에 잠들다"
+	done
+	
+	
+	

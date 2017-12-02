@@ -1,0 +1,43 @@
+UnknownText_0x7e6bd:	;No.02649 [D:0x00174020] [L:58]
+	text "보라타운의 북쪽에 있는"
+	line "돌산 터널을 지나면"
+	cont "발전소가 있단다"
+	done
+	
+	
+	
+	
+UnknownText_0x7e710:	;No.02650 [D:0x0017405B] [L:80]
+	text "포켓몬 피리의 음색을"
+	line "방송하는 채널이 있단다"
+	
+	para "확장 카드가 없으면"
+	line "수신할 수 없단다"
+	done
+	
+	
+	
+UnknownText_0x7e779:	
+	text "발전소가 움직이지 않으면"
+	line "리니어 기차가 움직일수 없데!"
+	
+	para "게다가 라디오 방송도"
+	line "할 수 없게 된다는 것 같아!"
+	done
+	
+	
+	
+	
+	
+UnknownText_0x7e7ed:	;No.02652 [D:0x001740F0] [L:72]
+	text "발전소가 고쳐졌기 때문에"
+	line "라디오 방송을 할 수 있다고"
+	cont "국장님이 기뻐하셨다"
+	done
+	
+	
+	
+	
+	
+	
+	

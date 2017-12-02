@@ -1,0 +1,217 @@
+Text_BattleReceptionistMobile:	
+	text "케이블과 휴대폰 중"
+	line "어떤 것으로 대전하겠습니까?"
+	done
+	
+Text_TradeReceptionistMobile:	
+	text "케이블과 휴대폰 중"
+	line "어떤 것으로 교환하겠습니까?"
+	done
+	
+Text_ThisWayToMobileRoom:	
+	text "그럼 방으로"
+	line "들어가십시오"
+	done
+	
+Text_BattleReceptionistIntro:	;No.02621 [D:0x00170E89] [L:112]
+	text "통신케이블 클럽"
+	line "콜로세움에 잘 왔습니다!"
+	
+	para "이곳에서는 친구들과"
+	line "포켓몬의 대전을 즐길 수 있습니다"
+	
+	para "대전 하겠습니까?"
+	done
+	
+	
+Text_TradeReceptionistIntro:	;No.02622 [D:0x00170EFA] [L:118]
+	text "통신케이블 클럽"
+	line "트레이드센터에 잘 오셨습니다!"
+	
+	para "이곳에서는 친구들과"
+	line "포켓몬의 교환을 즐길 수 있습니다"
+	
+	para "교환 하겠습니까?"
+	done
+	
+	
+	
+Text_TimeCapsuleReceptionistIntro:	;No.02623 [D:0x00170F71] [L:137]
+	text "통신케이블 클럽"
+	line "타임캡슐에 잘 오셨습니다!"
+	
+	para "이곳에서는 과거의 세계로 가서"
+	line "포켓몬의 교환을 즐길 수 있습니다"
+	
+	para "타임캡슐을 이용"
+	line "하시겠습니까?"
+	done
+	
+	
+Text_FriendNotReady:	;No.02624 [D:0x00170FFB] [L:43]
+	text "친구분의 준비가"
+	line "되어 있지 않은 것 같습니다"
+	prompt
+	
+Text_MustSaveGame:	;No.02625 [D:0x00171027] [L:41]
+	text "통신을 시작하기 전에"
+	line "레포트를 쓰겠습니다"
+	done
+	
+	
+Text_PleaseWait:	;No.02626 [D:0x00171051] [L:20]
+	text "잠시 기다려주십시오"
+	done
+	
+Text_LinkTimedOut:	;No.02627 [D:0x00171066] [L:87]
+	text "기다리는 시간이 길기에"
+	line "접수를 중지하겠습니다"
+	
+	para "친구와 연락을 해서"
+	line "다시 한번 와주십시오!"
+	prompt
+	
+	
+	
+Text_PleaseComeAgain:	;No.02628 [D:0x001710BE] [L:15]
+	text "그럼 또 오세요"
+	prompt
+	
+Text_PleaseComeIn:	;No.02629 [D:0x001710CE] [L:33]
+	text "그럼 이제"
+	line "안내를 해 드리겠습니다"
+	prompt
+	
+Text_TemporaryStagingInLinkRoom:	;No.02630 [D:0x001710F0] [L:40]
+	text "아무튼 통신의 방에"
+	line "간 것으로 하겠습니다"
+	done
+	
+	
+Text_CantLinkToThePast:	;No.02631 [D:0x00171119] [L:42]
+	text "이곳에서는 과거와의"
+	line "통신은 할 수 없습니다"
+	prompt
+	
+Text_IncompatibleRooms:	;No.02632 [D:0x00171144] [L:38]
+	text "친구와 선택하신 방이"
+	line "다른 것 같습니다"
+	prompt
+	
+Text_PleaseComeIn2:	;No.02633 [D:0x0017116B] [L:25]
+	text "그럼 방으로"
+	line "들어가십시오"
+	prompt
+	
+Text_PleaseEnter:	;No.02634 [D:0x00171185] [L:19]
+	text "그럼 안으로 드세요"
+	prompt
+	
+Text_RejectNewMon:	
+	text "@"
+	text_from_ram StringBuffer1
+	text "는(은)"
+	line "데리고 갈 수 없습니다"
+	prompt
+	
+	
+	
+	
+Text_RejectMonWithNewMove:	
+	text "@"
+	text_from_ram StringBuffer2
+	text "를(을)"
+	line "지니고 있는 @"
+	text_from_ram StringBuffer1
+	text ""
+	cont "는(은) 데리고 못 갑니다!"
+	prompt
+	
+Text_RejectMonWithMail:	
+	text "메일을 지니고 있는"
+	line "@"
+	text_from_ram StringBuffer1
+	text "는(은)"
+	cont "데리고 못 갑니다!"
+	prompt
+	
+	
+	
+Text_TimeCapsuleClosed:	;No.02638 [D:0x00171230] [L:43]
+	text "대단히 죄송합니다"
+	line "지금 이곳은"
+	cont "조정중입니다"
+	done
+	
+Text_TradeRoomClosed:	;No.02639 [D:0x0017125C] [L:54]
+	text "대단히 죄송합니다"
+	line "지금 이쪽의 교환머신은"
+	cont "조정중입니다"
+	done
+	
+Text_BattleRoomClosed:	;No.02640 [D:0x00171293] [L:54]
+	text "대단히 죄송합니다"
+	line "지금 이쪽의 대전머신은"
+	cont "조정중입니다"
+	done
+	
+Text_MysteryGiftDeliveryGuy_Intro:	;No.02641 [D:0x001712CA] [L:37]
+	text ""
+	db "<PLAYER>"
+	db "님이군요?"
+	line "전해드릴 물건이 있습니다"
+	done
+	
+	
+	
+	
+Text_MysteryGiftDeliveryGuy_HereYouGo:	;No.02642 [D:0x001712F0] [L:18]
+	text "이것을 받으세요!"
+	done
+	
+Text_MysteryGiftDeliveryGuy_Outro:	;No.02643 [D:0x00171303] [L:52]
+	text "에- 도장은 괜찮습니다"
+	line "다음에도 이용을 부탁드립니다"
+	done
+	
+Text_MysteryGiftDeliveryGuy_NoRoom:	;No.02644 [D:0x00171338] [L:95]
+	text "더이상은 지닐 수 없을 것 같군요"
+	
+	para "우리들은 전국의"
+	line "포켓몬센터에 있으니까"
+	cont "언제든지 받으러 와주세요"
+	done
+	
+	
+	
+	
+Text_MysteryGiftDeliveryGuy_SaidNo:	;No.02645 [D:0x00171398] [L:12]
+	text "엥 이상하네"
+	done
+	
+	
+Text_OhPleaseWait:	
+	text "잠깐만요"
+	done
+	
+Text_ChangeTheLook:	
+	text "아무래도 잠시"
+	line "옷을 바꿔입어야 겠습니다…"
+	done
+	
+Text_LikeTheLook:	
+	text "이제 보니 좋네요"
+	line "들어가도 됩니다"
+	done
+	
+Text_BrokeStadiumRules:	
+	text "대단히 죄송합니다만"
+	para "스타디움의 규칙에 따라"
+	line "알을 제외한 6마리의"
+	cont "포켓몬을 데려가야 합니다"
+	
+	para "또한 특별한 도구를 지니면"
+	line "안됩니다"
+	
+	line "다음에 이용을 부탁드립니다"
+	done

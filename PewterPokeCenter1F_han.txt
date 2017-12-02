@@ -1,0 +1,29 @@
+UnknownText_0x1a2f01:	;No.02399 [D:0x001685B7] [L:98]
+	text "저기 저기……"
+	line "홍련섬의 체육관이 없어졌데!"
+	cont "나 무척 놀랬다!"
+	
+	para "…… 뭐-야? 전화중이야"
+	line "방해하지마!"
+	done
+	
+	
+	
+PewterJigglypuffText:	;No.02400 [D:0x0016861A] [L:20]
+	text "푸린『푸린 푸-푸린"
+	done
+	
+	
+UnknownText_0x1a2f75:	;No.02401 [D:0x0016862F] [L:108]
+	text "푸린의 노래를 들으면……"
+	line "거의 모든 포켓몬들은 잠들어버린다"
+	
+	para "잠들어 있을때 사용하는 기술이"
+	line "몇 개정도 있단다!"
+	done
+	
+	
+	
+	
+	
+	

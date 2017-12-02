@@ -1,0 +1,45 @@
+SailorErnestSeenText:	;;No.00413 [D:0x001128C0] [L:77]
+	text "규리씨랑 승부하고싶었지만"
+	line "그럴때가 아닌 것 같군"
+	cont "대신 내 상대가 되어 주겠어?"
+	done
+	
+	
+	
+SailorErnestBeatenText:	;;No.00414 [D:0x0011290E] [L:28]
+	text "오오옷!"
+	line "뭐냐 이 강력함은!"
+	done
+	
+UnknownText_0x60a1f:	;;No.00415 [D:0x0011292B] [L:60]
+	text "강한 것만이 체육관 관장이 아냐"
+	line "부드러움도 필요하다고나 할까"
+	done
+	
+	
+	
+	
+	
+Bird_keeperDenisSeenText:	;;No.00416 [D:0x00112968] [L:39]
+	text "하늘이 가까우니까"
+	line "내 새포켓몬 절호조!"
+	done
+	
+	
+	
+	
+Bird_keeperDenisBeatenText:	;;No.00417 [D:0x00112990] [L:29]
+	text "에구에구"
+	line "갑자기 곤두박질……"
+	done
+	
+UnknownText_0x60ac3:	;;No.00418 [D:0x001129AE] [L:101]
+	text "내 포켓몬 진청시티에서"
+	line "공중날기 기술을 배웠어"
+	
+	para "그건 그렇고 져버렸기도 하고"
+	line "바다너머 어딘가에 가볼까나"
+	done
+	
+	
+	

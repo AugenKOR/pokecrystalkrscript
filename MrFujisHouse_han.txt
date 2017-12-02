@@ -1,0 +1,33 @@
+UnknownText_0x7e8f1:	;No.02653 [D:0x001741B8] [L:82]
+	text "등나무노인의 집은 여기입니다만"
+	line "할아버지는 이곳에 안계세요!"
+	
+	para "영혼의 집에"
+	line "가 보세요"
+	done
+	
+	
+	
+UnknownText_0x7e940:	;No.02654 [D:0x0017420B] [L:87]
+	text "포켓몬을 돌보지"
+	line "않는 사람들이 늘어간다"
+	
+	para "불쌍한 포켓몬을"
+	line "할아버지가 맡아서"
+	cont "키우고 있단다"
+	done
+	
+	
+	
+	
+MrFujisPsyduckText:	;No.02655 [D:0x00174263] [L:24]
+	text "고라파덕『파덕 파-덕?"
+	done
+	
+MrFujisNidorinoText:	;No.02656 [D:0x0017427C] [L:19]
+	text "니드리노『리노!!"
+	done
+	
+MrFujisPidgeyText:	;No.02657 [D:0x00174290] [L:17]
+	text "구구『구-구-!"
+	done

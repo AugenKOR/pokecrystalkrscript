@@ -1,0 +1,22 @@
+UnknownText_0x9b865:	;No.02882 [D:0x0017CCC2] [L:85]
+	text "이야이야 잘 왔다!"
+	line "오랜만의 손님이다!"
+	
+	para "아저씨는 매우 기쁘단다!"
+	line "이것을 너에게 주마!"
+	done
+	
+	
+	
+	
+	
+	
+UnknownText_0x9b8e5:	;No.02883 [D:0x0017CD18] [L:67]
+	text "그것은 아저씨의 금구슬!"
+	line "유용한데 쓰거라!"
+	cont "아저씨의 금구슬이니까!"
+	done
+	
+	
+	
+	

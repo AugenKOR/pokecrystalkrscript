@@ -1,0 +1,84 @@
+UnknownText_0x18c042:	;No.01314 [D:0x001357E0] [L:83]
+	text "회색시티의 체육관에는 갔었니?"
+	
+	para "바위타입의 포켓몬을 사용하는"
+	line "체육관 관장이 있단다!"
+	done
+	
+	
+UnknownText_0x18c080:	;No.01315 [D:0x00135834] [L:71]
+	text "밤이 되면"
+	line "달맞이 산에 삐삐가"
+	cont "나타난다고 한다"
+	
+	para "매일 매일은 아닌것 같아도"
+	done
+	
+	
+UnknownText_0x18c0c6:	;No.01316 [D:0x0013587C] [L:164]
+	text "호오!"
+	line "성도로부터 멀리서 왔는가!"
+	
+	para "움 그립구나"
+	line "나도 젊었을 때 성도에서"
+	cont "트레이너 수행을 했었단다"
+	
+	para "너에게는 친숙함이 생기는구나"
+	line "성도에서 발견한 이 날개"
+	cont "너에게 주겠다!"
+	done
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+UnknownText_0x18c1aa:	;No.01317 [D:0x00135921] [L:57]
+	text "여러 장소에 가서"
+	line "많은 발견을 한다"
+	cont "그것이 여행의 묘미란다"
+	done
+	
+	
+	
+	
+PewterCitySignText:	;No.01318 [D:0x0013595B] [L:38]
+	text "이곳은 회색시티"
+	line "회색은 재와 돌의 색깔"
+	done
+	
+PewterGymSignText:	;No.01319 [D:0x00135982] [L:63]
+	text "회색시티의 포켓몬 체육관"
+	line "관장인 웅"
+	cont "강하고 단단한 의지의 사나이"
+	done
+	
+	
+	
+	
+PewterMuseumSignText:	;No.01320 [D:0x001359C2] [L:73]
+	text "…… 전단지가 붙어 있다!"
+	
+	para "회색시티 과학 박물관은"
+	line "개장 공사를 위해 폐쇄중"
+	done
+	
+	
+	
+PewterCityMtMoonGiftShopSignText:	;No.01321 [D:0x00135A0C] [L:64]
+	text "…… 전단지가 붙어 있다"
+	
+	para "달맞이 산 선물의 집이"
+	line "문을 열었습니다!"
+	done
+	
+	
+PewterCityWelcomeSignText:	;No.01322 [D:0x00135A4D] [L:29]
+	text "어서오세요 회색시티에 오세요"
+	done
+	
+	

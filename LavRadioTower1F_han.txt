@@ -1,0 +1,145 @@
+UnknownText_0x7eebf:	;No.02665 [D:0x001746D5] [L:43]
+	text "어서오세요!"
+	
+	para "1층의 플로어는"
+	line "견학중입니다!"
+	done
+	
+	
+UnknownText_0x7eefa:	;No.02666 [D:0x00174701] [L:88]
+	text "견학은 1층 플로어뿐입니다"
+	
+	para "성도의 라디오타워가"
+	line "악당들에게 점령되어서"
+	cont "경비를 강화했습니다"
+	done
+	
+	
+	
+	
+	
+	
+	
+	
+UnknownText_0x7ef90:	;No.02667 [D:0x0017475A] [L:91]
+	text "많은 사람들이"
+	line "라디오타워에서 일하고 있데!"
+	
+	para "재미있는 방송을 만들기위해"
+	line "모두 힘을내고 있지!"
+	done
+	
+	
+	
+	
+	
+UnknownText_0x7effb:	;No.02668 [D:0x001747B6] [L:140]
+	text "아아 큰일이다!"
+	
+	para "발전소가 움직이지 않으면"
+	line "라디오 방송도 할 수 없게된다!"
+	
+	para "겨우 라디오를 시작했는데"
+	line "방송을 하지 못 하게 되면"
+	cont "나는 파멸이야-!"
+	done
+	
+	
+	
+	
+	
+	
+	
+	
+UnknownText_0x7f0a1:	;No.02669 [D:0x00174843] [L:139]
+	text "오오!"
+	line "네가 발전소 사건을"
+	cont "해결한 "
+	db "<PLAY_G>"
+	db "인가!"
+	
+	para "네 덕분으로 나는"
+	line "짤리지 않고 살고 있단다"
+	cont "정말 살았단다!"
+	
+	para "내 마음의 선물이다"
+	line "이것을 받아가거라!"
+	done
+	
+	
+	
+	
+	
+UnknownText_0x7f141:	;No.02670 [D:0x001748CF] [L:81]
+	text "그것이 있으면"
+	line "새로운 라디오 방송이 생긴다"
+	cont "들을 수 있도록 된단다!"
+	cont "카하하하하핫!"
+	done
+	
+	
+	
+	
+UnknownText_0x7f193:	;No.02671 [D:0x00174921] [L:166]
+	text "하아-이!"
+	line "나는 음악 방송의"
+	cont "최고 감독!"
+	
+	para "……오잉 너의 포켓기어로는"
+	line "유감이지만 내 방송을"
+	cont "수신할 수 없구나!"
+	
+	para "업그레이드를 한 라디오 카드를"
+	line "끼우면 들을 수 있게 된단다!"
+	done
+	
+	
+	
+	
+	
+	
+	
+UnknownText_0x7f248:	;No.02672 [D:0x001749C8] [L:88]
+	text "하아-이!"
+	line "나는 음악 방송의"
+	cont "최고 감독!"
+	
+	para "아름다운 멜로디를"
+	line "방송하고 있단다!"
+	cont "잘 부탁해!"
+	done
+	
+	
+	
+	
+	
+	
+	
+	
+UnknownText_0x7f2e3:	;No.02673 [D:0x00174A21] [L:78]
+	text "1층 …… 안내"
+	line "2층 …… 영업부"
+	cont "3층 …… 총무부"
+	cont "4층 …… 제작실"
+	cont "5층 …… 국장실"
+	done
+	
+	
+	
+	
+UnknownText_0x7f32d:	;No.02674 [D:0x00174A70] [L:63]
+	text "맑고 깨끗한 피리의 음색으로"
+	line "포켓몬의 기분도 두둥실!"
+	cont "채널 20!"
+	done
+	
+	
+	
+UnknownText_0x7f36b:	;No.02675 [D:0x00174AB0] [L:58]
+	text "포켓몬의 CD랑"
+	line "비디오가 많이 진열되어 있다"
+	cont "방송 자료인가?"
+	done
+	
+	
+	

@@ -1,0 +1,65 @@
+Bug_catcherRobSeenText:	
+	text "내 벌래포켓몬 강하단다!"
+	line "각오해랏!"
+	done
+	
+	
+Bug_catcherRobBeatenText:	
+	text "당했다!"
+	done
+	
+UnknownText_0x1ac34d:	
+	text "더욱 강한 포켓몬을"
+	line "찾아야지!"
+	done
+	
+	
+Bug_catcherEdSeenText:	
+	text "반바지로 풀숲에 들어가면"
+	line "풀에 다리를 베거나 하지 않니?"
+	done
+	
+	
+	
+	
+Bug_catcherEdBeatenText:	
+	text "에구에구 아파라……!"
+	done
+	
+UnknownText_0x1ac3cf:	
+	text "목욕을 하면"
+	line "스며들어 아프지 굉장히"
+	done
+	
+	
+Bug_catcherDougSeenText:	
+	text "여자아이란 어째서"
+	line "벌레포켓몬을 싫어하는 걸까?"
+	done
+	
+Bug_catcherDougBeatenText:	
+	text "틀렸다!"
+	done
+	
+UnknownText_0x1ac423:	
+	text "벌레포켓몬의 배를"
+	line "만졌을때"
+	cont "흐물흐물한 감촉!"
+	cont "그것이 좋은건데!"
+	done
+	
+	
+	
+	
+	
+Route2SignText:	
+	text "이곳은 2번 도로"
+	line "상록시티 …… 회색시티"
+	done
+	
+	
+	
+UnknownText_0x1ac49f:	
+	text "이곳은 디그다의 굴"
+	done
+	

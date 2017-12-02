@@ -1,0 +1,101 @@
+UnknownText_0x69555:	;No.02069 [D:0x00159399] [L:117]
+	text "<PLAY_G> "
+	db"오래간만입니다"
+	line "공박사님께 부탁을 받아서"
+	cont "당신을 찾고 있었어요"
+	
+	para "사실은……"
+	
+	para "포켓몬 알을"
+	line "지니고 있어달라는 것입니다!"
+	done
+	
+	
+	
+	
+UnknownText_0x695c5:	;No.02070 [D:0x0015940F] [L:252]
+	text "공박사님이 조사한 바로는"
+	line "포켓몬은 알 안에서"
+	cont "어느정도 키우지 않으면"
+	cont "태어나지 않는다고 합니다!"
+	
+	para "그것도 늘 활발한"
+	line "포켓몬 곁에 있지 않으면"
+	cont "안 된다는 것 같아요"
+	
+	para "그러한 것을 부탁할 만한 사람은"
+	line "<PLAY_G> "
+	db "뿐이니까"
+	cont "잘 부탁할께요!"
+	
+	para "태어난다면 공박사님에게"
+	line "연락해주세요"
+	done
+	
+	
+	
+UnknownText_0x69693:	;No.02071 [D:0x0015950C] [L:82]
+	text "포켓몬이 잔뜩 있어서"
+	line "그 이상 데리고 다닐 수 없습니다"
+	cont "그럼 이곳에서 기다리겠습니다"
+	done
+	
+	
+	
+	
+	
+UnknownText_0x696f2:	;No.02072 [D:0x0015955F] [L:38]
+	text "그 그런……"
+	line "공박사님의 부탁이라니까요"
+	done
+	
+UnknownText_0x69712:	;No.02073 [D:0x00159586] [L:34]
+	text "<PLAY_G>"
+	line "알을 데리고 있어 주겠습니까?"
+	done
+	
+UnknownText_0x6972d:	
+	text "만약 멀리 있는 친구와"
+	line "대전을 할수 있으면 좋을텐데!"
+	done
+	
+UnknownText_0x69791:	
+	text "방금 진청시티의 친구와"
+	line "콜로세움에서 배틀하고 왔어!"
+	
+	para "모바일 어뎁터만 있으면"
+	line "멀리 있는 친구랑 놀수 있어!"
+	done
+	
+UnknownText_0x69809:	;No.02074 [D:0x001595A9] [L:66]
+	text "잡은 포켓몬을"
+	line "컴퓨터에 맡기는 시스템을"
+	cont "이수재라는 녀석이 만들었대"
+	done
+	
+UnknownText_0x6983c:	;No.02075 [D:0x001595EC] [L:145]
+	text "3년정도 전쯤의 이야기란다"
+	
+	para "로켓단이라고 하는 녀석들이"
+	line "포켓몬을 사용해서"
+	cont "나쁜 짓만 했단다"
+	
+	para "하지만 악은 망한다!"
+	line "어떤 소년의 활약으로"
+	cont "해산되었단다!"
+	done
+	
+	
+UnknownText_0x698b8:	;No.02076 [D:0x0015967E] [L:138]
+	text "포켓몬은 머리가 좋으니까"
+	line "존경할만한 트레이너가"
+	cont "말하는 것이 아니면 듣지 않아"
+	
+	para "체육관 배지를 지니고 있지 않으면"
+	line "명령도 듣지않고 제멋대로란다"
+	done
+	
+	
+	
+	
+	

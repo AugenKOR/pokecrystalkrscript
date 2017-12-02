@@ -1,0 +1,74 @@
+FirebreatherOtisSeenText:	;;No.01645 [D:0x00140FC2] [L:28]
+	text "아-!"
+	line "오늘도 좋은 날씨다!"
+	done
+	
+FirebreatherOtisBeatenText:	;;No.01646 [D:0x00140FDF] [L:31]
+	text "날씨는 맑아도"
+	line "내 마음은 비……"
+	done
+	
+UnknownText_0x1adff7:	;;No.01647 [D:0x00140FFF] [L:34]
+	text "비가 오면"
+	line "햇빛이 뚫기 힘들지"
+	cont "홋!"
+	done
+	
+YoungsterWarrenSeenText:	;;No.01648 [D:0x00141022] [L:26]
+	text "우-움……"
+	line "어떡게할까……"
+	done
+	
+YoungsterWarrenBeatenText:	;;No.01649 [D:0x0014103D] [L:14]
+	text "역시 졌다……"
+	done
+	
+UnknownText_0x1ae051:	;;No.01650 [D:0x0014104C] [L:45]
+	text "너 강한 것 같으니까"
+	line "싸우기가 무서웠어 나……"
+	done
+	
+	
+	
+YoungsterJimmySeenText:	;;No.01651 [D:0x0014107A] [L:38]
+	text "나는 바람의 아들"
+	line "활력이 넘치는 아이!"
+	done
+	
+YoungsterJimmyBeatenText:	;;No.01652 [D:0x001410A1] [L:9]
+	text "퓨우-!"
+	done
+	
+UnknownText_0x1ae0a9:	;;No.01653 [D:0x001410AB] [L:42]
+	text "일년내내 짧은 반바지"
+	line "이것이 나의 신조다!"
+	done
+	
+	
+	
+	
+FirebreatherBurtSeenText:	;;No.01654 [D:0x001410D6] [L:25]
+	text "어서오너라!"
+	line "잘 보거라!"
+	done
+	
+FirebreatherBurtBeatenText:	;;No.01655 [D:0x001410F0] [L:7]
+	text "아찻!"
+	done
+	
+UnknownText_0x1ae118:	;;No.01656 [D:0x001410F8] [L:71]
+	text "관동 최고의"
+	line "불뿜기 연예인은 나를두고 하는말!"
+	cont "……포켓몬 승부는 졌지만"
+	done
+	
+	
+	
+	
+UnknownText_0x1ae163:	;;No.01657 [D:0x00141140] [L:40]
+	text "달맞이 산 광장"
+	line "……계단을 올라서 바로!"
+	done
+	
+	
+	

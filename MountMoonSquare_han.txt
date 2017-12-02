@@ -1,0 +1,5 @@
+DontLitterSignText:	;No.02581 [D:0x0016E6DE] [L:53]
+	text "달맞이 산 광장"
+	line "……쓰레기를 버리는 것은"
+	cont "하지맙시다!"
+	done

@@ -1,0 +1,99 @@
+UnknownText_0x180178:	;No.02403 [D:0x001688E7] [L:94]
+	text "포켓몬 리그는"
+	line "사천왕 4명에게 전부"
+	cont "이길 수 있는가를 시험한다"
+	
+	para "진다면 물론"
+	line "처음부터 다시해야지!"
+	done
+	
+	
+	
+	
+	
+	
+PlateauRivalText1:	;No.02404 [D:0x00168946] [L:135]
+	text "기다려랏!"
+	
+	para "…… 지금부터 포켓몬 리그에"
+	line "도전하려구?"
+	
+	para "그건 무리야"
+	
+	para "애지중지하며 키워 온"
+	line "내 포켓몬이"
+	cont "너를 쓰러뜨릴테니까"
+	
+	para "<PLAYER>!"
+	line "나랑 승부다!"
+	done
+	
+	
+	
+	
+	
+	
+	
+PlateauRivalWinText:	;No.02405 [D:0x001689CE] [L:42]
+	text "…… …… ……"
+	
+	para "나의 패배를 인정하겠다……"
+	done
+	
+PlateauRivalText2:	;No.02406 [D:0x001689F9] [L:129]
+	text "…… 크웃"
+	line "또 졌단말인가……"
+	
+	para "더욱……"
+	line "더 포켓몬에대해"
+	cont "생각해볼 필요가 있다……"
+	cont "그런말인가"
+	
+	para "…… 흥!"
+	line "전력을 다하는 것이 좋은거니까"
+	done
+	
+PlateauRivalLoseText:	;No.02407 [D:0x00168A7B] [L:72]
+	text "…… …… ……"
+	
+	para "후우……"
+	line "다음엔 이녀석들과 함께"
+	cont "참피언이 되어 보이겠어!"
+	done
+	
+	
+	
+TeleportGuyText1:	;No.02408 [D:0x00168AC4] [L:167]
+	text "호오 사천왕에게 도전하는가!"
+	line "더 많이 수행을 하지 않고서도"
+	cont "괜찮을까?"
+	
+	para "내 캐이시의 순간이동은"
+	line "강력하니까"
+	cont "너를 집까지 날려보내 주겠다"
+	
+	para "어떡게 하겠느냐?"
+	line "보내주길 바라니?"
+	done
+	
+	
+	
+	
+	
+	
+	
+	
+TeleportGuyYesText:	;No.02409 [D:0x00168B6C] [L:60]
+	text "그랬군 그랬군"
+	line "그렇다면 자신의 집을"
+	cont "마음속에 떠올리고 있거라"
+	done
+	
+TeleportGuyNoText:	;No.02410 [D:0x00168BA9] [L:34]
+	text "그랬군 그랬군"
+	line "그렇다면 힘내거라!"
+	done
+	
+AbraText:	;No.02411 [D:0x00168BCC] [L:19]
+	text "캐이시『캐이시……"
+	done

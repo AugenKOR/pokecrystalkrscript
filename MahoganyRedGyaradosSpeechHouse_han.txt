@@ -1,0 +1,25 @@
+UnknownText_0x19999c:	;No.01744 [D:0x0014523A] [L:102]
+	text "빨간 갸라도스가"
+	line "분노의 호수에 나타난 것 같아!"
+	
+	para "저 호수에 갸라도스가"
+	line "있다는것 만으로도 희한한 일인데."
+	done
+	
+	
+	
+	
+	
+UnknownText_0x199a0e:	;No.01745 [D:0x001452A1] [L:49]
+	text "내가 좋아하는 라디오 방송?"
+	line "음- 포켓몬 뮤직이야"
+	done
+	
+	
+UnknownText_0x199a3d:	;No.01746 [D:0x001452D3] [L:61]
+	text "최근 라디오에서"
+	line "웃음소리가 들려오고 있어……"
+	cont "어쩐지 기분나빠"
+	done
+	
+	

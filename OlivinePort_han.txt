@@ -1,0 +1,100 @@
+UnknownText_0x74a55:	
+	text "이제 곧 출발합니다!"
+	line "승선해주십시오"
+	done
+	
+	
+UnknownText_0x74a80:	;No.02434 [D:0x0016C1D9] [L:24]
+	text "배에는 탈 수 없습니다!"
+	done
+	
+	
+UnknownText_0x74a9c:	;No.02435 [D:0x0016C1F2] [L:50]
+	text "어서오세요!"
+	line "쾌속선 아쿠아호에!"
+	cont "승선하겠습니까?"
+	done
+	
+	
+	
+UnknownText_0x74ada:	;No.02436 [D:0x0016C225] [L:25]
+	text "그럼 티켓을 보여주십시오"
+	done
+	
+	
+UnknownText_0x74af6:	;No.02437 [D:0x0016C23F] [L:38]
+	text "그럼 다음에도 이용을"
+	line "부탁드리겠습니다"
+	done
+	
+UnknownText_0x74b11:	;No.02438 [D:0x0016C266] [L:59]
+	text "<PLAYER>"
+	db "는(은) 선원에게"
+	line "승선티켓을 보였다!"
+	
+	para "예! 확인했습니다!"
+	done
+	
+	
+UnknownText_0x74b41:	;No.02439 [D:0x0016C2A2] [L:129]
+	text "<PLAYER>"
+	db "는(은) 선원에게"
+	line "티켓을 보이려했다……"
+	cont "티켓이…… 없어……!"
+	
+	para "……대단히 죄송합니다!"
+	
+	para "들어가는 것은"
+	line "티켓이 있는 분만 가능합니다"
+	done
+	
+	
+	
+	
+UnknownText_0x74ba8:	;No.02440 [D:0x0016C324] [L:34]
+	text "쾌속선의 출항은"
+	line "다음 월요일입니다"
+	done
+	
+UnknownText_0x74bce:	;No.02441 [D:0x0016C347] [L:34]
+	text "쾌속선의 출항은"
+	line "다음 금요일입니다"
+	done
+	
+UnknownText_0x74bf4:	;No.02442 [D:0x0016C36A] [L:50]
+	text "다른 곳에서는 잘 잡히지 않는"
+	line "셀러가 잘 낚인단다!"
+	done
+	
+	
+	
+	
+UnknownText_0x74c35:	;No.02443 [D:0x0016C39D] [L:85]
+	text "너 낚싯대를"
+	line "몇자루 가지고 있니?"
+	
+	para "낚싯대의 종류에의해"
+	line "잡히기 쉬운 포켓몬이 바뀐단다!"
+	done
+	
+	
+UnknownText_0x74c76:	;No.02444 [D:0x0016C3F3] [L:66]
+	text "쾌속선 아쿠아호는"
+	line "제트의 힘으로 약간 물에 떠서"
+	cont "바다 위를 달린다!"
+	done
+	
+UnknownText_0x74ca2:	;No.02445 [D:0x0016C436] [L:50]
+	text "관동지방에도 많은"
+	line "포켓몬이 있지!"
+	cont "나도 가고싶어!"
+	done
+	
+	
+UnknownText_0x74cd7:	;No.02446 [D:0x0016C469] [L:53]
+	text "바다에 떨어질까봐"
+	line "위험해서 그래"
+	cont "더 이상 가면 안 된다"
+	done
+	
+	

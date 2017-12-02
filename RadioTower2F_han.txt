@@ -1,0 +1,367 @@
+UnknownText_0x5d924:	
+	text "어디서든 라디오 청취가 가능하니까"
+	line "어디서든 라디오를 들어주세요!"
+	done
+	
+	
+UnknownText_0x5d956:	
+	text "라디오에서 흘러나오는 자장가라도"
+	line "포켓몬은 잠들어버리거든"
+	done
+	
+	
+UnknownText_0x5d983:	
+	text "라디오 방송국을 점령해서"
+	line "어떡게 할 작정일까……?"
+	done
+	
+	
+RadioTowerJigglypuffText:	
+	text "푸린『푸우…… 푸린……"
+	done
+	
+	
+UnknownText_0x5d9cb:	
+	text "여기부터 윗층은 관계자 외"
+	line "출입금지란다……"
+	
+	para "예전에는 그런 일이 없었는데"
+	line "지금 국장은 좀 이상해"
+	done
+	
+	
+	
+	
+	
+	
+UnknownText_0x5da44:	
+	text "어디든 견학 OK 란다"
+	line "예전처럼 상냥한"
+	cont "국장으로 되돌아왔단다"
+	done
+	
+	
+	
+	
+GruntM4SeenText:	
+	text "3년전 로켓단은"
+	line "해산에 몰리게 되었다……"
+	
+	para "그러나 우리들은"
+	line "이곳에서 부활하는 것이다!"
+	done
+	
+	
+GruntM4BeatenText:	
+	text "크윽-"
+	line "정떨어지는 놈"
+	done
+	
+UnknownText_0x5db07:	
+	text "너같은 녀석에게"
+	line "부활의 방해를 받을 순 없지!"
+	done
+	
+	
+GruntM5SeenText:	
+	text "우리들은"
+	line "포켓몬의 마피아 로켓단이다!"
+	cont "나쁜 짓을 무척 좋아하지"
+	
+	para "오호-  겁먹었냐?"
+	done
+	
+	
+GruntM5BeatenText:	
+	text "정의의 편에 설 작정이냐?"
+	done
+	
+	
+UnknownText_0x5db99:	
+	text "특별히 우리들은"
+	line "나쁜 짓을 하려는건 아니구"
+	cont "단지 좋아하는 것을 하려는거야"
+	done
+	
+GruntM6SeenText:	
+	text "이봐 이봐!"
+	line "우리들을 방해해서는 않되지!"
+	done
+	
+GruntM6BeatenText:	
+	text "우우…… 졌다"
+	done
+	
+UnknownText_0x5dc00:	
+	text "간부들은 이곳을 점령하려고"
+	line "엄청난 일을 벌일 것 같아"
+	cont "그건 그렇고 이제 뭘 할까나?"
+	done
+	
+	
+	
+	
+	
+GruntF2SeenText:	
+	text "호호호!"
+	line "너무나 간단하게 점령되어서"
+	cont "싫증이 났지뭐야!"
+	
+	para "니가 날 즐겁게 해주겠어?"
+	done
+	
+	
+	
+	
+	
+	
+GruntF2BeatenText:	
+	text "네 녀석은 어떤 놈이냐!?"
+	done
+	
+UnknownText_0x5dcd0:	
+	text "나보다 강하다니……"
+	
+	para "용서할 수 없어!"
+	done
+UnknownText_0x5dcf4:	
+	text "BUENA: Hi! I'm"
+	line "BUENA!"
+	
+	para "Do you know about"
+	line "a radio program"
+	cont "called PASSWORD?"
+	
+	para "If you can tell me"
+	line "the password from"
+	
+	para "the program, you"
+	line "will earn points."
+	
+	para "Save up those"
+	line "points and trade"
+	
+	para "them to that sweet"
+	line "young lady over"
+	
+	para "there for some"
+	line "choice prizes!"
+	
+	para "Here you go!"
+	
+	para "It's your very own"
+	line "point card!"
+	done
+	
+UnknownText_0x5de10:	
+	text "BUENA: Tune in to"
+	line "my PASSWORD SHOW!"
+	done
+	
+UnknownText_0x5de35:	
+	text "BUENA: Hi!"
+	line "Did you tune in to"
+	cont "my radio show?"
+	
+	para "Do you remember"
+	line "today's password?"
+	done
+	
+UnknownText_0x5de84:	
+	text "BUENA: Oh, wow!"
+	line "Thank you!"
+	
+	para "What was your name"
+	line "again?"
+	
+	para "…<PLAY_G>, OK!"
+	
+	para "Come on, <PLAY_G>."
+	line "Join the show."
+	done
+	
+UnknownText_0x5dedd:	
+	text "BUENA: Everyone"
+	line "ready?"
+	
+	para "I want to hear you"
+	line "shout out today's"
+	
+	para "password for"
+	line "<PLAY_G>!"
+	done
+	
+UnknownText_0x5df29:	
+	text "BUENA: Come back"
+	line "after you listen"
+	
+	para "to my show, OK?"
+	line "Catch ya later!"
+	done
+	
+UnknownText_0x5df6c:	
+	text "BUENA: Sorry…"
+	
+	para "You get just one"
+	line "chance each day."
+	
+	para "Come back tomorrow"
+	line "for another try!"
+	done
+	
+UnknownText_0x5dfc1:	
+	text "BUENA: YIPPEE!"
+	line "That's right!"
+	
+	para "You did tune in!"
+	line "I'm so happy!"
+	
+	para "You earned one"
+	line "point! Congrats!"
+	done
+	
+UnknownText_0x5e01c:	
+	text "BUENA: Aww…"
+	line "That's not it…"
+	
+	para "Did you forget the"
+	line "password?"
+	done
+	
+UnknownText_0x5e054:	
+	text "BUENA: Yup! Our"
+	line "contestant was"
+	
+	para "<PLAY_G>."
+	line "Thanks for coming!"
+	
+	para "I hope all you"
+	line "listeners will"
+	
+	para "come too!"
+	line "I'll be waiting!"
+	done
+	
+UnknownText_0x5e0c2:	
+	text "BUENA: Huh?"
+	line "Today's password?"
+	
+	para "HELP, of course!"
+	done
+	
+UnknownText_0x5e0f1:	
+	text "BUENA: Your BLUE"
+	line "CARD's full."
+	
+	para "Trade it in for a"
+	line "fabulous prize!"
+	done
+	
+UnknownText_0x5e131:	
+	text "BUENA: Tune in to"
+	line "PASSWORD every"
+	
+	para "night from six to"
+	line "midnight!"
+	
+	para "Tune in, then drop"
+	line "in for a visit!"
+	done
+	
+UnknownText_0x5e192:	
+	text "BUENA: Oh? You"
+	line "forgot to bring"
+	cont "your BLUE CARD?"
+	
+	para "I can't give you"
+	line "points if you"
+	cont "don't have it."
+	done
+	
+UnknownText_0x5e1ee:	
+	text "BUENA: Oh! Your"
+	line "BLUE CARD reached"
+	
+	para "30 points today!"
+	line "That's so wild!"
+	
+	para "Hmm… There isn't a"
+	line "prize for hitting"
+	cont "30 points, but…"
+	
+	para "You came by so"
+	line "often, <PLAY_G>."
+	
+	para "I'll make you a"
+	line "special deal!"
+	
+	para "How would you like"
+	line "my phone number?"
+	done
+	
+UnknownText_0x5e2bf:	
+	text "BUENA: <PLAY_G>,"
+	line "do you want to"
+	
+	para "register my phone"
+	line "number?"
+	done
+	
+UnknownText_0x5e2f3:	
+	text "<PLAYER> registered"
+	line "BUENA's number."
+	done
+	
+UnknownText_0x5e310:	
+	text "BUENA: I look"
+	line "forward to hearing"
+	cont "from you!"
+	done
+	
+UnknownText_0x5e33c:	
+	text "BUENA: Aww… It's a"
+	line "special prize…"
+	done
+	
+UnknownText_0x5e35e:	
+	text "BUENA: <PLAY_G>,"
+	line "your phone list"
+	
+	para "has no room left"
+	line "for me…"
+	done
+	
+UnknownText_0x5e392:	
+	text "You can cash in"
+	line "your saved points"
+	
+	para "for a lovely prize"
+	line "of your choice!"
+	done
+	
+UnknownText_0x5e3d8:	
+	text "You can't trade in"
+	line "points without"
+	cont "your BLUE CARD."
+	
+	para "Don't forget your"
+	line "BLUE CARD!"
+	done
+	
+UnknownText_0x5e426:	
+	text "2층 …… 영업부"
+	done
+	
+UnknownText_0x5e430:	
+	text "오박사의 포켓몬 강좌"
+	line "대 호평 방송중!"
+	done
+	
+	
+	
+	
+UnknownText_0x5e463:	
+	text "24시간 언제든지"
+	line "어디에 있던지 포켓몬 라디오"
+	done
+	

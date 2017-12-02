@@ -1,0 +1,4 @@
+LugiaText:	
+	text "으갸아아!!"
+	done
+	

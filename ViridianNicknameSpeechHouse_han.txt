@@ -1,0 +1,27 @@
+UnknownText_0x9ae54:	;No.02856 [D:0x0017C3F3] [L:90]
+	text "포켓몬의 별명"
+	line "잘 생각해서 붙이고 있냐?"
+	
+	para "별명을 붙여 놓으면"
+	line "다른 사람과 교환할 때"
+	cont "즐겁지!"
+	done
+	
+	
+	
+	
+	
+	
+UnknownText_0x9aecb:	;No.02857 [D:0x0017C44E] [L:34]
+	text "깨비참인 깨비꼬랑"
+	line "꼬렛인 꼬지다!"
+	done
+	
+	
+SpearyText:	;No.02858 [D:0x0017C471] [L:18]
+	text "깨비꼬『참 참참!"
+	done
+	
+RatteyText:	;No.02859 [D:0x0017C484] [L:15]
+	text "꼬지『꼬-렛!"
+	done

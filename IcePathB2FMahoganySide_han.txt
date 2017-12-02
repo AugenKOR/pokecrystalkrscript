@@ -1,0 +1,4 @@
+UnknownText_0x7e5ad:	
+	text "얼음에 깊이 박혀있어서"
+	line "밀 수 있을 것 같지 않다."
+	done

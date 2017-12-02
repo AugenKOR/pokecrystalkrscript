@@ -1,0 +1,7 @@
+UnknownText_0x1a2814:	;No.02385 [D:0x00168010] [L:12]
+	text "니드런 손!"
+	done
+	
+PewterNidoranText:	;No.02386 [D:0x0016801D] [L:22]
+	text "니드런『캬오 캬오오!"
+	done

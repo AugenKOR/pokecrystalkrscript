@@ -1,0 +1,19 @@
+KrisRadioText1:	;No.02956 [D:0x00181DAC] [L:53]
+	text "오박사님의 포켓몬 강좌"
+	line "모두 꼭 들어주세요!"
+	done
+	
+	
+KrisRadioText2:	;No.02957 [D:0x00181DE2] [L:19]
+	text "이곳은 포켓몬 채널"
+	done
+	
+KrisRadioText3:	;No.02958 [D:0x00181DF6] [L:25]
+	text "상대는"
+	line "DJ 호두였습니다!"
+	done
+	
+KrisRadioText4:	;No.02959 [D:0x00181E10] [L:24]
+	text "포켓몬"
+	line "포켓몬 채널 ……"
+	done

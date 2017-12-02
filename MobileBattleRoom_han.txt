@@ -1,0 +1,11 @@
+
+MobileBattleRoom_EstablishingCommsText:
+	text "Establishing"
+	line "communications…"
+	done
+
+MobileBattleRoom_HealText:
+	text "Your #MON will"
+	line "be fully healed"
+	cont "before battle."
+	done
