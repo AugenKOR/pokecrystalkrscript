@@ -1,0 +1,8 @@
+UnknownText_0x185b8a:	
+	text "칠색조『조오-!!"
+	done
+	
+UnknownText_0x185b9b:	
+	text "루기아『기아-아!!"
+	done
+	

@@ -1,0 +1,19 @@
+UnknownText_0x693fa:	;No.02065 [D:0x0015924E] [L:84]
+	text "좋아하는 음식의 이름을"
+	line "붙이고 있단다"
+	
+	para "우리 딸이 붙이고 있는 것은"
+	line "포켓몬의 별명이란다"
+	done
+	
+	
+	
+UnknownText_0x6945e:	;No.02066 [D:0x001592A3] [L:33]
+	text "내 구구"
+	line "치킨이라고 하는 이름이야!"
+	done
+	
+UnknownText_0x6947c:	;No.02067 [D:0x001592C5] [L:15]
+	text "치킨『구-구!"
+	done
+	

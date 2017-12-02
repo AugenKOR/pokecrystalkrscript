@@ -1,0 +1,3 @@
+HoOhText:	;No.02584 [D:0x0016E81A] [L:11]
+	text "조오-!!"
+	done

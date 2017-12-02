@@ -1,0 +1,182 @@
+UnknownText_0x5a6b5:	;;No.00369 [D:0x00111959] [L:251]
+	text "강집『오오 "
+	db "<PLAYER>"
+	db "인가"
+	
+	para "위에서 망을보던 녀석은"
+	line "큰소리로 혼쭐을 내니까"
+	cont "도망쳤지만……"
+	
+	para "나는 우물에서 떨어져버려"
+	line "허리를 다쳐 움직일 수 없단다"
+	
+	para "젠장…… 다치지만 않았으면"
+	line "내 포켓몬이"
+	cont "착착 혼을 낼 수 있을텐데……"
+	
+	para "이보게 "
+	db "<PLAYER>! "
+	line "내 대신"
+	cont "트레이너의 정신을 보여주거라!"
+	done
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+KurtLeaveSlowpokeWellText:	;;No.00370 [D:0x00111A55] [L:88]
+	text "강집『"
+	db "<PLAYER>"
+	db " 잘해주었다"
+	line "로켓단녀석들"
+	cont "싹 도망쳤단다"
+	
+	para "허리 상태도 좋아졌구"
+	line "나도 돌아가 봐야겠다"
+	done
+	
+	
+	
+	
+GruntM29SeenText:	;;No.00371 [D:0x00111AAE] [L:137]
+	text "젠장 위에서 감시하고 있었는데"
+	line "뭐야 저 노인은"
+	
+	para "갑자기 큰소리를 지르니까"
+	line "놀라서 우물에 떨어져버렸잖아"
+	
+	para "에-이 기분전환으로"
+	line "너를 괴롭혀볼까!"
+	done
+	
+	
+	
+	
+	
+	
+GruntM29BeatenText:	;;No.00372 [D:0x00111B38] [L:28]
+	text "아- 이런-"
+	line "전혀 안되겠군!"
+	done
+	
+TrainerGruntM29SlowpokeProfitText:	;;No.00373 [D:0x00111B55] [L:132]
+	text "그렇다 우리들이"
+	line "야돈의 꼬리를 잘라서"
+	cont "팔고있었다"
+	
+	para "이것도 저것도 다 돈벌기 위해서"
+	line "맞아 돈을 위해서라면"
+	cont "무엇이든 하는것이 바로 로켓단!"
+	done
+	
+	
+	
+	
+	
+	
+	
+	
+GruntM1SeenText:	;;No.00374 [D:0x00111BDA] [L:53]
+	text "뭐냐?"
+	
+	para "우리의 일을 방해할 것이라면"
+	line "용서하지 않겠다!"
+	done
+	
+	
+GruntM1BeatenText:	;;No.00375 [D:0x00111C10] [L:63]
+	text "쿠웃 꼬맹이"
+	line "꽤 잘하는군! 하지만"
+	cont "다음부터는 그렇게 않될 것이다"
+	done
+	
+TrainerGruntM1WhenTalkText:	;;No.00376 [D:0x00111C50] [L:148]
+	text "확실히 우리 로켓단은"
+	line "3년전에 해산했다"
+	
+	para "하지만 이렇게 지하로 숨어들어"
+	line "활동을 계속해온 것이다"
+	
+	para "이제부터 어떤 일이 일어날까"
+	line "즐겁게 기다리는게 좋을꺼다!"
+	done
+	
+	
+	
+	
+GruntM2SeenText:	;;No.00377 [D:0x00111CE5] [L:73]
+	text "꼬리 자르는 것을 그만두라고?"
+	
+	para "누가 시킨다고 그만둔다면"
+	line "로켓단이 아니지!"
+	done
+	
+	
+	
+GruntM2BeatenText:	;;No.00378 [D:0x00111D2F] [L:23]
+	text "너 너무나도 강하군……"
+	done
+	
+	
+UnknownText_0x5aaf2:	;;No.00379 [D:0x00111D47] [L:68]
+	text "돈을 번다고는 하지만"
+	line "야돈의 꼬리를 팔다니……"
+	
+	para "조무래기는 괴로워……"
+	done
+	
+	
+	
+GruntF1SeenText:	;;No.00380 [D:0x00111D8C] [L:67]
+	text "꼬리 자르는 것을 그만두라고?"
+	
+	para "자- 우리들"
+	line "전원을 쓰러뜨려 보아랏!"
+	done
+	
+GruntF1BeatenText:	;;No.00381 [D:0x00111DD0] [L:17]
+	text "이런 얄미운 녀석"
+	done
+	
+UnknownText_0x5ab8d:	;;No.00382 [D:0x00111DE2] [L:67]
+	text "야돈의 꼬리 같은 거"
+	line "금방 또다시 생기잖아"
+	cont "그것을 파는게 뭐가 나빠!"
+	done
+	
+	
+	
+UnknownText_0x5abcb:	;;No.00383 [D:0x00111E26] [L:69]
+	text "야돈이다……"
+	line "꼬리가 잘려있어……"
+	
+	para "오잉? 메일을 가지고있다"
+	line "읽어볼까?"
+	done
+	
+UnknownText_0x5ac09:	;;No.00384 [D:0x00111E6C] [L:90]
+	text "<PLAYER>"
+	db "는(은)"
+	line "메일을 읽어보았다!"
+	
+	para "할아버지랑 야돈이랑 사이좋게"
+	line "집지키고 있거라! 아버지로부터"
+	done
+	
+	
+	
+	
+	
+	
+UnknownText_0x5ac61:	;;No.00385 [D:0x00111EC7] [L:33]
+	text "야돈이다……"
+	line "꼬리가 잘려있다……"
+	done
+	

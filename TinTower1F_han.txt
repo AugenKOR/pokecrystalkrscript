@@ -1,0 +1,213 @@
+
+TinTowerEusineSuicuneText:
+	text "EUSINE: Awesome!"
+	line "Too awesome, even!"
+
+	para "I've never seen a"
+	line "battle that great."
+
+	para "That was truly"
+	line "inspiring to see."
+
+	para "SUICUNE was tough,"
+	line "but you were even"
+
+	para "more incredible,"
+	line "<PLAYER>."
+
+	para "I heard SUICUNE's"
+	line "mystic power"
+
+	para "summons a rainbow-"
+	line "colored #MON."
+
+	para "Maybe, just maybe,"
+	line "what went on today"
+
+	para "will cause that"
+	line "#MON to appear."
+
+	para "I'm going to study"
+	line "the legends more."
+
+	para "Thanks for showing"
+	line "me that fantastic"
+	cont "battle."
+
+	para "Later, <PLAYER>!"
+	done
+
+UnknownText_0x185386:
+	text "According to"
+	line "legend…"
+
+	para "When the souls of"
+	line "#MON and humans"
+
+	para "commune, from the"
+	line "heavens descends a"
+
+	para "#MON of rainbow"
+	line "colors…"
+
+	para "Could it mean the"
+	line "legendary #MON"
+
+	para "are testing us"
+	line "humans?"
+	done
+
+UnknownText_0x185433:
+	text "When the BRASS"
+	line "TOWER burned down,"
+
+	para "three nameless"
+	line "#MON were said"
+
+	para "to have perished."
+	line "It was tragic."
+
+	para "However…"
+
+	para "A rainbow-colored"
+	line "#MON…"
+
+	para "In other words…"
+
+	para "HO-OH descended"
+	line "from the sky and"
+
+	para "gave new life to"
+	line "the three #MON."
+
+	para "They are…"
+
+	para "SUICUNE, ENTEI and"
+	line "RAIKOU."
+
+	para "That is what they"
+	line "say."
+	done
+
+UnknownText_0x185544:
+	text "The two TOWERS are"
+	line "said to have been"
+
+	para "built to foster"
+	line "friendship and"
+
+	para "hope between #-"
+	line "MON and people."
+
+	para "That was 700 years"
+	line "ago, but the ideal"
+
+	para "still remains"
+	line "important today."
+	done
+
+UnknownText_0x1855ee:
+	text "HO-OH appears to"
+	line "have descended"
+
+	para "upon this, the TIN"
+	line "TOWER!"
+	done
+
+UnknownText_0x185629:
+	text "This will protect"
+	line "you. Take it."
+	done
+
+UnknownText_0x18564a:
+	text "Now, go."
+	done
+
+UnknownText_0x185654:
+	text "I believe you are"
+	line "being tested."
+
+	para "Free your mind"
+	line "from uncertainty,"
+	cont "and advance."
+	done
+
+TinTowerEusineHoOhText:
+	text "I knew it."
+
+	para "I knew you'd get"
+	line "to see the #MON"
+
+	para "of rainbow colors,"
+	line "<PLAYER>."
+
+	para "It happened just"
+	line "as I envisioned."
+
+	para "My research isn't"
+	line "bad, I might say."
+
+	para "I'm going to keep"
+	line "studying #MON"
+
+	para "to become a famous"
+	line "#MANIAC!"
+	done
+
+UnknownText_0x185765:
+	text "The legendary"
+	line "#MON are said"
+
+	para "to embody three"
+	line "powers…"
+
+	para "The lightning that"
+	line "struck the TOWER."
+
+	para "The fire that"
+	line "burned the TOWER."
+
+	para "And the rain that"
+	line "put out the fire…"
+	done
+
+UnknownText_0x185803:
+	text "When the legendary"
+	line "#MON appeared…"
+
+	para "They struck terror"
+	line "in those who saw"
+	cont "their rise."
+
+	para "And…"
+
+	para "Some even took to"
+	line "futile attacks."
+
+	para "The legendary"
+	line "#MON, knowing"
+
+	para "their own power,"
+	line "fled, ignoring the"
+	cont "frightened people."
+	done
+
+UnknownText_0x1858d0:
+	text "Of the legendary"
+	line "#MON, SUICUNE"
+
+	para "is said to be the"
+	line "closest to HO-OH."
+
+	para "I hear there may"
+	line "also be a link to"
+
+	para "#MON known as"
+	line "UNOWN."
+
+	para "The #MON UNOWN"
+	line "must be sharing a"
+
+	para "cooperative bond"
+	line "with SUICUNE."
+	done

@@ -1,0 +1,6 @@
+UnknownText_0x7701d:	;No.02580 [D:0x0016E5C8] [L:52]
+	text "쾌속선 아쿠아호의 출항은"
+	line "매주"
+	cont "수요일과 일요일이야!"
+	done
+	

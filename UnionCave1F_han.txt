@@ -1,0 +1,113 @@
+HikerRussellSeenText:	;;No.00332 [D:0x00110EE5] [L:77]
+	text "고동마을에 가는거니?"
+	line "이곳을 빠져나갈 수 있을까"
+	cont "내 포켓몬으로 시험해보겠다!"
+	done
+	
+	
+	
+	
+HikerRussellBeatenText:	;;No.00333 [D:0x00110F33] [L:11]
+	text "어이쿠……"
+	done
+	
+UnknownText_0x59c6c:	;;No.00334 [D:0x00110F3F] [L:78]
+	text "우-음! 결정했어!"
+	
+	para "내 포켓몬이 강해질때까지"
+	line "여기서 한 발짝도 나가지 않겠어!"
+	done
+	
+	
+	
+PokemaniacLarrySeenText:	;;No.00335 [D:0x00110F8E] [L:85]
+	text "포켓몬 찾으러 동서남북"
+	line "너도 포켓몬 찾으러왔니?"
+	
+	para "그럼 나의 포켓몬 수집"
+	line "경쟁상대로군!"
+	done
+	
+	
+	
+	
+	
+PokemaniacLarryBeatenText:	;;No.00336 [D:0x00110FE4] [L:19]
+	text "아아 내 포켓몬……"
+	done
+	
+	
+UnknownText_0x59d31:	;;No.00337 [D:0x00110FF8] [L:66]
+	text "금요일이 될 때마다"
+	line "동굴 저편으로부터"
+	cont "포켓몬의 울음소리가 들려온다"
+	done
+	
+	
+	
+HikerDanielSeenText:	;;No.00338 [D:0x0011103B] [L:39]
+	text "우왓 깜짝이야"
+	line "이런곳에 사람이 있다니!"
+	done
+	
+	
+	
+	
+HikerDanielBeatenText:	;;No.00339 [D:0x00111063] [L:49]
+	text "우왓, 깜짝, 화들짝"
+	line "이렇게 강한 사람이 있다니!"
+	done
+	
+UnknownText_0x59dc9:	;;No.00340 [D:0x00111095] [L:72]
+	text "속았었나? 멍청하게"
+	line "야돈의 꼬리를 사버렸어"
+	cont "어쩐지 야돈이 불쌍한 것 같아"
+	done
+	
+	
+	
+	
+FirebreatherBillSeenText:	;;No.00341 [D:0x001110DE] [L:47]
+	text "주뱃의 초음파로"
+	line "혼란스러워져서"
+	cont "어쩐지 화가나!"
+	done
+	
+	
+	
+	
+FirebreatherBillBeatenText:	;;No.00342 [D:0x0011110E] [L:17]
+	text "불이 옮겨 붙었다"
+	done
+	
+UnknownText_0x59e6f:	;;No.00343 [D:0x00111120] [L:57]
+	text "주말이 되면"
+	line "동굴 저편으로부터"
+	cont "이상한 울음소리가 들린단다"
+	done
+	
+	
+	
+FirebreatherRaySeenText:	;;No.00344 [D:0x0011115A] [L:63]
+	text "주위가 밝다면 동굴은 무섭지 않지"
+	line "강하다면 포켓몬도 무섭지 않아"
+	done
+	
+	
+	
+	
+	
+FirebreatherRayBeatenText:	;;No.00345 [D:0x0011119A] [L:13]
+	text "플래-시!!"
+	done
+	
+UnknownText_0x59efc:	;;No.00346 [D:0x001111A8] [L:66]
+	text "내 포켓몬이"
+	line "불꽃으로 불을 밝히고 있으니까"
+	cont "이 동굴은 밝은 것이지!"
+	done
+	
+UnknownText_0x59f29:	;;No.00347 [D:0x001111EB] [L:9]
+	text "연결동굴"
+	done
+	

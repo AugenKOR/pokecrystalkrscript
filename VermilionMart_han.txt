@@ -1,0 +1,13 @@
+UnknownText_0x191f8b:	
+	text "관동에는 로켓단이 없어"
+	line "단지 그것만으로도 기뻐진단다!"
+	done
+	
+	
+	
+	
+UnknownText_0x191fca:	;No.02336 [D:0x00164A99] [L:50]
+	text "노랑시티의 상점까지"
+	line "쇼핑하러 가려고 생각하고 있어"
+	done
+	

@@ -1,0 +1,100 @@
+UnknownText_0x9af7f:	;No.02860 [D:0x0017C4F2] [L:108]
+	text "이곳은 트레이너 하우스"
+	line "상록시티의 신 명소"
+	cont "트레이너의 사교장입니다!"
+	
+	para "지하의 연습장에서"
+	line "대전도 할 수 있어요!"
+	done
+	
+	
+	
+	
+	
+	
+	
+	
+	
+UnknownText_0x9b025:	;No.02861 [D:0x0017C55F] [L:119]
+	text "상록시티는 석영고원에서"
+	line "제일 가까운 마을"
+	
+	para "석영고원을 목표로 하여"
+	line "트레이너들이 많이 들리기 때문에"
+	cont "이 시설이 만들어졌단다"
+	done
+	
+	
+	
+	
+	
+	
+	
+UnknownText_0x9b0b5:	;No.02862 [D:0x0017C5D7] [L:68]
+	text "지하의 방에서"
+	line "연습 시합을 하고 있어"
+	
+	para "성도의 트레이너 실력을"
+	line "보여줘!"
+	done
+	
+	
+	
+	
+	
+UnknownText_0x9b11d:	;No.02863 [D:0x0017C61C] [L:126]
+	text "여러 마을에 가서"
+	line "여러 사람들과 싸우지 않으면"
+	cont "챔피언이 될 수 없는걸까"
+	
+	para "태초마을의 챔피언도"
+	line "관동의 모든 마을을"
+	cont "여행하며 다녔데!"
+	done
+	
+	
+	
+	
+	
+	
+	
+	
+UnknownText_0x9b1c9:	;No.02864 [D:0x0017C69B] [L:46]
+	text "후우……"
+	line "포켓몬 승부에 지쳐서"
+	cont "잠시 휴식을……"
+	done
+	
+UnknownText_0x9b1f4:	;No.02865 [D:0x0017C6CA] [L:94]
+	text "지하 트레이닝장"
+	line "연습 시합을 개최합니다!"
+	cont "실력을 자랑하는 트레이너는"
+	cont "자진해서 참가 해 주세요!"
+	done
+	
+	
+	
+	
+	
+	
+UnknownText_0x9b25d:	;No.02866 [D:0x0017C729] [L:56]
+	text "룰과 규정은 없습니다!"
+	line "도로에서 자유시합과도"
+	cont "같습니다!"
+	done
+	
+	
+	
+	
+	
+	
+UnknownText_0x9b2c1:	;No.02867 [D:0x0017C762] [L:90]
+	text "…… 뭐 뭐라고"
+	line "대전 공략 메모……?"
+	
+	para "롱스톤이 지나간 흔적"
+	line "같은 글씨라서 읽을 수 없다……!"
+	done
+	
+	
+	

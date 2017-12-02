@@ -1,0 +1,142 @@
+UnknownText_0x1aaa15:	;No.01529 [D:0x0013D196] [L:78]
+	text "여기 갈색시티의 항구는"
+	line "관동 바다의 입구란다"
+	
+	para "외국으로부터"
+	line "호화 여객선도 왔었어"
+	done
+	
+	
+	
+VermilionMachopOwnerText:	;No.01530 [D:0x0013D1E5] [L:61]
+	text "포켓몬에게 땅을 다지게 시키는데"
+	line "정작 빌딩을 지을 돈이 없단다"
+	done
+	
+	
+	
+	
+	
+	
+VermilionMachopText1:	;No.01531 [D:0x0013D223] [L:20]
+	text "알통몬『알통 알통-"
+	done
+	
+	
+VermilionMachopText2:	;No.01532 [D:0x0013D238] [L:40]
+	text "알통몬은 끙끙거리며"
+	line "지면을 다지고있다!"
+	done
+	
+	
+UnknownText_0x1aab1a:	;No.01533 [D:0x0013D261] [L:90]
+	text "관동지방에도"
+	line "8개의 체육관이 있단다"
+	
+	para "자 저곳의 커다란 건물이"
+	line "갈색시티의 포켓몬 체육관이다!"
+	done
+	
+	
+UnknownText_0x1aab64:	;No.01534 [D:0x0013D2BC] [L:37]
+	text "잠만보는 기분좋게"
+	line "코를 골고 있다……"
+	done
+	
+UnknownText_0x1aab84:	;No.01535 [D:0x0013D2E2] [L:109]
+	text "잠만보에게"
+	line "포켓기어를 들려주었다……"
+	
+	para "…… …… …… …… ……"
+	line " …… …… …… …… ……"
+	
+	para "잠만보가 눈을 떴다!"
+	done
+	
+UnknownText_0x1aabc8:	;No.01536 [D:0x0013D350] [L:104]
+	text "관동의 체육관은"
+	line "강한 트레이너들이 모여있다"
+	
+	para "특히 체육관 관장은 강적이다"
+	line "간단하게는 이길 수 없다고 생각해"
+	done
+	
+	
+	
+	
+UnknownText_0x1aac2b:	;No.01537 [D:0x0013D3B9] [L:82]
+	text "관동의 체육관 배지를"
+	line "모으기 시작했구나!"
+	
+	para "상대하기 벅찬 트레이너가"
+	line "많이 있을꺼야!"
+	done
+	
+	
+	
+UnknownText_0x1aac88:	;No.01538 [D:0x0013D40C] [L:79]
+	text "이제 조금만 더 하면"
+	line "관동 체육관 제패로군!"
+	
+	para "8개 전부 모았다면"
+	line "나에게 가르쳐줘!"
+	done
+	
+	
+	
+	
+	
+UnknownText_0x1aacf3:	;No.01539 [D:0x0013D45C] [L:71]
+	text "축하해! 관동의 배지를"
+	line "전부 모았구나!"
+	
+	para "열심히한 너에게는"
+	line "이것을 주마!"
+	done
+	
+	
+	
+UnknownText_0x1aad4a:	;No.01540 [D:0x0013D4A4] [L:104]
+	text "친구들과 싸울 때는"
+	line "여러 타입을 가지고 있으면"
+	cont "유리할꺼야"
+	
+	para "틀림없이 관동의 배지가"
+	line "도움이 될꺼라고 생각해!"
+	done
+	
+	
+	
+	
+VermilionCitySignText:	;No.01541 [D:0x0013D50D] [L:46]
+	text "이곳은 갈색시티"
+	line "갈색은 오렌지 저녁노을의 색깔"
+	done
+	
+	
+	
+VermilionGymSignText:	;No.01542 [D:0x0013D53C] [L:49]
+	text "갈색시티 포켓몬 체육관"
+	line "관장 마티스"
+	cont "번개 아메리칸"
+	done
+	
+	
+	
+	
+PokemonFanClubSignText:	;No.01543 [D:0x0013D56E] [L:58]
+	text "여기는 포켓몬 애호가 클럽"
+	line "포켓몬을 좋아하면 누구든지 환영"
+	done
+	
+	
+	
+VermilionCityDiglettsCaveSignText:	;No.01544 [D:0x0013D5A9] [L:12]
+	text "디그다의 굴"
+	done
+	
+VermilionCityPortSignText:	;No.01545 [D:0x0013D5B6] [L:19]
+	text "갈색시티 항구 입구"
+	done
+	
+	

@@ -1,0 +1,354 @@
+UnknownText_0x6d2ad:	;;No.00452 [D:0x00114EC3] [L:13]
+	text "거기까지다!"
+	done
+	
+	
+UnknownText_0x6d2c3:	;;No.00453 [D:0x00114ED1] [L:164]
+	text "꼬마에게 놀림을 당한다면"
+	line "로켓단의"
+	cont "프라이드에 손상이 가겠지"
+	
+	para "니녀석이 얼마나 강한진 모르지만"
+	line "우리 둘을 동시에"
+	cont "상대하기는 무리겠지?"
+	
+	para "미안하지만"
+	line "각오하는 것이 좋을꺼다"
+	done
+	
+	
+	
+	
+	
+	
+	
+	
+UnknownText_0x6d38c:	;;No.00454 [D:0x00114F76] [L:43]
+	text "그런말 하지말고"
+	line "어디서든 놀아주지 않겠어?"
+	done
+	
+	;;No.00455 [D:0x00114FA2] [L:124]
+UnknownText_0x6d3bd:	
+	text "동료가 있었군"
+	line "마음에 들지 않아"
+	
+	para "비주기님이 안 계시는 것을 대신해"
+	line "내가 한수 가르쳐주지"
+	
+	para "로켓단에 덤벼들면"
+	line "어떻게 된다는 것을!"
+	done
+	
+	
+	
+	
+	
+	
+	
+	
+UnknownText_0x6d45c:	;;No.00456 [D:0x0011501F] [L:69]
+	text "어머 강하군"
+	
+	para "안타깝네"
+	line "니가 로켓단에 있었다면"
+	cont "간부가 될 수 있었을 텐데"
+	done
+	
+	
+	
+	
+	
+	
+UnknownText_0x6d4c6:	;;No.00457 [D:0x00115065] [L:213]
+	text "…… 이 아지트도 끝이로군"
+	
+	para "뭐 좋아"
+	line "전파의 실험도"
+	cont "잘 되었던 것 같고"
+	cont "이따위 아지트 어떻게되던 상관없어"
+	
+	para "우리들의"
+	line "목표는 더욱 위대하다"
+	
+	para "로켓단의 무서움을"
+	line "조만간에 알 수 있도록 해주겠다"
+	
+	para "그때를 즐겁게 기다려라……"
+	line "후후후"
+	done
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+UnknownText_0x6d5d8:	;;No.00458 [D:0x0011513B] [L:101]
+	text "목호『후우 이것으로"
+	line "아지트 안의 로켓단원의"
+	cont "모두를 쓰러뜨린건가!"
+	
+	para "도중에 싸웠던"
+	line "소년이 걱정되는데……"
+	done
+	
+	
+	
+	
+	
+	
+UnknownText_0x6d64e:	;;No.00459 [D:0x001151A1] [L:128]
+	text "미안했다 "
+	db "<PLAY_G>"
+	line "네가 열심히 싸우는 것을 보고"
+	cont "약간은 내가 나설 때를 기다렸단다"
+	
+	para "그건 그렇고 다음은"
+	line "이상한 전파를 멈추는 것뿐인가……"
+	done
+	
+	
+	
+	
+	
+	
+UnknownText_0x6d6cf:	;;No.00460 [D:0x00115222] [L:190]
+	text "이것이 장치……"
+	line "스위치는 발견되지 않는군"
+	
+	para "어쩔 수 없다"
+	line "붐볼을 기절시켜보자"
+	
+	para "그렇게하면 이상한"
+	line "전파도 나오지 않게 되겠지"
+	
+	para "포켓몬이 나쁜 것은 아니니까"
+	line "약간은 걱정이 되지만"
+	
+	para "<PLAY_G>"
+	line "반씩 나눠서 해보자"
+	done
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+UnknownText_0x6d7ea:	;;No.00461 [D:0x001152E1] [L:28]
+	text "목호『이쪽은 나에게 맡겨 줘"
+	done
+	
+	
+UnknownText_0x6d809:	;;No.00462 [D:0x001152FE] [L:201]
+	text "목호『드디어"
+	line "이상한 전파가 멈췄다"
+	
+	para "이것으로 호수도"
+	line "원래의 모습으로 돌아오겠지"
+	cont "이게 다 네 덕분이야"
+	
+	para "포켓몬을 대신해서"
+	line "고맙다는 말을 하지!"
+	
+	para "그래!"
+	line "이걸 가지고가!"
+	
+	para "좀전에 발견한 것인데"
+	line "내게는 필요 없으니까"
+	done
+	
+	
+	
+	
+	
+UnknownText_0x6d8e6:	;;No.00463 [D:0x001153C8] [L:43]
+	text "<PLAYER>"
+	db "는(은) 목호에게서"
+	line "비전머신06을 얻었다!"
+	done
+	
+UnknownText_0x6d8f8:	;;No.00464 [D:0x001153F4] [L:150]
+	text "그것은 바다 회오리!"
+	
+	para "포켓몬에게 가르치면"
+	line "거친 바다 위라도 나아갈 수 있어"
+	
+	para "하지만 황토마을의"
+	line "체육관 배지를 지니고 있지 않으면"
+	cont "사용할 수 없으니까 주의해"
+	done
+	
+	
+	
+	
+	
+	
+	
+UnknownText_0x6d994:	;;No.00465 [D:0x0011548B] [L:182]
+	text "<PLAY_G>!"
+	
+	para "포켓몬 마스터에의"
+	line "길은 멀고도 험난하다고 말한다……"
+	cont "그래도 목표로 삼을 텐가?"
+	
+	para "…… …… …… ……"
+	line "그래"
+	cont "그렇겠지"
+	
+	para "포기할 정도라면"
+	line "처음부터 꿈을 갖지 않았겠지"
+	
+	para "자 그럼 또 만나자!"
+	done
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+LanceHealsText1:	;;No.00466 [D:0x00115542] [L:78]
+	text "목호『견딜만 하니?"
+	
+	para "너의 포켓몬"
+	line "대부분 상처를 입은 것 같군"
+	cont "내 약을 나누어주마"
+	done
+	
+	
+	
+	
+	
+LanceHealsText2:	;;No.00467 [D:0x00115591] [L:43]
+	text "목호『자- "
+	db "<PLAY_G>"
+	line "포켓몬을 위하여 힘을 내자!"
+	done
+	
+	
+GruntM17SeenText:	;;No.00468 [D:0x001155BD] [L:86]
+	text "문이 열리지 않는다구?"
+	
+	para "그건 그럴꺼다"
+	line "로켓단만이 알고있는"
+	cont "패스워드가 필요하기 때문이지"
+	done
+	
+	
+	
+	
+GruntM17BeatenText:	;;No.00469 [D:0x00115614] [L:10]
+	text "져 졌나?"
+	done
+	
+UnknownText_0x6db88:	;;No.00470 [D:0x0011561F] [L:63]
+	text "나는 조무래기에 불과하니까"
+	line "패스워드는 가르쳐주지 않았어"
+	cont "안됐군"
+	done
+	
+	
+	
+	
+GruntM18SeenText:	;;No.00471 [D:0x0011565F] [L:70]
+	text "우우 꼬맹인가……"
+	line "어쩐지 좋지않은 기분이"
+	cont "방해물은 쓰러뜨리지 않으면!"
+	done
+	
+	
+	
+GruntM18BeatenText:	;;No.00472 [D:0x001156A6] [L:15]
+	text "우우 역시 졌다"
+	done
+	
+UnknownText_0x6dc1a:	;;No.00473 [D:0x001156B6] [L:105]
+	text "우우 요전의 임무로"
+	line "포켓몬을 훔칠 때도"
+	cont "눈매가 날카로운"
+	cont "빨갛고 긴머리의 꼬맹이에게"
+	cont "엄청나게 당했었는데……"
+	done
+	
+	
+	
+	
+	
+	
+	
+	
+GruntM19SeenText:	;;No.00474 [D:0x00115720] [L:31]
+	text "갈팡질팡하면 눈에 거슬리잖아!"
+	done
+	
+	
+GruntM19BeatenText:	;;No.00475 [D:0x00115740] [L:13]
+	text "우아아아……"
+	done
+	
+UnknownText_0x6dcd1:	;;No.00476 [D:0x0011574E] [L:84]
+	text "그쪽 문의 패스워드를"
+	line "알고있는 것은 두목뿐이다"
+	
+	para "두목이 있는 곳?"
+	line "글쎄 직접 찾아보시지"
+	done
+	
+	
+	
+UnknownText_0x6dd39:	;;No.00477 [D:0x001157A3] [L:56]
+	text "문이 닫혀있다……"
+	
+	para "열기 위해서는"
+	line "패스워드 1개가 필요하다"
+	done
+	
+UnknownText_0x6dd6b:	;;No.00478 [D:0x001157DC] [L:62]
+	text "문이 닫혀있다……"
+	
+	para "<PLAYER>"
+	db "는(은)"
+	line "패스워드를 입력했다"
+	
+	para "문이 열렸다!"
+	done
+	
+UnknownText_0x6dda7:	;;No.00479 [D:0x0011581B] [L:39]
+	text "괴전파 발생장치"
+	line "쩌렁쩌렁 동작하고 있다"
+	done
+	
+	
+	
+	
+	
+	
+	
+UnknownText_0x6de03:	;;No.00480 [D:0x00115843] [L:36]
+	text "괴전파 발생장치"
+	line "어쩐지 멈춘 것 같다"
+	done
+	
+	
+	
+	

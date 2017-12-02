@@ -1,0 +1,100 @@
+Text_EarlAsksIfYouBeatFalkner:	;;No.00667 [D:0x00120D95] [L:58]
+	text "하-이 당신 트레이너로군요"
+	line "체육관 관장에게는 이겼습니까?"
+	done
+	
+	
+	
+	
+Text_VeryNiceIndeed:	;;No.00668 [D:0x00120DD0] [L:20]
+	text "그것은 대단하군요!"
+	done
+	
+	
+Text_FollowEarl:	;;No.00669 [D:0x00120DE5] [L:47]
+	text "그래요?"
+	line "그렇다면 공부해야지요"
+	cont "그럼 따라오세요"
+	done
+	
+Text_HereTeacherIAm:	;;No.00670 [D:0x00120E15] [L:56]
+	text "나는 이곳의 선생님!"
+	
+	para "그대는 여기서"
+	line "공부를 한다면 좋겠군"
+	done
+	
+VioletCityLassText:	;;No.00671 [D:0x00120E4E] [L:117]
+	text "모다피의 탑은 밤이되면"
+	line "귀신이 나온다는 소문이야"
+	
+	para "그래서 포켓몬을 싸우게 시켜도"
+	line "노말타입의 기술로는"
+	cont "전혀 효과가 없었대"
+	done
+	
+	
+	
+	
+VioletCitySuperNerdText:	;;No.00672 [D:0x00120EC4] [L:97]
+	text "오옷 포켓몬 트레이너인가?"
+	
+	para "이 마을의 체육관 관장을 이겼다면"
+	line "트레이너로서도"
+	cont "제 구실을 하는 것이군"
+	done
+	
+	
+	
+	
+VioletCityGrampsText:	;;No.00673 [D:0x00120F26] [L:112]
+	text "도라지시티 포켓몬 체육관의"
+	line "비상은 뛰어난 솜씨의 트레이너!"
+	
+	para "아버지의 뒤를 이어서"
+	line "훌륭한 체육관을 지키고 있단다!"
+	done
+	
+	
+	
+	
+	
+	
+	
+VioletCityYoungsterText:	;;No.00674 [D:0x00120F97] [L:81]
+	text "이 앞에 움직이는 나무를 봤다!"
+	
+	para "만지면 흔들흔들 춤추기 시작한다"
+	line "엄청나게 재미있어"
+	done
+	
+	
+	
+VioletCitySignText:	;;No.00675 [D:0x00120FE9] [L:42]
+	text "이곳은 도라지시티"
+	line "그리운 향기가 나는 마을"
+	done
+	
+	
+	
+VioletGymSignText:	;;No.00676 [D:0x00121014] [L:62]
+	text "도라지시티 포켓몬 체육관"
+	line "관장 비상"
+	cont "화려한 비행포켓몬 조련사!"
+	done
+	
+	
+	
+	
+SproutTowerSignText:	;;No.00677 [D:0x00121053] [L:42]
+	text "이곳은 모다피의 탑"
+	line "포켓몬의 수행을 하시오"
+	done
+	
+	
+	
+EarlsPokemonAcademySignText:	;;No.00678 [D:0x0012107E] [L:27]
+	text "다배워선생님의 포켓몬 학원"
+	done
+	
+	

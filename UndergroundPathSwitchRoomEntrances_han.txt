@@ -1,0 +1,264 @@
+UndergroundSilverBeforeText:	;;No.00551 [D:0x00118DF9] [L:190]
+	text "기다려!"
+	
+	para "너의 모습을 발견하고는"
+	line "뒤를 쫓아왔어"
+	
+	para "또 로켓단을 물리치는데"
+	line "방해받으면 참을 수 없으니까"
+	
+	para "…… 생각났다"
+	line "그러고 보니까 너한테도"
+	cont "진 적이 있었군"
+	
+	para "어쩌다 이긴 것이겠지만"
+	line "빚은 되돌려주겠어"
+	done
+	
+	
+	
+	
+	
+	
+	
+UndergroundSilverWinText:	;;No.00552 [D:0x00118EB8] [L:98]
+	text "…… 어째서냐!"
+	line "어째서 진거야!"
+	
+	para "최강의 포켓몬을 모았다는"
+	line "자만도 하지 않았는데……"
+	
+	para "왜, 어째서냐?"
+	done
+	
+	
+	
+	
+UndergroundSilverAfterText:	;;No.00553 [D:0x00118F1B] [L:211]
+	text "……크우 알 수 없군"
+	
+	para "그 목호라는 녀석이 말했듯이"
+	line "나는 포켓몬에의"
+	
+	para "애정이……"
+	
+	para "신뢰가……"
+	
+	para "부족하기에 이길 수 없단말인가"
+	
+	para "어째서인지 모르겠어"
+	
+	para "하지만 이대로 끝나진 않아"
+	
+	para "이런일로 최강이 되겠다는"
+	line "꿈을 포기할 순 없어……"
+	done
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+UndergroundSilverLossText:	;;No.00554 [D:0x00118FEF] [L:77]
+	text "이것이 나의 실력"
+	
+	para "이대로 로켓단을 무찔러"
+	line "그 목호라는 녀석도"
+	cont "완전히 밟아주겠어"
+	done
+	
+	
+	
+	
+	
+UndergroundPathSwitchRoomEntrances_SuperNerdText:	;;No.00555 [D:0x0011903D] [L:85]
+	text "후우……"
+	line "지하에서 포켓몬 승부를 당해서"
+	cont "엄청나게 고생했어"
+	cont "너도 주의하는 편이 좋을꺼야"
+	done
+	
+	
+	
+	
+UndergroundPathSwitchRoomEntrances_TeacherText:	;;No.00556 [D:0x00119093] [L:85]
+	text "지하에는 가게가 있지만……"
+	
+	para "트레이너가 잔뜩 있으니까"
+	line "어쩐지 무서워서 다가갈 수가 없어"
+	done
+	
+	
+	
+	
+	
+GruntM11SeenText:	;;No.00557 [D:0x001190E9] [L:72]
+	text "어딘가의 셔터를 열면"
+	line "어딘가의 셔터가 닫힌다"
+	cont "목적지에 도달할 수 있을까?"
+	done
+	
+	
+	
+GruntM11BeatenText:	;;No.00558 [D:0x00119132] [L:46]
+	text "크웃! 싸우는 방법에"
+	line "갈피를 잡지 못해버렸나!"
+	done
+	
+GruntM11AfterText:	;;No.00559 [D:0x00119161] [L:83]
+	text "…… 나도 갈피를 못 잡고있어"
+	
+	para "맨 처음 누르는 것은"
+	line "제일 구석의 스위치였다는 것밖에는"
+	done
+	
+	
+GruntM25SeenText:	;;No.00560 [D:0x001191B5] [L:78]
+	text "크하하!"
+	
+	para "셔터의 구조를 몰라서"
+	line "곤란한 것 같군"
+	
+	para "나에게 이기면"
+	line "좋은 것 가르쳐주지"
+	done
+	
+	
+GruntM25BeatenText:	;;No.00561 [D:0x00119204] [L:14]
+	text "우우……"
+	line "졌다"
+	done
+	
+GruntM25AfterText:	;;No.00562 [D:0x00119213] [L:79]
+	text "알겠다, 힌트를 주지"
+	
+	para "셔터의 스위치를"
+	line "누르는 순서가 비뀌면"
+	cont "열리는 장소도 바뀐다"
+	done
+	
+	
+	
+	
+BurglarDuncanSeenText:	;;No.00563 [D:0x00119263] [L:30]
+	text "너의 소중한 것을"
+	line "훔쳐주겠어!"
+	done
+	
+BurglarDuncanBeatenText:	;;No.00564 [D:0x00119282] [L:9]
+	text "우르르-"
+	done
+	
+BurglarDuncanAfterText:	;;No.00565 [D:0x0011928C] [L:64]
+	text "남의 것을 훔쳐서"
+	line "팔아먹는다……"
+	cont "그것이야말로 나쁜 짓의 방법이다"
+	done
+	
+BurglarEddieSeenText:	;;No.00566 [D:0x001192CD] [L:67]
+	text "여기는 개발 도중에"
+	line "발굴되어진 장소다……"
+	cont "뭔가 없을까 살피는 중이다"
+	done
+	
+	
+	
+	
+BurglarEddieBeatenText:	;;No.00567 [D:0x00119311] [L:11]
+	text "강하군……"
+	done
+	
+BurglarEddieAfterText:	;;No.00568 [D:0x0011931D] [L:49]
+	text "지하 창고에 갈텐가?"
+	
+	para "그만둬"
+	line "그쪽엔 아무것도 없다"
+	done
+	
+	
+	
+	
+	
+GruntM13SeenText:	;;No.00569 [D:0x0011934F] [L:62]
+	text "미아인지 뭔지 간에"
+	line "내 앞에 나타난 놈은"
+	cont "모두 쓰러뜨려 주겠다!"
+	done
+	
+	
+	
+	
+GruntM13BeatenText:	;;No.00570 [D:0x0011938E] [L:21]
+	text "크웃!"
+	line "뽐내지 말거라"
+	done
+	
+GruntM13AfterText:	;;No.00571 [D:0x001193A4] [L:61]
+	text "로켓단에게 이빨을 드러내다니"
+	line "무서운 것을 모른다는 것인가……"
+	done
+	
+	
+SwitchRoomText_Switch1:	;;No.00572 [D:0x001193E2] [L:24]
+	text "스위치에 1이라고 써있다"
+	done
+	
+	
+GruntF3SeenText:	;;No.00573 [D:0x001193FB] [L:112]
+	text "갈피를 못 잡겠니? 아니 틀리군"
+	
+	para "그런 겁에 질린 눈이 아니니까"
+	line "그럼 누나가 가르쳐주지"
+	cont "진정 무서움이란 무엇인가를!"
+	done
+	
+	
+	
+	
+	
+GruntF3BeatenText:	;;No.00574 [D:0x0011946C] [L:10]
+	text "뭐야 이건"
+	done
+	
+GruntF3AfterText:	;;No.00575 [D:0x00119477] [L:43]
+	text "뭐 좋아"
+	line "가고싶은 곳 어디든 가서"
+	cont "헤매거라!"
+	done
+	
+SwitchRoomText_OffTurnOn:	;;No.00576 [D:0x001194A3] [L:41]
+	text "OFF로 되어있습니다만"
+	line "ON으로 하겠습니까?"
+	done
+	
+SwitchRoomText_OnTurnOff:	;;No.00577 [D:0x001194CD] [L:41]
+	text "ON으로 되어있습니다만"
+	line "OFF로 하겠습니까?"
+	done
+	
+SwitchRoomText_Switch2:	;;No.00578 [D:0x001194F7] [L:22]
+	text "스위치에 2라고 써있다"
+	done
+	
+	
+SwitchRoomText_Switch3:	;;No.00579 [D:0x0011950E] [L:24]
+	text "스위치에 3이라고 써있다"
+	done
+	
+	
+SwitchRoomText_Emergency:	;;No.00580 [D:0x00119527] [L:30]
+	text "스위치에 비상용"
+	line "이라고 써있다"
+	done
+	

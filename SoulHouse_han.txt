@@ -1,0 +1,48 @@
+MrFujiText:	;No.02661 [D:0x001744DD] [L:176]
+	text "등나무노인『야아 잘 왔단다"
+	
+	para "흠흠…… 너는 포켓몬을"
+	line "소중하게 키우고 있는 것 같구나"
+	
+	para "이곳은 포켓몬을 사랑하는 사람들이"
+	line "모이는 장소"
+	
+	para "어떠냐 너도 기도해주겠느냐"
+	line "포켓몬들이 기뻐할께야"
+	done
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+UnknownText_0x7ed4d:	;No.02662 [D:0x0017458E] [L:90]
+	text "포켓몬의 묘지는"
+	line "이것만이 아닌 것 같아"
+	
+	para "등나무노인만 들어갈 수 있는"
+	line "방이 많이 있다고 하던데"
+	done
+	
+	
+	
+UnknownText_0x7edb1:	;No.02663 [D:0x001745E9] [L:32]
+	text "엄마랑 함께"
+	line "성묘하러 왔단다……"
+	done
+	
+	
+UnknownText_0x7eddb:	;No.02664 [D:0x0017460A] [L:41]
+	text "함께 지냈던"
+	line "포켓몬은"
+	cont "손자같은 것이지……"
+	done
+	
+	

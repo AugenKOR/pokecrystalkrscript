@@ -1,0 +1,113 @@
+GruntM24SeenText:	;;No.00585 [D:0x00119887] [L:57]
+	text "설마 이곳까지 올줄은……"
+	
+	para "할 수 없군"
+	line "내가 끝장을 내주지!"
+	done
+	
+	
+	
+GruntM24BeatenText:	;;No.00586 [D:0x001198C1] [L:15]
+	text "끝장나버렸다!"
+	done
+	
+UnknownText_0x7da48:	;;No.00587 [D:0x001198D1] [L:89]
+	text "우리들은 비주기님이"
+	line "돌아오시게 될 때까지"
+	cont "로켓단을 지켜갈 것이다"
+	
+	para "설령 어떤 짓을 하던 간에"
+	done
+	
+	
+	
+GruntM14SeenText:	;;No.00588 [D:0x0011992B] [L:93]
+	text "젠장!"
+	line "이 이상 앞으로 보내지 않겠다!"
+	
+	para "나는 상대가 어린아이라도"
+	line "정당히 봐주지 않는 사나이닷!"
+	done
+	
+	
+GruntM14BeatenText:	;;No.00589 [D:0x00119989] [L:9]
+	text "쾅-!!"
+	done
+	
+UnknownText_0x7db01:	;;No.00590 [D:0x00119993] [L:29]
+	text "졌다……"
+	line "비주기님 용서를……"
+	done
+	
+	
+	
+GruntM15SeenText:	;;No.00591 [D:0x001199B1] [L:63]
+	text "하하핫!"
+	
+	para "너에관해서 기억하고 있다"
+	line "아지트에서는 신세를 졌으니까"
+	done
+	
+	
+GruntM15BeatenText:	;;No.00592 [D:0x001199F1] [L:23]
+	text "하하핫!"
+	line "그래, 왔는가"
+	done
+	
+UnknownText_0x7db8e:	;;No.00593 [D:0x00119A09] [L:40]
+	text "하하핫! 재미있었다"
+	line "너에대해 기억해두마"
+	done
+	
+	
+UnknownText_0x7dbc6:	;;No.00594 [D:0x00119A32] [L:164]
+	text "국장『…… 너 너는?"
+	line "그래 나를 구하러 와줬는가"
+	cont "정말 고맙구나"
+	
+	para "그 그렇지!"
+	line "라디오타워는 어떻게 되었는가?"
+	
+	para "뭐야? 로켓단으로 가득이라!"
+	line "알았다!"
+	cont "이 카드 키를 건네주마"
+	done
+	
+	
+	
+	
+	
+	
+	
+UnknownText_0x7dc5b:	;;No.00595 [D:0x00119AD7] [L:42]
+	text "국장『그것만 있으면"
+	line "3층 셔터는 열 수 있다"
+	done
+	
+	
+UnknownText_0x7dc8d:	;;No.00596 [D:0x00119B02] [L:199]
+	text "부탁해, 라디오를 빼앗긴다면"
+	line "무슨 일을 당할지 알 수 없단다"
+	
+	para "이상한 전파를 흘려서"
+	line "포켓몬을 조종하는 것 까지도"
+	cont "가능하게될지도 모른다"
+	
+	para "부탁할 수 있는 것은 너뿐이다"
+	line "라디오타워를……"
+	cont "전국의 포켓몬을 구해줘"
+	done
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	

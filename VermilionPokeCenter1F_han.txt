@@ -1,0 +1,39 @@
+UnknownText_0x191620:	
+	text "디그다의 굴 앞에"
+	line "졸음포켓몬이 자고있다"
+	
+	para "잡을 찬스이지만"
+	line "어떡게 해야 잠에서 깰까?"
+	done
+	
+	
+	
+	
+	
+UnknownText_0x191698:	;No.02312 [D:0x00164187] [L:70]
+	text "디그다의 굴 앞에"
+	line "졸음포켓몬이 자고 있었는데"
+	cont "언제부턴가 없어져버렸다!"
+	done
+	
+	
+	
+	
+	
+	
+UnknownText_0x1916fe:	;No.02313 [D:0x001641CE] [L:52]
+	text "트레이너랑 대전하는 것도"
+	line "쾌속선을 타는 즐거움이다!"
+	done
+	
+	
+	
+	
+UnknownText_0x19173b:	;No.02314 [D:0x00164203] [L:84]
+	text "엥? 본 적도 없는"
+	line "체육관 배지를 가지고 있구나"
+	
+	para "아 그렇지"
+	line "성도에 살고 있는 사람이군!"
+	done
+	

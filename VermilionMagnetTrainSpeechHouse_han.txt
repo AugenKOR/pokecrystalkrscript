@@ -1,0 +1,14 @@
+UnknownText_0x191ec0:	
+	text "리니어 기차에 대해 알고 있니?"
+	
+	para "성도의 금빛시티까지"
+	line "통해 있는 철도란다"
+	done
+	
+	
+	
+UnknownText_0x191f16:	;No.02334 [D:0x001649EA] [L:52]
+	text "노랑시티"
+	line "노랑시티 갈꺼야!"
+	cont "리니어 기차가 보고싶어!"
+	done

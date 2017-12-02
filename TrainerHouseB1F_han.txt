@@ -1,0 +1,57 @@
+TrainerHouseB1FIntroText:	;No.02868 [D:0x0017C8BE] [L:75]
+	text "이곳은 연습장!"
+	line "하루에 한번입니다만"
+	cont "트레이너를 상대로"
+	cont "대전할 수 있습니다!"
+	done
+	
+	
+	
+TrainerHouseB1FYourOpponentIsText:	
+	text_from_ram StringBuffer3
+	text "님 입니다"
+	done
+	
+	
+TrainerHouseB1FAskWantToBattleText:	;No.02870 [D:0x0017C92B] [L:20]
+	text "대전을 하겠습니까?"
+	done
+	
+	
+TrainerHouseB1FGoRightInText:	;No.02871 [D:0x0017C940] [L:41]
+	text "어서 들어가세요"
+	line "바로 대전이 시작됩니다!"
+	done
+	
+	
+	
+	
+TrainerHouseB1FPleaseComeAgainText:	;No.02872 [D:0x0017C96A] [L:55]
+	text "연습 시합을"
+	line "하시려는 트레이너만"
+	cont "들어가실 수 있습니다!"
+	done
+	
+	
+	
+TrainerHouseB1FSecondChallengeDeniedText:	;No.02873 [D:0x0017C9A2] [L:73]
+	text "손님"
+	line "오늘은 두번째이군요!"
+	
+	para "대전은 하루에 한번씩 입니다"
+	line "대단히 죄송합니다"
+	done
+	
+	
+	
+	
+TrainerHouseB1FCalBeatenText:	;No.02874 [D:0x0017C9EC] [L:24]
+	text "졌다……"
+	line "유감이다……!"
+	done
+	
+TrainerHouseB1FCalBeforeText:	;No.02875 [D:0x0017CA05] [L:37]
+	text "너랑 싸우기 위하여"
+	line "멀리서 찾아왔다!"
+	done
+	

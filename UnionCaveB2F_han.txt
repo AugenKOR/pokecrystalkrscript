@@ -1,0 +1,65 @@
+CooltrainermNickSeenText:	;;No.00360 [D:0x00111628] [L:68]
+	text "세상에는 2종류의"
+	line "인간이 있지"
+	cont "센스가 있는 자와 없는 자"
+	
+	para "너는 어떨까?"
+	done
+	
+	
+	
+	
+	
+CooltrainermNickBeatenText:	;;No.00361 [D:0x0011166D] [L:23]
+	text "아름답게 빛나고 있다!"
+	done
+	
+	
+UnknownText_0x5a3f0:	;;No.00362 [D:0x00111685] [L:59]
+	text "너의 포켓몬 센스"
+	line "장래가 있어 보인다"
+	cont "반드시 강하게 될꺼야!"
+	done
+	
+	
+	
+	
+CooltrainerfGwenSeenText:	;;No.00363 [D:0x001116C1] [L:51]
+	text "현재 여기서 특훈을 하고있어"
+	line "너 상대해주지 않을래?"
+	done
+	
+CooltrainerfGwenBeatenText:	;;No.00364 [D:0x001116F5] [L:28]
+	text "아앙 졌어!"
+	line "너무 강하잖아!"
+	done
+	
+UnknownText_0x5a488:	;;No.00365 [D:0x00111712] [L:37]
+	text "강해질 때까지"
+	line "남몰래 특훈을 할꺼야!"
+	done
+	
+	
+CooltrainerfEmmaSeenText:	;;No.00366 [D:0x00111738] [L:75]
+	text "좋아하는 포켓몬이 있다면"
+	line "어떠한 곳이든 갈꺼야"
+	cont "그것이 트레이너라는 것이지!"
+	done
+	
+	
+	
+	
+CooltrainerfEmmaBeatenText:	;;No.00367 [D:0x00111784] [L:64]
+	text "나는 승부하는 것보다 포켓몬을"
+	line "귀여워하는 것을 좋아하는지도 몰라"
+	done
+	
+UnknownText_0x5a52b:	;;No.00368 [D:0x001117C5] [L:88]
+	text "매주 딱 한번씩만"
+	line "물가에 포켓몬이 찾아와"
+	
+	para "그 포켓몬을 만나고싶은데……"
+	line "라고 생각하고 있어"
+	done
+	
+	
