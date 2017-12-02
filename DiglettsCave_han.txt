@@ -1,0 +1,5 @@
+UnknownText_0x74008:	
+	text "땅속으로부터 디그다가"
+	line "엄청나게 많이 튀어나왔다!"
+	cont "우아~ 놀랬다-!"
+	done

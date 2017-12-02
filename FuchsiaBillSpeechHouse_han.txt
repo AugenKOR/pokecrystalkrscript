@@ -1,0 +1,12 @@
+UnknownText_0x1963c3:	;No.02606 [D:0x00170642] [L:64]
+	text "우리 할아버지"
+	line "블루시티의 호수공원에 있는"
+	cont "이수재의 집에"
+	cont "놀러갔어"
+	done
+	
+UnknownText_0x1963f9:	;No.02607 [D:0x00170683] [L:59]
+	text "자전거 길에서"
+	line "느릿느릿 어슬렁거리는"
+	cont "이상한 포켓몬을 봤어!"
+	done

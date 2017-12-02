@@ -1,0 +1,679 @@
+﻿ElmText_Intro:	;No.02890 [D:0x001803F8] [L:406]
+	text "공박사『여어 "
+	db "<PLAY_G>"
+	db ""
+	line "기다리고 있었단다!"
+	
+	para "오늘 너를 부른 것은"
+	line "부탁이 있어서란다!"
+	
+	para "나는 지금 새로운"
+	line "포켓몬 연구를 하려고 한단다"
+	
+	para "너가 나를 도와줄수 있을지"
+	line "궁금하구나 "
+	db "<PLAY_G>"
+	db ""
+	
+	
+	
+	
+	para "보다시피…"
+	
+	para "내가 새로 하고 있는 연구의"
+	line "보고서를 쓰고있지만"
+	cont "아직 모르는 것이 많구나"
+	
+	para "그래서!"
+	
+	para "내가 최근에 발견한"
+	line "포켓몬을 길러줬으면 하구나!"
+	
+	
+	
+	done
+	
+ElmText_Accepted:	
+	text "고맙구나 "
+	db "<PLAY_G>"
+	db "!"
+	line "엄청난 도움이 될거야!"
+	
+	
+	done
+	
+ElmText_Refused:	
+	text "하지만… 정말로"
+	line "네 도움이 필요하다니까!"
+	done
+	
+ElmText_ResearchAmbitions:	
+	text "내가 이 연구를 발표하면"
+	line "우리는 포켓몬의 비밀에"
+	cont "더욱 근접 할 것이다"
+
+	para "여기에서 너가 중요한"
+	line "역할을 할꺼야!"
+	done
+	
+ElmText_GotAnEmail:	
+	text "아!"
+	line "전자우편이다!"
+	
+	para $56, $56, $56
+	line "흐음… 흐으음…"
+	
+	para "호 그렇구나…"
+	done
+	
+ElmText_MissionFromMrPokemon:	
+	text "내 말좀 들어보거라"
+	
+	para "내가 아는 사람중에"
+	line "포켓몬 할아버지라고 하는"
+	
+	para "이상한것을 발견했을 때"
+	line "대발견! 이라고 떠드는"
+	cont "할아버지가 있단다"
+	
+	para "그리고 전에"
+	line "「이번만큼은 진짜야!」"
+	cont "라는 메일이 왔단다"
+	
+	para "호기심이 생기지만"
+	line "나도 조수도 포켓몬"
+	cont "연구로 바쁘니까……"
+	
+	para "아!"
+	line "그렇지!"
+	
+	
+	
+	
+	
+	
+	
+	para "<PLAY_G>"
+	db " 네가 대신 가주면"
+	line "딱 좋겠다!"
+	para "그렇지? 부탁한다!"
+	done
+	
+ElmText_ChooseAPokemon:	
+	text "나는 너가 여기있는"
+	line "포켓몬 중에 하나를"
+	cont "골랐으면 좋겠구나"
+	
+	para "너는 그 포켓몬의"
+	line "첫 파트너가 될거란다!"
+	cont "<PLAY_G>!"
+	cont "자 고르거라!"
+	done
+	
+ElmText_LetYourMonBattleIt:	;No.02891 [D:0x0018058F] [L:68]
+	text "포켓몬을 가지고 있다면"
+	line "야생의 포켓몬이 나와도"
+	cont "싸우게하면 될꺼란다!"
+	done
+	
+LabWhereGoingText:	;No.02892 [D:0x001805D4] [L:34]
+	text "공박사『잠깐 잠깐"
+	line "어디에 가느냐!"
+	done
+	
+TakeCyndaquilText:	;No.02893 [D:0x001805F7] [L:44]
+	text "공박사『불꽃의 포켓몬"
+	line "브케인으로 하겠니!?"
+	done
+	
+	
+TakeTotodileText:	;No.02894 [D:0x00180624] [L:44]
+	text "공박사『물포켓몬"
+	line "리아코가 마음에 드느냐!?"
+	done
+	
+	
+TakeChikoritaText:	;No.02895 [D:0x00180651] [L:48]
+	text "공박사『풀포켓몬"
+	line "치코리타가 마음에 들었느냐!?"
+	done
+	
+	
+DidntChooseStarterText:	;No.02896 [D:0x00180682] [L:70]
+	text "공박사『차분히 생각해서"
+	line "정하는 것이 좋을꺼다"
+	cont "소중한 파트너가 될테니까"
+	done
+	
+	
+	
+ChoseStarterText:	;No.02897 [D:0x001806C9] [L:53]
+	text "공박사『나도 이녀석은"
+	line "최고의 포켓몬이라고 생각한다!"
+	done
+	
+	
+ReceivedStarterText:	
+	text ""
+	db "<PLAYER>"
+	db "는(은)"
+	line "@"
+	text_from_ram StringBuffer3
+	text "를(을) 받았다"
+	done
+	
+ElmDirectionsText1:	
+	text "포켓몬 할아버지가 계신 곳은"
+	line "이 마을 근처의"
+	cont "무궁시티 끝이란다"
+	
+	para "거기까지는 거의"
+	line "외길이니까 찾기 쉬울꺼다"
+	
+	para "참 내 전화번호를"
+	line "알려줄테니까"
+	cont "무슨 일이 있으면 연락하거라!"
+	done
+	
+ElmDirectionsText2:	
+	text "포켓몬이 상처를 입었다면"
+	line "저쪽에 있는 기계로"
+	cont "포켓몬을 회복시켜주거라"
+	
+	
+	para "언제든지 써도 된단다"
+	line ""	
+	done
+	
+ElmDirectionsText3:	
+	text "그럼"
+	line ""
+	db "<PLAY_G>"
+	db " 부탁하네!"
+	done
+	
+GotElmsNumberText:	
+	text ""
+	db "<PLAYER>"
+	db "는(은) 공박사님의"
+	line "전화번호를 등록했다"
+	done
+	
+ElmDescribesMrPokemonText:	
+	text "포켓몬 할아버지는"
+	line "여러 장소에 가서"
+	cont "희귀한 것을 발견한단다"
+	
+	para "희귀한 것만으로는"
+	line "도움이 되지 않을테지만……"
+	
+	done
+	
+	
+	
+	
+ElmPokeBallText:	;No.02904 [D:0x001808B9] [L:36]
+	text "공박사가 발견한"
+	line "포켓몬이 들어있다!"
+	done
+	
+	
+ElmsLabHealingMachineText1:	;No.02905 [D:0x001808DE] [L:16]
+	text "무슨 기계일까?"
+	done
+	
+	
+ElmsLabHealingMachineText2:	;No.02906 [D:0x001808EF] [L:28]
+	text "포켓몬을 회복시키겠습니까?"
+	done
+	
+	
+ElmAfterTheftText1:	;No.02907 [D:0x0018090C] [L:95]
+	text "공박사『"
+	db "<PLAY_G>"
+	db "……"
+	line "큰 일이 났었단다"
+	
+	para "아 그래 그래"
+	line "포켓몬 할아버지의"
+	cont "대발견이란 것은 무엇이었느냐?"
+	done
+	
+ElmAfterTheftText2:	;No.02908 [D:0x0018096C] [L:46]
+	text ""
+	db "<PLAYER>"
+	db "는(은) 공박사에게"
+	line "이상한 알을 전해주었다!"
+	done
+	
+	
+ElmAfterTheftText3:	;No.02909 [D:0x0018099B] [L:19]
+	text "공박사『이것은……"
+	done
+	
+ElmAfterTheftText4:	;No.02910 [D:0x001809AF] [L:69]
+	text "…… 혹시"
+	line "포켓몬의 알!?"
+	
+	para "만약 그렇다면 정말로"
+	line "엄청난 대발견이구나!"
+	done
+	
+ElmAfterTheftText5:	;No.02911 [D:0x001809F5] [L:375]
+	text "공박사『응? 오박사님께"
+	line "포켓몬 도감을 받았다고!?"
+	
+	para ""
+	db "<PLAY_G>"
+	db " 저 정말이니?"
+	line "그 그것은 정말 굉장하구나!"
+	
+	para "누가 뭐라든 오박사님은"
+	line "트레이너의 재능을 꿰뚫어보는"
+	cont "힘을 가지고 계시니까"
+	
+	para "그래 "
+	db "<PLAY_G>"
+	db " 너에게는"
+	line "챔피언이 될 수 있는"
+	cont "소질이 있을지도 모르겠구나"
+	
+	para "포켓몬도 잘 따르는 것 같고"
+	line "이대로 각지의 포켓몬 체육관에"
+	cont "도전 해보면 어떻겠느냐?"
+	
+	para "여기서부터라면 도라지시티의"
+	line "포켓몬 체육관이 제일 가깝단다"
+	done
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+ElmAfterTheftText6:	;No.02912 [D:0x00180B6D] [L:105]
+	text "…… "
+	db "<PLAY_G>"
+	db ""
+	line "챔피언을 목표로 하는 것은"
+	cont "길고 긴 여행이 될꺼라 생각한다"
+	
+	para "출발하기 전에"
+	line "어머님께 잘 말씀드리거라"
+	done
+	
+	
+	
+	
+ElmStudyingEggText:	;No.02913 [D:0x00180BD7] [L:58]
+	text "공박사『힘내거라!"
+	line "나도 알에대해서 알게되면"
+	cont "연락을 하겠다"
+	done
+	
+	
+	
+ElmAideHasEggText:	;No.02914 [D:0x00180C12] [L:157]
+	text "공박사『엥 "
+	db "<PLAY_G>"
+	db ""
+	line "내 조수랑 만나지 못 했느냐?"
+	
+	para "너에게 알을 전해주기위해"
+	line "도라지시티의 포켓몬센터에"
+	cont "갔을텐데……"
+	
+	para "길이 어긋났나보구나"
+	line "미안하지만 조수에게 가보거라"
+	done
+	
+	
+	
+	
+	
+ElmWaitingEggHatchText:	;No.02915 [D:0x00180CB0] [L:38]
+	text "공박사『어떤가"
+	line "알에 변화는 있었느냐?"
+	done
+	
+UnknownText_0x79a40:	;No.02916 [D:0x00180CD7] [L:55]
+	text "응 "
+	db "<PLAY_G>"
+	db ""
+	line "알이 부화했지 않느냐"
+	cont "포켓몬 어떻게하고 있느냐?"
+	done
+	
+	
+	
+ShowElmTogepiText1:	;No.02917 [D:0x00180D0F] [L:30]
+	text "공박사『"
+	db "<PLAY_G>"
+	db ""
+	line "건강해 보이는구나"
+	done
+	
+ShowElmTogepiText2:	;No.02918 [D:0x00180D2E] [L:23]
+	text "엥?"
+	line "그 포켓몬은……!"
+	done
+	
+ShowElmTogepiText3:	;No.02919 [D:0x00180D46] [L:152]
+	text "알이 부화했구나!"
+	
+	para "그렇다면 포켓몬은"
+	line "알에서 태어나는 것인가……"
+	
+	para "아냐아냐 모든 포켓몬이"
+	line "그렇게 정해진 것은 아닐꺼다"
+	
+	para "우-음 아직도"
+	line "조사할 것이 많이 있구나"
+	done
+	
+ElmGiveEverstoneText1:	;No.02920 [D:0x00180DDF] [L:112]
+	text ""
+	db "<PLAY_G>"
+	db " 고맙구나!"
+	line "너의 덕분으로 포켓몬의"
+	cont "비밀을 알 수 있을 것 같구나"
+	
+	para "이것은 나의 답례란다"
+	line "사양말고 가지고 가거라!"
+	done
+	
+	
+	
+	
+ElmGiveEverstoneText2:	;No.02921 [D:0x00180E50] [L:199]
+	text "그것은 변함없는 돌!"
+	
+	para "포켓몬은 종류에 따라서"
+	line "어느정도 키우면"
+	cont "진화해서 모습이 바뀐단다"
+	
+	para "그때 변함없는 돌을"
+	line "가지고 있게하면 진화하지 않는단다"
+	
+	para "지금의 모습 그대로 키우고 싶은"
+	line "포켓몬이 있다면 사용 해보거라"
+	done
+	
+	
+	
+	
+	
+	
+ElmText_CallYou:	;No.02922 [D:0x00180F18] [L:42]
+	text "공박사『그럼 "
+	db "<PLAY_G>"
+	db ""
+	line "뭔가 알아내면 연락하겠다"
+	done
+	
+	
+AideText_AfterTheft:	;No.02923 [D:0x00180F43] [L:108]
+	text "…… 휴우"
+	line "…… 빼앗긴 포켓몬"
+	cont "지금쯤 뭘 하고 있을까……"
+	
+	para "나쁜 사람에게 키워지면"
+	line "나쁜 포켓몬이 된다고 말하니까"
+	done
+	
+	
+	
+	
+	
+	
+ElmGiveMasterBallText1:	;No.02924 [D:0x00180FB0] [L:94]
+	text "공박사『여어 "
+	db "<PLAY_G>"
+	db "!"
+	line "네 덕분으로"
+	cont "연구도 척척 진행되고 있단다"
+	
+	para "이것은 나의 답례품"
+	line "꼭 사용하거라!"
+	done
+	
+	
+	
+	
+ElmGiveMasterBallText2:	;No.02925 [D:0x0018100F] [L:195]
+	text "이 마스터볼은!!"
+	
+	para "어떤 포켓몬이라도"
+	line "절대적으로 잡을 수 있는"
+	cont "궁극의 몬스터볼"
+	
+	para "포켓몬의 연구를"
+	line "인정받는 사람에게"
+	cont "보내지는 것 같은데……"
+	
+	para "나보다는 네가"
+	line "잘 사용할 수 있다고 생각한단다"
+	cont ""
+	db "<PLAY_G>"
+	db "에게 주겠다!"
+	done
+	
+	
+	
+	
+	
+	
+ElmGiveTicketText1:	;No.02926 [D:0x001810D3] [L:156]
+	text "공박사『야아 "
+	db "<PLAY_G>"
+	db ""
+	line "기다리고 있었단다!"
+	
+	para "오늘 너를 부른 것은"
+	line "주고싶은 것이 있기때문이란다"
+	
+	para "이것!"
+	line "승선 티켓"
+	
+	para "이것으로 관동지방의 포켓몬도"
+	line "잡을 수 있게 되었구나!"
+	done
+	
+	
+ElmGiveTicketText2:	;No.02927 [D:0x00181170] [L:157]
+	text "쾌속선에 탄다고 하면"
+	line "담청시티란다!"
+	
+	para "……곤 하지만"
+	db "<PLAY_G>"
+	db "이"
+	line " 더 잘 아는 것 같구나"
+	
+	para "포켓몬과 함께"
+	line "여러 곳을 여행했으니까"
+	
+	para "그럼 관동지방에 가면"
+	line "오박사님께 부탁한다!"
+	done
+	
+	
+ElmsLabSignpostText_Egg:	;No.02928 [D:0x0018120E] [L:41]
+	text "박사님이 연구하고 있는"
+	line "포켓몬의 알이다!"
+	done
+	
+	
+AideText_GiveYouPotions:	;No.02929 [D:0x00181238] [L:48]
+	text ""
+	db "<PLAY_G>"
+	db "!"
+	line "심부름을 해 주는 그대에게"
+	cont "이것을 줄께요!"
+	done
+	
+AideText_AlwaysBusy:	;No.02930 [D:0x00181269] [L:57]
+	text "둘밖에 없으니까"
+	line "약간의 일로도 당황스럽다……"
+	
+	para "아- 바빠요"
+	done
+	
+AideText_TheftTestimony:	;No.02931 [D:0x001812A3] [L:239]
+	text "밖에서 커다란 소리가 나서……"
+	
+	para "박사님이랑 보러 나갔다가"
+	line "포켓몬을 도둑맞은 것 같습니다……"
+	
+	para "다른 사람의 물건을 훔치다니"
+	line "믿을 수가 없어요!"
+	
+	para "…… 휴우"
+	line "…… 도둑맞은 포켓몬"
+	cont "지금쯤 어떻게 되었을까……"
+	
+	para "나쁜사람에게 키워지면"
+	line "나쁜 포켓몬이 된다니까"
+	done
+	
+	
+	
+	
+	
+	
+	
+	
+	
+AideText_GiveYouBalls:	;No.02932 [D:0x00181393] [L:60]
+	text ""
+	db "<PLAY_G>"
+	db "!"
+	
+	para "포켓몬 도감을 만드는 그대에게"
+	line "이것을 전해주겠습니다!"
+	done
+	
+AideText_ExplainBalls:	;No.02933 [D:0x001813D0] [L:105]
+	text "포켓몬 도감을 만들 때에는"
+	line "포켓몬을 잡아야합니다!"
+	
+	para "몬스터볼을"
+	line "야생의 포켓몬에게 던지면"
+	cont "잡을 수 있습니다!"
+	done
+	
+	
+ElmsLabOfficerText1:	;No.02934 [D:0x0018143A] [L:203]
+	text "이 연구소"
+	line "포켓몬을 도둑맞은 것 같아서……"
+	
+	para "지금 공박사님으로부터"
+	line "말씀을 듣고있던 중입니다"
+	cont "뭐든지 빨갛고 긴"
+	cont "머리카락의 소년이었던 것 같아서"
+	
+	para "엣!"
+	line "그런 트레이너랑 싸웠다고?"
+	
+	para "이름이라던가"
+	line "말하지 않았던가요?"
+	done
+	
+	
+	
+	
+	
+	
+ElmsLabOfficerText2:	;No.02935 [D:0x00181506] [L:62]
+	text "알겠습니다!"
+	line ""
+	db "<RIVAL>"
+	db "(이)라고 하는군요!"
+	
+	para "협력해주셔서"
+	line "고맙습니다!"
+	done
+	
+ElmsLabWindowText1:	;No.02936 [D:0x00181545] [L:44]
+	text "창문이 열려 있다"
+	line "바람이 기분좋게 불어온다!"
+	done
+	
+	
+	
+ElmsLabWindowText2:	;No.02937 [D:0x00181572] [L:22]
+	text "이곳으로 들어왔구나!"
+	done
+	
+	
+ElmsLabTravelTip1Text:	;No.02938 [D:0x00181589] [L:76]
+	text ""
+	db "<PLAYER>"
+	db "는(은) 책을 꺼냈다"
+	
+	para "탐험지식 제1"
+	
+	para "스타트 버튼을 누른다!"
+	line "메뉴가 펼쳐진다!"
+	done
+	
+	
+ElmsLabTravelTip2Text:	;No.02939 [D:0x001815D6] [L:71]
+	text ""
+	db "<PLAYER>"
+	db "는(은) 책을 꺼냈다"
+	
+	para "탐험지식 제2"
+	
+	para "포켓몬 레포트로"
+	line "기록을 할 수 있다!"
+	done
+	
+	
+ElmsLabTravelTip3Text:	;No.02940 [D:0x0018161E] [L:96]
+	text ""
+	db "<PLAYER>"
+	db "는(은) 책을 꺼냈다"
+	
+	para "탐험지식 제3"
+	
+	para "가방을 열어서"
+	line "셀렉트 버튼을 누른다!"
+	cont "도구를 교체할 수 있다!"
+	done
+	
+	
+ElmsLabTravelTip4Text:	;No.02941 [D:0x0018167F] [L:102]
+	text ""
+	db "<PLAYER>"
+	db "는(은) 책을 꺼냈다"
+	
+	para "탐험지식 제4"
+	
+	para "포켓몬의 사용 기술을 보고"
+	line "A버튼을 누른다!"
+	cont "기술을 교체할 수 있다!"
+	done
+	
+	
+	
+	
+ElmsLabTrashcanText:	;No.02942 [D:0x001816E6] [L:43]
+	text "공박사님이 드셨던"
+	line "과자봉지가 모두 있다……"
+	done
+	done
+	
+ElmsLabPCText:	
+	text "포켓몬 진화의"
+	line "관찰결과"
+	
+	para "…화면에 그렇게 써져있어…"
+	
+	done
+	

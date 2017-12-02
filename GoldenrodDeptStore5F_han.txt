@@ -1,0 +1,78 @@
+UnknownText_0x56143:	;No.02270 [D:0x0015E1C3] [L:32]
+	text "어서오세요!"
+	
+	para "엇 너의 포켓몬……"
+	done
+	
+UnknownText_0x5615a:	;No.02271 [D:0x0015E1E4] [L:83]
+	text "매우 잘 따르고 있는 것 같군"
+	line "너희들의 콤비네이션이라면"
+	cont "이 기술을 쓸 수 있을 것 같네"
+	done
+	
+	
+	
+	
+UnknownText_0x561a6:	;No.02272 [D:0x0015E238] [L:59]
+	text "귀엽구나!"
+	
+	para "기술머신을 사용해서"
+	line "좋은 기술을 가르쳐 주거라!"
+	done
+	
+UnknownText_0x561d8:	;No.02273 [D:0x0015E274] [L:64]
+	text "어쩐지 눈빛이 나쁘구나"
+	line "그런 포켓몬에게는"
+	cont "이 기술머신이 어떨까?"
+	done
+	
+UnknownText_0x56202:	;No.02274 [D:0x0015E2B5] [L:53]
+	text "틀림없이 너의 포켓몬에게"
+	line "딱 맞는 기술머신이 있을꺼야"
+	done
+	
+	
+	
+	
+UnknownText_0x56241:	;No.02275 [D:0x0015E2EB] [L:42]
+	text "이상한 소포"
+	
+	para "삐익!"
+	
+	para "하고 선물이 도달합니다"
+	done
+	
+UnknownText_0x56279:	;No.02276 [D:0x0015E316] [L:46]
+	text "이상한 소포"
+	
+	para "내 게임보이에서는"
+	line "되지 않아요……"
+	done
+	
+UnknownText_0x562ad:	;No.02277 [D:0x0015E345] [L:65]
+	text "일요일에 오는 언니"
+	line "포켓몬의 상태를 보고"
+	cont "기술머신을 주거나 한단다"
+	done
+	
+	
+	
+	
+UnknownText_0x562f3:	;No.02278 [D:0x0015E387] [L:92]
+	text "다른 사람에게 얻은 포켓몬은"
+	line "이름을 바꿀 수 없단다"
+	
+	para "이름을 붙인 사람의"
+	line "마음이 담겨져 있으니까"
+	done
+	
+	
+	
+	
+	
+GoldenrodDeptStore5FDirectoryText:	;No.02279 [D:0x0015E3E4] [L:46]
+	text "당신의 희망을 포켓몬에게"
+	line "5층……기술머신 코너"
+	done
+	
+	

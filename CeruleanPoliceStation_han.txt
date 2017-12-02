@@ -1,0 +1,18 @@
+UnknownText_0x18805a:	
+	text "수상한 녀석이"
+	line "어슬렁거리고 있다는 이야기다!"
+	
+	para "도둑놈이라면"
+	line "내가 용서하지 않겠어!"
+	done
+	
+	
+	
+UnknownText_0x1880c3:	;No.01910 [D:0x001500A6] [L:31]
+	text "예전에"
+	line "도둑을 맞은 적이 있었어"
+	done
+	
+CeruleanDiglettText:	;No.01911 [D:0x001500C6] [L:20]
+	text "디그다『디그 디그다"
+	done

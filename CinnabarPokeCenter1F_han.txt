@@ -1,0 +1,14 @@
+UnknownText_0x1ab335:	
+	text "홍련마을 체육관의 강연님"
+	line "쌍둥이섬의 동굴에"
+	cont "혼자서 있다고 한다……"
+	done
+	
+	
+	
+	
+UnknownText_0x1ab37f:	;No.01876 [D:0x0014CF4E] [L:40]
+	text "이곳의 화산이 분화한 것은"
+	line "1년전이었단다"
+	done
+	

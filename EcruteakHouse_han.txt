@@ -1,0 +1,134 @@
+	
+	
+	
+	
+	
+	
+	
+	
+UnknownText_0x980d1:	
+	text "방울탑은 인주시티의"
+	line "체육관 배지를 가진 사람만이"
+	cont "올라갈 수 있는 신성한 탑"
+	
+	para "죄송합니다만"
+	line "물러나 주십시오"
+	done
+	
+	
+	
+UnknownText_0x98131:	;No.01775 [D:0x001480D4] [L:128]
+	text "방울탑은 인주시티의"
+	line "체육관 배지를 가진 사람만이"
+	cont "오를 수 있는 신성한 탑"
+	
+	para "오오!"
+	
+	para "그것은 인주시티의 체육관 배지!"
+	
+	para "어서 지나가십시오"
+	done
+	cont "right through."
+	done
+	
+UnknownText_0x981a4:	
+	text "A momentous event"
+	line "has occurred."
+	
+	para "I beg your pardon,"
+	line "but I must ask you"
+	cont "to leave."
+	
+	para "…What soothes the"
+	line "soul…"
+	
+	para "The WISE TRIO say"
+	line "things that are so"
+	
+	para "very difficult to"
+	line "understand…"
+	done
+	
+UnknownText_0x98250:	
+	text "A momentous event"
+	line "has occurred."
+	
+	para "I beg your pardon,"
+	line "but I must ask you"
+	cont "to leave."
+	
+	para $56, $56, $56
+	
+	para "Ah!"
+	
+	para "The sound of that"
+	line "CLEAR BELL!"
+	
+	para "It… It's sublime!"
+	
+	para "I've never heard"
+	line "so beautiful a"
+	cont "sound before!"
+	
+	para "That bell's chime"
+	line "is indicative of"
+	cont "the bearer's soul."
+	
+	para "You…"
+	
+	para "You may be able to"
+	line "make it through"
+	cont "TIN TOWER."
+	
+	para "Please, do go on."
+	done
+	
+UnknownText_0x9837e:	
+	text "Please, do go on."
+	done
+	
+UnknownText_0x98391:	
+	text "That bell's chime"
+	line "is indicative of"
+	cont "the bearer's soul."
+	
+	para "You…"
+	
+	para "You may be able to"
+	line "make it through"
+	cont "TIN TOWER."
+	
+	para "Please, do go on."
+	done
+	
+UnknownText_0x9840b:	
+	text "The TIN TOWER"
+	line "ahead is a nine-"
+	
+	para "tier tower of"
+	line "divine beauty."
+	
+	para "It soothes the"
+	line "soul of all who"
+	cont "see it."
+	done
+	
+UnknownText_0x9846f:	
+	text "방울탑이 흔들렸습니다!"
+	
+	para "틀림없이 제일 꼭대기에"
+	line "포켓몬이 돌아왔을 것 입니다"
+	done
+	
+	
+UnknownText_0x984ab:	;No.01778 [D:0x001481EF] [L:94]
+	text "2개의 탑에"
+	line "2마리의 포켓몬……"
+	
+	para "그러나 탑 하나가 불에 탄 뒤에"
+	line "포켓몬도 날아간 채 돌아오지않아."
+	done
+	
+	
+	
+	

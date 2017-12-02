@@ -1,0 +1,14 @@
+UnknownText_0x195cf5:	;No.02585 [D:0x00170010] [L:59]
+	text "사파리존의 선물을"
+	line "사려고 왔는데"
+	cont "휴업중이라니"
+	cont "정말 짜증나!"
+	done
+	
+	
+UnknownText_0x195d36:	;No.02586 [D:0x0017004C] [L:33]
+	text "원장님의 손자가"
+	line "이 마을에 있단다"
+	done
+	
+	

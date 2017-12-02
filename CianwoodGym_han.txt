@@ -1,0 +1,158 @@
+ChuckIntroText1:	;No.02693 [D:0x00175174] [L:132]
+	text "이얍!"
+	line "여기까지 왔단말인가!"
+	cont "말해두겠지만 나는 강하단다!"
+	
+	para "단련시킨 포켓몬은"
+	line "바위를 쪼개듯"
+	cont "상대방의 뼈도 가루를 낸다!"
+	
+	para "잠시 보여주마"
+	done
+	
+	
+	
+	
+	
+ChuckIntroText2:	;No.02694 [D:0x001751F9] [L:41]
+	text "사도『우우-"
+	line "…… …… ……"
+	
+	para "이야아앗!!"
+	done
+	
+ChuckIntroText3:	;No.02695 [D:0x00175223] [L:103]
+	text "어때! 두려운 생각이 들었지?"
+	
+	para "뭐라 포켓몬이랑은 관계 없다?"
+	line "그건 그렇다!"
+	cont "그러나 승부를 낼 수 있을까!"
+	done
+	
+	
+	
+	
+	
+	
+	
+ChuckLossText:	;No.02696 [D:0x0017528B] [L:74]
+	text "오잉?"
+	line "내가 지다니……"
+	
+	para "이런 일이!"
+	line "좋아! 이 쇼크배지는"
+	cont "너에게 어울린다!"
+	done
+	
+GetStormBadgeText:	;No.02697 [D:0x001752D6] [L:41]
+	text ""
+	db "<PLAYER>"
+	db "는(은) 사도로부터"
+	line "쇼크배지를 받았다!"
+	done
+	
+ChuckExplainBadgeText:	;No.02698 [D:0x00175300] [L:147]
+	text "쇼크배지가 있으면"
+	line "다른 사람에게 얻은 포켓몬도"
+	cont "레벨 70까지라면 말을 잘 듣는다"
+	
+	para "포켓몬의 기술로 하늘을 날다!"
+	
+	para "음 그리고 부록으로"
+	line "이것을 가지고 가라!"
+	done
+	
+	
+	
+	
+	
+	
+	
+ChuckExplainTMText:	;No.02699 [D:0x00175394] [L:121]
+	text "기술머신01의 내용물은"
+	line "폭발 펀치!!"
+	
+	para "맞을까 어떨까 모르겠다만"
+	line "맞으면 절대적으로"
+	cont "곤란상태로 만들정도로"
+	cont "일격을 강타시킨다!"
+	done
+	
+	
+ChuckAfterText:	;No.02700 [D:0x0017540E] [L:79]
+	text "와하하!"
+	line "난 즐거웠다!"
+	
+	para "하지만 패배는 패배이니까"
+	line "내일부터 24시간 특훈강행이다!"
+	done
+	
+	
+	
+	
+	
+BlackbeltYoshiSeenText:	;No.02701 [D:0x0017545E] [L:68]
+	text "나랑 포켓몬은"
+	line "뜨거운 우정으로 묶여 있다"
+	cont "그 어누 누구도 깰 수 없지!"
+	done
+	
+	
+	
+	
+BlackbeltYoshiBeatenText:	;No.02702 [D:0x001754A3] [L:13]
+	text "정말인가!?"
+	done
+	
+BlackbeltYoshiAfterText:	;No.02703 [D:0x001754B1] [L:47]
+	text "너랑 포켓몬도 제법"
+	line "강하게 묶여있는 듯 하구나!"
+	done
+	
+	
+BlackbeltLaoSeenText:	;No.02704 [D:0x001754E1] [L:37]
+	text "우리들 격투가에게"
+	line "무서운 것은 없다!"
+	done
+	
+BlackbeltLaoBeatenText:	;No.02705 [D:0x00175507] [L:9]
+	text "콰-쾅!"
+	done
+	
+BlackbeltLaoAfterText:	;No.02706 [D:0x00175511] [L:33]
+	text "격투포켓몬은"
+	line "초능력을 무서워하지"
+	done
+	
+	
+BlackbeltNobSeenText:	;No.02707 [D:0x00175533] [L:59]
+	text "맨몸으로 일관!"
+	line "말은 필요 없다"
+	cont "진정한 무사의 힘을 펼쳐라!"
+	done
+	
+BlackbeltNobBeatenText:	;No.02708 [D:0x0017556F] [L:15]
+	text "…… …… ……"
+	done
+	
+	
+BlackbeltNobAfterText:	;No.02709 [D:0x0017557F] [L:24]
+	text "졌다면 말은 필요 없다!"
+	done
+	
+	
+BlackbeltLungSeenText:	;No.02710 [D:0x00175598] [L:61]
+	text "길이 빛날 무사도 정신으로 너의 "
+	line "포켓몬을 가루로 만들어주마!"
+	done
+	
+	
+BlackbeltLungBeatenText:	;No.02711 [D:0x001755D6] [L:18]
+	text "코 콩가루-다……"
+	done
+	
+BlackbeltLungAfterText:	;No.02712 [D:0x001755E9] [L:51]
+	text "자랑하는 포켓몬이 지다니"
+	line "프라이드가 박살났구나……"
+	done
+	

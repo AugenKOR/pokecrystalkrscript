@@ -1,0 +1,72 @@
+UnknownText_0x194b45:	
+	text "지금의 사천왕중의 한사람은"
+	line "연분홍시티 체육관의"
+	cont "체육관 관장이었단다!"
+	done
+	
+	
+	
+UnknownText_0x194b83:	
+	text "현재 체육관 관장은"
+	line "사천왕이 되었다"
+	cont "독수님의 따님이란다!"
+	done
+	
+	
+	
+	
+UnknownText_0x194bd3:	
+	text "사파리존은 휴업중"
+	line "연분홍시티의 명소이기때문에"
+	cont "약간은 슬퍼……"
+	done
+	
+	
+	
+	
+FuchsiaCitySignText:	
+	text "이곳은 연분홍시티"
+	line "연분홍은 핑크빛의 화려한 색깔"
+	done
+	
+	
+	
+FuchsiaGymSignText:	
+	text "연분홍시티 포켓몬 체육관"
+	line "관장 도희"
+	cont "독에관한 것이라면 무엇이든 최고"
+	done
+	
+	
+	
+	
+SafariZoneOfficeSignText:	
+	text "……전단지가 붙어있다"
+	
+	para "사파리존 사무국은"
+	line "휴업중입니다"
+	done
+	
+	
+	
+WardensHomeSignText:	
+	text "사파리존"
+	line "원장의 집"
+	done
+	
+SafariZoneClosedSignText:	
+	text "사파리존의 원장님이"
+	line "아주 먼 나라에 여행을 떠나서"
+	cont "쉬고있습니다"
+	done
+	
+	
+	
+	
+NoLitteringSignText:	
+	text "쓰레기 투기 금지"
+	line "쓰레기는 가지고 돌아가주세요"
+	done
+	
+	
+	

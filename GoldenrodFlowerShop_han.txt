@@ -1,0 +1,75 @@
+UnknownText_0x553d4:	
+	text "Have you seen that"
+	line "wiggly tree that's"
+	
+	para "growing on ROUTE"
+	line "36?"
+	
+	para "My little sister"
+	line "got all excited"
+	
+	para "and went to see"
+	line "it…"
+	
+	para "I'm worried… Isn't"
+	line "it dangerous?"
+	done
+	
+UnknownText_0x55463:	
+	text "Do you want to"
+	line "borrow the water"
+	
+	para "bottle too?"
+	line "I don't want you"
+	
+	para "doing anything"
+	line "dangerous with it."
+	done
+	
+UnknownText_0x554c2:	
+	text "Oh, you're better"
+	line "than WHITNEY…"
+	
+	para "You'll be OK,"
+	line "then. Here's the"
+	cont "SQUIRTBOTTLE!"
+	done
+	
+UnknownText_0x5550d:	
+	text "Don't do anything"
+	line "too dangerous!"
+	done
+	
+	
+	
+UnknownText_0x5552e:	
+	text "라라라 라라라라"
+	line "듬뿍 물을 줄께"
+	done
+	
+	
+UnknownText_0x55561:	
+	text "When I told my sis"
+	line "about the jiggly"
+	
+	para "tree, she told me"
+	line "it's dangerous."
+	
+	para "If I beat WHITNEY,"
+	line "I wonder if she'll"
+	
+	para "lend me her water"
+	line "bottle…"
+	done
+	
+	
+	
+UnknownText_0x555e6:	
+	text "Wow, you beat"
+	line "WHITNEY? Cool!"
+	done
+	
+UnknownText_0x55604:	
+	text "So it really was a"
+	line "#MON!"
+	done

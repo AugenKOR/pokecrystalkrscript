@@ -1,0 +1,30 @@
+UnknownText_0x70bc9:	;No.02729 [D:0x001781DA] [L:97]
+	text "이 나이가 되어서"
+	line "아들놈의 영향을 받아"
+	cont "트레이너가 되었는데……"
+	
+	para "편리한 도구를"
+	line "많이 구비하고 있단다"
+	done
+	
+	
+	
+	
+UnknownText_0x70c3e:	;No.02730 [D:0x0017823C] [L:55]
+	text "아빠는 잘"
+	line "도구의 이름이랑 사용방법을"
+	cont "외워놓지를 않으셔"
+	done
+	
+	
+	
+	
+	
+	
+CeladonDeptStore2FDirectoryText:	;No.02731 [D:0x00178274] [L:48]
+	text "트레이너 용품이 가득하다!"
+	line "2층……트레이너즈·숍"
+	done
+	
+	
+	

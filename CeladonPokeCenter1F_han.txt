@@ -1,0 +1,83 @@
+UnknownText_0x71e70:	;No.02777 [D:0x00179340] [L:55]
+	text "민화님은"
+	line "풀포켓몬의 조련사"
+	
+	para "깔보다가는"
+	line "큰 코 다칠꺼야!"
+	done
+	
+	
+UnknownText_0x71ec1:	;No.02778 [D:0x00179378] [L:84]
+	text "게임코너의 지하에는"
+	line "로켓단의 아지트가……"
+	
+	para "앗참!"
+	line "이것은 오래전"
+	cont "3년전의 이야기란다!"
+	done
+	
+	
+	
+CeladonEusineText1:	
+	text "EUSINE: Hi!"
+	
+	para "I'm back visiting"
+	line "my hometown."
+	
+	para "It's been quite a"
+	line "while."
+	done
+	
+EusineLeavesCeladonText:	
+	text ""
+	db "<PLAYER>"
+	db ", have you"
+	line "heard?"
+	
+	para "There have been"
+	line "fresh rumors of a"
+	
+	para "rainbow-colored"
+	line "#MON appearing"
+	cont "at TIN TOWER."
+	
+	para "I've just had my"
+	line "party healed, so"
+	
+	para "now I'm headed to"
+	line "ECRUTEAK."
+	
+	para "I'll be seeing"
+	line "you, "
+	db "<PLAYER>"
+	db "!"
+	done
+	
+NoBeastsText:	
+	text "Oh, by the way,"
+	line ""
+	db "<PLAYER>"
+	db "."
+	
+	para "Have you caught"
+	line "the legendary"
+	
+	para "#MON RAIKOU and"
+	line "ENTEI?"
+	
+	para $56, $56, $56
+	
+	para "Okay…"
+	
+	para "If you catch even"
+	line "one, I hope that"
+	cont "you'll inform me."
+	
+	para "I'm counting on"
+	line "you, "
+	db "<PLAYER>"
+	db "!"
+	done
+	
+	
+	

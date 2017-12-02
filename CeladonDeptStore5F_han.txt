@@ -1,0 +1,29 @@
+UnknownText_0x71023:	;No.02740 [D:0x001785FB] [L:68]
+	text "포켓몬의 능력을 올리는"
+	line "도구를 사고싶지만……"
+	cont "우웅…… 돈이 모자라!"
+	done
+	
+	
+	
+	
+UnknownText_0x71072:	;No.02741 [D:0x00178640] [L:96]
+	text "기술 포인트의 최대치를 높이는"
+	line "포인트 업을 가지고싶은데"
+	cont "가게에서는 팔지않아"
+	cont "도구 어쩌구 하면서!"
+	done
+	
+	
+UnknownText_0x710b6:	;No.02742 [D:0x001786A1] [L:67]
+	text "도구를 사용해주면"
+	line "포켓몬이 기뻐할꺼야!"
+	cont "싫어하는 도구도 있지만……"
+	done
+	
+	
+	
+	
+CeladonDeptStore5FDirectoryText:	;No.02743 [D:0x001786E5] [L:19]
+	text "5층……약품·스토어"
+	done

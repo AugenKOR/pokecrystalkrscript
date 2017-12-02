@@ -1,0 +1,265 @@
+UnknownText_0x198a69:	;;No.00713 [D:0x00121F56] [L:76]
+	text "이곳은 탑이 낡아서"
+	line "쓰러질 것 처럼 된 것을"
+	cont "최신 라디오 방송국으로 만들었단다"
+	done
+	
+	
+	
+UnknownText_0x198aa9:	;;No.00714 [D:0x00121FA3] [L:72]
+	text "자전거 가게가 새로 생겼는데"
+	line "어디에 있지?"
+	cont "전혀 어디 있는지 찾을 수 없네"
+	done
+	
+	
+	
+UnknownText_0x198ae6:	;;No.00715 [D:0x00121FEC] [L:72]
+	text "그 검은색 투성의 사람들"
+	line "로켓단의 흉내를 내고 있는걸까?"
+	cont "괴상한 사람들!"
+	done
+	
+	
+	
+UnknownText_0x198b2d:	;;No.00716 [D:0x00122035] [L:65]
+	text "그 검은색 투성의 사람들"
+	line "정말 로켓단이었어?"
+	cont "지금도 믿지 못하겠네"
+	done
+	
+	
+	
+UnknownText_0x198b73:	;;No.00717 [D:0x00122077] [L:108]
+	text "금빛시티라고 하면 라디오타워"
+	
+	para "지금이라면 캠페인에서"
+	line "포켓기어로 라디오를 들을 수 있게"
+	cont "서비스를 받을 수 있데!"
+	done
+	
+	
+	
+	
+	
+	
+	
+	
+	
+UnknownText_0x198c14:	;;No.00718 [D:0x001220E4] [L:45]
+	text "와아 너의 포켓기어"
+	line "라디오를 들을 수 있구나!"
+	done
+	
+UnknownText_0x198c36:	;;No.00719 [D:0x00122112] [L:59]
+	text "헤헤헤……"
+	line "백화점의 지하 창고에서"
+	cont "숨바꼭질을 하다가 혼났어"
+	done
+	
+	
+	
+	
+	
+UnknownText_0x198c83:	;;No.00720 [D:0x0012214E] [L:95]
+	text "그쪽 집에서"
+	line "포켓몬의 이름으로"
+	cont "점을 쳐준단다"
+	
+	para "포켓몬에게 좋은 이름을"
+	line "다시 지어주는 것도 가능하데"
+	done
+	
+UnknownText_0x198ccf:	;;No.00721 [D:0x001221AE] [L:68]
+	text "그런데 엄청 큰 마을이구나!"
+	line "너무 넓어서 무엇이 있나"
+	cont "전혀 모르겠구나"
+	done
+	
+	
+	
+UnknownText_0x198d0d:	;;No.00722 [D:0x001221F3] [L:26]
+	text "여기가 라디오타워인가……"
+	done
+	
+	
+UnknownText_0x198d2a:	;;No.00723 [D:0x0012220E] [L:25]
+	text "뭐야 임마 너 저리 꺼져!"
+	done
+	
+	
+UnknownText_0x198d4e:	;;No.00724 [D:0x00122228] [L:40]
+	text "어이 어슬렁거리지마!"
+	line "방해하지 말라고!"
+	done
+	
+UnknownText_0x198d6d:	;;No.00725 [D:0x00122251] [L:58]
+	text "라디오타워를 빼앗아서……"
+	
+	para "뭐야!"
+	line "꼬맹이에게는 관계 없다!"
+	done
+	
+	
+UnknownText_0x198daa:	;;No.00726 [D:0x0012228C] [L:38]
+	text "포켓몬?"
+	line "돈벌이에 사용하는 도구잖아!"
+	done
+	
+	
+	
+	
+UnknownText_0x198de2:	;;No.00727 [D:0x001222B3] [L:58]
+	text "이제 곧 우리들의 야망이……"
+	line "여기까지 오는데 참 길었군……"
+	done
+	
+	
+	
+	
+UnknownText_0x198e1f:	;;No.00728 [D:0x001222EE] [L:44]
+	text "임마!"
+	line "꼬맹이가 무슨 용무냐!?"
+	cont "저리 꺼져!"
+	done
+	
+UnknownText_0x198e4b:	;;No.00729 [D:0x0012231B] [L:42]
+	text "너도 로켓단의"
+	line "무서움을 아는 것이 좋을꺼다"
+	done
+	
+	
+GoldenrodCityStationSignText:	;;No.00730 [D:0x00122346] [L:19]
+	text "이곳은 금빛시티 역"
+	done
+	
+	
+GoldenrodCityRadioTowerSignText:	;;No.00731 [D:0x0012235A] [L:20]
+	text "금빛시티 라디오타워"
+	done
+	
+	
+GoldenrodDeptStoreSignText:	;;No.00732 [D:0x0012236F] [L:50]
+	text "포켓몬 제품이라면"
+	line "무엇이든지 있는 금빛시티 백화점"
+	done
+	
+	
+	
+	
+GoldenrodGymSignText:	;;No.00733 [D:0x001223A2] [L:58]
+	text "금빛시티 포켓몬 체육관"
+	line "관장 꼭두"
+	cont "다이너마이트 프리티 걸!"
+	done
+	
+	
+	
+	
+GoldenrodCitySignText:	;;No.00734 [D:0x001223DD] [L:58]
+	text "이곳은 금빛시티"
+	line "휘황찬란"
+	cont "금빛빤짝 생기 있는 아름다운 마을"
+	done
+	
+	
+GoldenrodCityBikeShopSignText:	;;No.00735 [D:0x00122418] [L:65]
+	text "어느 곳이든 씽씽!"
+	
+	para "자전거에 대한 것이라면"
+	line "여기 미라클 싸이클로!"
+	done
+	
+GoldenrodCityGameCornerSignText:	;;No.00736 [D:0x0012245A] [L:41]
+	text "모두의 유락시설!"
+	line "…… 금빛시티 게임코너"
+	done
+	
+	
+	
+GoldenrodCityNameRaterSignText:	;;No.00737 [D:0x00122484] [L:49]
+	text "이곳은 작명가의 집"
+	line "포켓몬의 이름으로 점을 봅니다"
+	done
+	
+	
+	
+GoldenrodCityUndergroundSignNorthText:	;;No.00738 [D:0x001224B6] [L:20]
+	text "여기서부터 지하통로"
+	done
+	
+	
+GoldenrodCityUndergroundSignSouthText:	;;No.00738 [D:0x001224B6] [L:20]
+	text "여기서부터 지하통로"
+	done
+	
+	
+PokeComCenterSignText:	
+	text "이곳은 포켓몬 커뮤니티 센터"
+	line "뭐든 모바일 멋진 커뮤니티!"
+	done
+ 
+
+GoldenrodCityFlowerShopSignText:	
+	text "이곳은 금빛 플라워숍"
+	line "아름다움을 당신에게 줍니다"
+	done
+	
+UnknownText_0x199042:	
+	text "I can teach your"
+	line "#MON amazing"
+	
+	para "moves if you'd"
+	line "like."
+	
+	para "Should I teach a"
+	line "new move?"
+	done
+	
+UnknownText_0x199090:	
+	text "It will cost you"
+	line "4000 coins. Okay?"
+	done
+	
+UnknownText_0x1990b4:	
+	text "Aww… But they're"
+	line "amazing…"
+	done
+	
+UnknownText_0x1990ce:	
+	text "Wahahah! You won't"
+	line "regret it!"
+	
+	para "Which move should"
+	line "I teach?"
+	done
+	
+UnknownText_0x199107:	
+	text "Hm, too bad. I'll"
+	line "have to get some"
+	cont "cash from home…"
+	done
+	
+UnknownText_0x19913a:	
+	text "If you understand"
+	line "what's so amazing"
+	
+	para "about this move,"
+	line "you've made it as"
+	cont "a trainer."
+	done
+	
+UnknownText_0x19918b:	
+	text "Wahahah!"
+	line "Farewell, kid!"
+	done
+	
+UnknownText_0x1991a4:	
+	text "B-but…"
+	done
+	
+UnknownText_0x1991ac:	
+	text "…You don't have"
+	line "enough coins here…"
+	done
+	

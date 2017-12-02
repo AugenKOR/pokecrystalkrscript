@@ -1,0 +1,60 @@
+﻿CeladonGameCornerPrizeRoomGentlemanText:	
+	text "폴리곤을 가지고 싶었는데……"
+	line "동전이 앞으로 100개 남았는데"
+	cont "모이지 않았다……!"
+	done
+	
+CeladonGameCornerPrizeRoomPharmacistText:	;No.02794 [D:0x00179C58] [L:108]
+	text "후우우우우……"
+	
+	para "그렇게 중독이 되지 않도록"
+	line "주의를 하지 않으면……"
+	
+	para "돈을 전부 써버린다면"
+	line "어쩔 수 없을테니까……"
+	done
+	
+	
+CeladonPrizeRoom_PrizeVendorIntroText:	;No.02795 [D:0x00179CC5] [L:83]
+	text "어서오세요!"
+	
+	para "게임을 해서 모은 동전은"
+	line "여기서 좋아하는"
+	cont "경품으로 교환할 수 있습니다!"
+	done
+	
+CeladonPrizeRoom_AskWhichPrizeText:	;No.02796 [D:0x00179D19] [L:21]
+	text "어느 것이 좋습니까?"
+	done
+	
+	
+CeladonPrizeRoom_ConfirmPurchaseText:	
+	text "OK, so you wanted@"
+	text_from_ram StringBuffer3
+	text "(으)로"
+	line "하겠습니까?"
+	done
+	
+CeladonPrizeRoom_HereYouGoText:	;No.02798 [D:0x00179D4B] [L:14]
+	text "자 받으세요!"
+	done
+	
+CeladonPrizeRoom_NotEnoughCoinsText:	;No.02799 [D:0x00179D5A] [L:18]
+	text "동전이 부족합니다"
+	done
+	
+	
+CeladonPrizeRoom_NotEnoughRoomText:	;No.02800 [D:0x00179D6D] [L:27]
+	text "그 이상은 지닐 수 없습니다"
+	done
+	
+	
+CeladonPrizeRoom_ComeAgainText:	;No.02801 [D:0x00179D89] [L:36]
+	text "그렇습니까"
+	line "동전을 모아서 와주세요!"
+	done
+	
+CeladonPrizeRoom_NoCoinCaseText:	;No.02802 [D:0x00179DAE] [L:26]
+	text "응?"
+	line "동전 케이스가 없군요"
+	done

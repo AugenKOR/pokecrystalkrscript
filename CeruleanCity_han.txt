@@ -1,0 +1,121 @@
+UnknownText_0x1840bc:	
+	text "관동의 발전소?"
+	
+	para "발전소는 9번 도로의"
+	line "끝에 있단다"
+	
+	para "사고가 났다는 것 같지만"
+	done
+	
+UnknownText_0x184144:	
+	text "호오오!"
+	line "모든 포켓몬을 모으고 있어?"
+	
+	para "아주 힘들겠지만"
+	line "보람도 있는 일이겠지"
+	done
+	
+	
+	
+UnknownText_0x1841a8:	;No.01579 [D:0x0013DE98] [L:62]
+	text "북쪽에 있는 호수공원은"
+	line "여자들에게 인기 있는"
+	cont "데이트 장소란다!"
+	done
+	
+	
+	
+CeruleanCitySlowbroText:	;No.01580 [D:0x0013DED7] [L:15]
+	text "야돈『야-아?"
+	done
+	
+UnknownText_0x1841fa:	;No.01581 [D:0x0013DEE7] [L:32]
+	text "나랑 야도란의 콤비"
+	line "끝내준다구!"
+	done
+	
+	
+UnknownText_0x184229:	;No.01582 [D:0x0013DF08] [L:30]
+	text "자 야도란"
+	line "염동력을 발휘해라!"
+	done
+	
+UnknownText_0x18424b:	;No.01583 [D:0x0013DF27] [L:41]
+	text "…… …… …… ……"
+	line " …… …… …… ……"
+	done
+	
+UnknownText_0x18424e:	;No.01584 [D:0x0013DF51] [L:39]
+	text "블루시티 체육관의 이슬이"
+	line "저 팬이예요!"
+	done
+	
+	
+UnknownText_0x184275:	;No.01585 [D:0x0013DF79] [L:54]
+	text "무척이나 수상한 사람이"
+	line "블루시티의 호수공원에 있었다!"
+	done
+	
+	
+UnknownText_0x1842a9:	;No.01586 [D:0x0013DFB0] [L:38]
+	text "엄청 강한 포켓몬이 있는"
+	line "동굴이 있데!"
+	done
+	
+	
+	
+	
+UnknownText_0x1842ee:	;No.01587 [D:0x0013DFD7] [L:49]
+	text "엥……?"
+	
+	para "내 다우징 머신이"
+	line "반응을 하고 있어……?"
+	done
+	
+CeruleanCitySignText:	;No.01588 [D:0x0013E009] [L:42]
+	text "이곳은 블루시티"
+	line "블루는 바닷빛 신비의 색깔"
+	done
+	
+	
+	
+CeruleanGymSignText:	;No.01589 [D:0x0013E034] [L:47]
+	text "블루시티 포켓몬 체육관"
+	line "관장 이슬"
+	cont "말괄량이 인어"
+	done
+	
+	
+	
+	
+CeruleanBikeShopSignText:	;No.01590 [D:0x0013E064] [L:80]
+	text "……전단지가 붙어 있다!"
+	
+	para "……미라클 사이클은"
+	line "성도의 금빛시티로"
+	cont "이사했습니다……"
+	done
+	
+	
+CeruleanPoliceSignText:	;No.01591 [D:0x0013E0B5] [L:98]
+	text "……전단지가 붙어 있다!"
+	
+	para "도둑질은 하지맙시다"
+	line "모두 함께 사이좋게 밝은 마을"
+	cont "…… 블루시티 경찰 알림"
+	done
+	
+	
+	
+	
+	
+	
+CeruleanCapeSignText:	;No.01592 [D:0x0013E118] [L:28]
+	text "이 앞은 블루시티의 호수공원"
+	done
+	
+	
+CeruleanLockedDoorText:	;No.01593 [D:0x0013E135] [L:26]
+	text "…… 열쇠가 잠겨져 있다!"
+	done
+	

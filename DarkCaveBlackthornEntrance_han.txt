@@ -1,0 +1,28 @@
+UnknownText_0x18c73f:	
+	text "우와! 놀랬다!"
+	
+	para "검은 안경을 쓰고 있으니까"
+	line "전혀 느끼지 못했다"
+	
+	para "여기서 뭘 하고 있었느냐구?"
+	
+	para "뭐 괜찮잖아!"
+	line "너에게도 검은 안경을 줄테니까"
+	cont "신경 쓰지마"
+	done
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+UnknownText_0x18c80c:	
+	text "검은 안경……"
+	line "포켓몬에게 지니게 하면 악타입의"
+	cont "기술의 공격력이 올라간다"
+	done
+	

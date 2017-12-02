@@ -1,0 +1,79 @@
+UnknownText_0x7523b:	;No.02457 [D:0x0016C9D3] [L:98]
+	text "쾌속선 아쿠아호는"
+	line "갈색시티로 향하고 있습니다"
+	
+	para "갈색시티의 항구에 도착하면"
+	line "방송으로 알려드리겠습니다"
+	done
+	
+	
+	
+UnknownText_0x7529b:	;No.02458 [D:0x0016CA36] [L:98]
+	text "쾌속선 아쿠아호는"
+	line "담청시티로 향하고 있습니다"
+	
+	para "담청시티의 항구에 도착하면"
+	line "방송으로 알려드리겠습니다"
+	done
+	
+	
+	
+UnknownText_0x752f9:	;No.02459 [D:0x0016CA99] [L:87]
+	text "너의 방은 여기야"
+	
+	para "포켓몬들이 상처를 입었다면"
+	line "침대에서 쉬게해도 좋아"
+	cont "모두 건강해질테니까"
+	done
+	
+	
+	
+	
+UnknownText_0x7534f:	;No.02460 [D:0x0016CAF1] [L:89]
+	text "너의 방은 이곳이다"
+	
+	para "침대에서 쉬면"
+	line "포켓몬도 건강해질꺼야"
+	
+	para "자고있는 동안에"
+	line "항구에 도착할꺼야"
+	done
+	
+	
+	
+UnknownText_0x753c0:	;No.02461 [D:0x0016CB4B] [L:75]
+	text "배에 타고있는 손님들은"
+	line "모두 트레이너란다"
+	
+	para "방에서 대전상대를"
+	line "기다리고 있단다"
+	done
+	
+	
+UnknownText_0x75412:	;No.02462 [D:0x0016CB97] [L:131]
+	text "미안하구나 꼬마야!"
+	line "할아버지가 소란을 피워서……!"
+	
+	para "손녀딸이 없어져서"
+	line "찾고있단다!"
+	cont "어린 여자아이인데"
+	cont "발견하면 알려줬으면 좋겠구나!"
+	done
+	
+	
+	
+	
+	
+	
+	
+UnknownText_0x7548d:	;No.02463 [D:0x0016CC1B] [L:42]
+	text "쾌속선 아쿠아호는"
+	line "담청항에 도착했습니다!"
+	done
+	
+	
+UnknownText_0x754be:	;No.02464 [D:0x0016CC46] [L:42]
+	text "쾌속선 아쿠아호는"
+	line "갈색항에 도착했습니다!"
+	done
+	

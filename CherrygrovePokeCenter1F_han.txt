@@ -1,0 +1,31 @@
+UnknownText_0x19698a:	;No.03052 [D:0x00188172] [L:48]
+	text "포켓몬을 몇 마리든 맡겨도 "
+	line "공짜인 것은 기분좋지"
+	done
+	
+	
+	
+	
+UnknownText_0x1969c8:	;No.03053 [D:0x001881A3] [L:82]
+	text "저쪽에 놓여 있는 컴퓨터는"
+	line "포켓몬 트레이너라면 누구든지"
+	cont "자유롭게 사용해도 좋단다!"
+	done
+	
+UnknownText_0x1969f1:	;No.03054 [D:0x001881F6] [L:67]
+	text "2층의 통신센터는"
+	line "마침내 최근에 생겼단다"
+	
+	para "하지만 아직"
+	line "조정중이라더군"
+	done
+	
+	
+UnknownText_0x196a46:	;No.03055 [D:0x0018823A] [L:73]
+	text "2층의 통신센터는"
+	line "마침내 최근에 생겼단다"
+	
+	para "나는 바로"
+	line "포켓몬 교환을 했단다!"
+	done
+	

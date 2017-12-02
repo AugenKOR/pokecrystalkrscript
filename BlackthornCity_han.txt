@@ -1,0 +1,170 @@
+
+Text_ClairIsOut:
+	text "I am sorry."
+
+	para "CLAIR, our GYM"
+	line "LEADER, entered"
+
+	para "the DRAGON'S DEN"
+	line "behind the GYM."
+
+	para "I have no idea"
+	line "when our LEADER"
+	cont "will return."
+	done
+
+Text_ClairIsIn:
+	text "CLAIR, our GYM"
+	line "LEADER, is waiting"
+	cont "for you."
+
+	para "However, it would"
+	line "be impossible for"
+
+	para "a run-of-the-mill"
+	line "trainer to win."
+	done
+
+Text_ClairIsBeaten:
+	text "You defeated"
+	line "CLAIR?"
+
+	para "That's amazing!"
+
+	para "I've never heard"
+	line "of her losing to"
+
+	para "anyone other than"
+	line "LANCE."
+	done
+
+BlackthornGrampsRefusesEntryText:
+	text ";No. Only chosen"
+	line "trainers may train"
+
+	para "here."
+	line "Please leave."
+	done
+
+BlackthornGrampsGrantsEntryText:
+	text "If CLAIR allows"
+	line "it, her grand-"
+	cont "father--our MASTER"
+	cont "--will also."
+
+	para "You may enter."
+	done
+
+BlackBeltText_WeirdRadio:	;No.00812 [D:0x00125950] [L:61]
+	text "라디오가 고장났나?"
+	line "어째 요즘은 이상하네"
+	cont "방송밖에 들리지않아"
+	done
+	
+BlackBeltText_VoicesInMyHead:	;No.00813 [D:0x0012598E] [L:51]
+	text "우왁"
+	line "전파가 찌릿찌릿하다-!"
+	
+	para "응?"
+	line "라디오 듣고 있어"
+	done
+	
+BlackthornCooltrainerF1Text:	;No.00814 [D:0x001259C2] [L:37]
+	text "너도"
+	line "포켓몬의 기술을 잊게 시킬꺼니?"
+	done
+	
+	
+BlackthornYoungsterText:	;No.00815 [D:0x001259E8] [L:41]
+	text "나도 드래곤 조련사가 되어"
+	line "돌아올꺼야!"
+	done
+	done
+	
+MeetSantosText:	;No.00816 [D:0x00125A12] [L:44]
+	text "토영『…… …… ……"
+	
+	para "나는 토요일의 토영……"
+	done
+	
+	
+	
+	
+SantosGivesGiftText:	;No.00817 [D:0x00125A3F] [L:10]
+	text "이거 ……"
+	done
+	
+SantosGaveGiftText:	;No.00818 [D:0x00125A4A] [L:87]
+	text "토영『…… …… ……"
+	
+	para "저주의 부적……"
+	
+	para "고스트타입의 기술이 강해진다"
+	line "네가 놀랄 정도로……"
+	done
+	
+	
+	
+	
+SantosSaturdayText:	;No.00819 [D:0x00125AA2] [L:71]
+	text "토영『…… …… ……"
+	
+	para "다음 토요일에"
+	line "또 만나……"
+	
+	para "더 줄 물건은 없지만……"
+	done
+	
+	
+SantosNotSaturdayText:	;No.00820 [D:0x00125AEA] [L:58]
+	text "토영『오늘은 토요일이"
+	line "아니야……"
+	cont "…… …… …… …… ……"
+	done
+	
+BlackthornCooltrainerF2Text:	;No.00821 [D:0x00125B25] [L:87]
+	text "뭐!"
+	line "얼음샛길을 지나서 왔다고!"
+	
+	para "너 포켓몬 트레이너로서"
+	line "제법 뛰어난 솜씨를 지녔구나!!"
+	done
+	
+	
+BlackthornCitySignText:	;No.00822 [D:0x00125B7D] [L:48]
+	text "이곳은 검은먹시티"
+	line "산골짜기에 머무는 조용한 마을"
+	done
+	
+	
+	
+BlackthornGymSignText:	;No.00823 [D:0x00125BAE] [L:67]
+	text "검은먹시티 포켓몬 체육관"
+	line "관장 이향"
+	cont "성스러운 드래곤 포켓몬 조련사!"
+	done
+	
+	
+	
+	
+MoveDeletersHouseSignText:	;No.00824 [D:0x00125BF2] [L:32]
+	text "무엇이든 잊어먹어? 아저씨의 집"
+	done
+	
+	
+DragonDensSignText:	;No.00825 [D:0x00125C13] [L:16]
+	text "이 끝은 용의 굴"
+	done
+	
+	
+BlackthornCityTrainerTipsText:	;No.00826 [D:0x00125C24] [L:85]
+	text "득이 되는 게시판!"
+	
+	para "기적의 열매를 지니게 하고있으면"
+	line "어떠한 특수 상태라도"
+	cont "회복합니다!"
+	done
+	
+	
+	
+	

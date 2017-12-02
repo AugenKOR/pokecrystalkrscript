@@ -1,0 +1,198 @@
+UnknownText_0x1a00f1:	;;No.00698 [D:0x00121A05] [L:94]
+	text "저 바다를 건너왔니?"
+	line "그것 힘들었겠구나"
+	
+	para "포켓몬이 하늘을 나는 기술을"
+	line "알고 있으면 편해질텐데……"
+	done
+	
+	
+	
+	
+	
+	
+	
+UnknownText_0x1a0163:	;;No.00699 [D:0x00121A64] [L:101]
+	text "체육관 배지가 없으면 쓸 수 없어"
+	line "너 이 마을의 체육관 관장에게"
+	cont "이기면 다시 오너라"
+	cont "좋은 선물을 줄테니까"
+	done
+	
+	
+	
+	
+	
+	
+	
+UnknownText_0x1a01e3:	;;No.00700 [D:0x00121ACA] [L:67]
+	text "그것은 진청시티의 체육관 배지!"
+	
+	para "그럼 이 비전머신을"
+	line "가지고가도 좋아"
+	done
+	
+	
+UnknownText_0x1a021d:	;;No.00701 [D:0x00121B0E] [L:70]
+	text "공중날기를 가르치면"
+	line "지금까지 갔던 장소에"
+	cont "일순간에 갈 수 있도록 된단다"
+	done
+	
+	
+	
+	
+	
+	
+UnknownText_0x1a0277:	;;No.00702 [D:0x00121B55] [L:106]
+	text "호호호 우리집 남편이라면"
+	line "너에게 지고나서부터 특훈을 한단다"
+	
+	para "요즘은 운동이 되어서 아주 좋아"
+	line "배가 나와서말야"
+	done
+	
+	
+	
+UnknownText_0x1a02df:	;;No.00703 [D:0x00121BC0] [L:58]
+	text "공중날기 기술을 쓰게되면"
+	line "담청시티에도 바로 갈 수 있겠네!"
+	done
+	
+	
+	
+	
+UnknownText_0x1a0319:	;;No.00704 [D:0x00121BFB] [L:120]
+	text "마을 북쪽에 있는 바위를 부수면"
+	line "여러가지 것들이 튀어 나온단다 "
+	
+	para "바위를 부수고싶다면"
+	line "포켓몬에게 바위깨기를"
+	cont "시키면 좋을꺼야"
+	done
+	
+	
+	
+	
+	
+UnknownText_0x1a0394:	;;No.00705 [D:0x00121C74] [L:77]
+	text "체육관 관장인 사도님은"
+	line "격투포켓몬을 단련시키는데"
+	cont "자신이 직접 상대를 해준단다"
+	done
+	
+	
+	
+UnknownText_0x1a03cc:	;;No.00706 [D:0x00121CC2] [L:93]
+	text "여기랑 담청시티의 사이에"
+	line "몇 개의 섬이 있었지"
+	
+	para "섬 안에는 바다의 신이"
+	line "살고 있다는 이야기가 있어"
+	done
+	
+	
+	
+UnknownText_0x1a0433:	
+	text "EUSINE: Yo,"
+	line "<PLAYER>."
+	
+	para "Wasn't that"
+	line "SUICUNE just now?"
+	
+	para "I only caught a"
+	line "quick glimpse, but"
+	
+	para "I thought I saw"
+	line "SUICUNE running on"
+	cont "the waves."
+	
+	para "SUICUNE is beau-"
+	line "tiful and grand."
+	
+	para "And it races"
+	line "through towns and"
+	
+	para "roads at simply"
+	line "awesome speeds."
+	
+	para "It's wonderful…"
+	
+	para "I want to see"
+	line "SUICUNE up close…"
+	
+	para "I've decided."
+	
+	para "I'll battle you as"
+	line "a trainer to earn"
+	cont "SUICUNE's respect!"
+	
+	para "Come on, <PLAYER>."
+	line "Let's battle now!"
+	done
+	
+UnknownText_0x1a05a1:	
+	text "I hate to admit"
+	line "it, but you win."
+	done
+	
+UnknownText_0x1a05c3:	
+	text "You're amazing,"
+	line "<PLAYER>!"
+	
+	para "No wonder #MON"
+	line "gravitate to you."
+	
+	para "I get it now."
+	
+	para "I'm going to keep"
+	line "searching for"
+	cont "SUICUNE."
+	
+	para "I'm sure we'll see"
+	line "each other again."
+	
+	para "See you around!"
+	done
+	
+CianwoodCitySignText:	
+	text "이곳은 진청시티"
+	line "거친 물결에 둘러싸인 바다마을"
+	done
+	
+	
+	
+CianwoodGymSignText:	;;No.00708 [D:0x00121D4F] [L:64]
+	text "진청시티 포켓몬 체육관"
+	line "관장 사도"
+	cont "훌륭한 무사의 길을 펼친 사나이"
+	done
+	
+	
+	
+	
+	
+CianwoodPharmacySignText:	;;No.00709 [D:0x00121D90] [L:66]
+	text "창업 500년 전통의"
+	line "진청시티 약국"
+	cont "약에대한 상담 기다리고 있겠습니다"
+	done
+	
+	
+	
+	
+	
+	
+CianwoodPhotoStudioSignText:	;;No.00710 [D:0x00121DD3] [L:52]
+	text "진청시티 사진 아저씨"
+	line "여행의 기념으로 1장 찍으세요!"
+	done
+	
+	
+	
+	
+CianwoodPokeSeerSignText:	
+	text "THE # SEER"
+	line "AHEAD"
+	done
+	

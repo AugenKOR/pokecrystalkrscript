@@ -1,0 +1,53 @@
+UnknownText_0x55b7c:	
+	text "이곳에서는 포켓몬이 지닐 수 있는"
+	line "물건을 여러가지 팔 작정이란다"
+	
+	para "이것은 서비스"
+	line "포켓몬에게 지니게 하거라"
+	done
+	
+	
+	
+UnknownText_0x55bd3:	
+	text "포켓몬에게 도구를 지니게 하면"
+	line "승부를 할 때"
+	cont "여러가지 책략이 나온다고 한다"
+	done
+	
+UnknownText_0x55c25:	
+	text "포켓기어로 등록할 수 있는"
+	line "전화번호는 10명뿐이란다"
+	
+	para "누구의 전화번호를"
+	line "등록 해둘까 망설여진다"
+	done
+	
+	
+	
+UnknownText_0x55c7b:	;No.02258 [D:0x0015DD1B] [L:67]
+	text "나의 캐이시"
+	line "게임코너에서 손에 넣었어"
+	cont "지금은 소중한 파트너가 되었다"
+	done
+	
+	
+	
+UnknownText_0x55cb7:	;No.02259 [D:0x0015DD5F] [L:90]
+	text "백화점에 오면"
+	line "금빛시티는 도회지구나 라고 생각되"
+	
+	para "이 상품 진열의 훌륭함"
+	line "다른 곳이랑은 틀려 "
+	done
+	
+	
+	
+	
+	
+GoldenrodDeptStore2FDirectoryText:	;No.02260 [D:0x0015DDBA] [L:39]
+	text "여행의 친구에게"
+	line "2층……트레이너즈 마켓"
+	done
+	
+	
+	

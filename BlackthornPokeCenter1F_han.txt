@@ -1,0 +1,25 @@
+UnknownText_0x195b85:	
+	text "멀리 떨어진 석영고원"
+	line "에 있는 포켓몬 리그"
+	
+	para "전국에서 실력이 있는"
+	line "트레이너가 모여든다고 한다"
+	done
+	
+	
+	
+	
+	
+	
+	
+UnknownText_0x195bfd:	;No.01874 [D:0x0014CE25] [L:93]
+	text "어떡게 하든 가르치고싶은"
+	line "기술이 있어서"
+	cont "망각의 아저씨에게 부탁해서"
+	cont "비전기술을 잊게 시켰단다!"
+	done
+	
+	
+	
+	
+	

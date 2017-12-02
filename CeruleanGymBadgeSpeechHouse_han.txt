@@ -1,0 +1,3 @@
+UnknownText_0x188005:	
+	text "관동의 체육관 배지를 모으니?"
+	done

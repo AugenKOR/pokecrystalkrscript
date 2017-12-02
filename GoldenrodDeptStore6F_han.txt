@@ -1,0 +1,51 @@
+GoldenrodVendingText:	
+	text "자동판매기다!"
+	line "마시고 싶은 음료수는…… ……"
+	done
+	
+GoldenrodClangText:	
+	text "덜컹!"
+	line "@"
+	text_from_ram StringBuffer3
+	text $55
+	text "(이)가 나왔다"
+	done
+	
+	
+	
+GoldenrodVendingNoMoneyText:	
+	text "돈이 부족한 것 같다!"
+	done
+	
+	
+GoldenrodVendingNoSpaceText:	;No.02283 [D:0x0015E5BC] [L:23]
+	text "이 이상 지닐 수 없다!"
+	done
+	
+	
+UnknownText_0x5654b:	;No.02284 [D:0x0015E5D4] [L:126]
+	text "저기 너 라디오의"
+	line "럭키채널을 듣고있니?"
+	
+	para "그건말야 여러 사람들과"
+	line "포켓몬을 교환해서"
+	cont "여러 아이디를 모으는 편이"
+	cont "당첨되기 쉬워질꺼야"
+	done
+	
+	
+	
+	
+	
+UnknownText_0x565ca:	;No.02285 [D:0x0015E653] [L:76]
+	text "지쳤을 때는 자동판매기의"
+	line "마실 것이 최고!"
+	cont "포켓몬도 음료수를 아주 좋아한단다"
+	done
+	
+	
+	
+	
+GoldenrodDeptStore6FDirectoryText:	;No.02286 [D:0x0015E6A0] [L:37]
+	text "쇼핑하다가 힘들면"
+	line "6층……휴식의 광장"

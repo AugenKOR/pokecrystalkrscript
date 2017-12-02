@@ -1,0 +1,29 @@
+CeladonMansionManagerText:	;No.02751 [D:0x001789EA] [L:104]
+	text "포켓몬에 둘러싸여 있으면"
+	line "혼자 살아도……"
+	cont "쓸쓸하지 않아……"
+	
+	para "우리집 나옹이는……"
+	line "가끔씩 돈을 주워온단다!"
+	done
+	
+	
+	
+CeladonMansion1FMeowthText:	;No.02752 [D:0x00178A53] [L:15]
+	text "나옹『나-옹!"
+	done
+	
+CeladonMansion1FClefairyText:	;No.02753 [D:0x00178A63] [L:16]
+	text "삐삐『삐 삐삐!"
+	done
+	
+	
+CeladonMansion1FNidoranFText:	;No.02754 [D:0x00178A74] [L:22]
+	text "니드런『니드 니드런!"
+	done
+	
+	
+CeladonMansionManagersSuiteSignText:	;No.02755 [D:0x00178A8B] [L:26]
+	text "무지개 맨션"
+	line "…… 관리인실"
+	done

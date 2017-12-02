@@ -1,0 +1,225 @@
+UnknownText_0x76012:	;No.02502 [D:0x0016D6BF] [L:75]
+	text "이야- 살았어!"
+	
+	para "저 여자아이"
+	line "놀이상대하기엔 지쳐서"
+	cont "곤란해하고 있던 중이란다"
+	done
+	
+	
+UnknownText_0x76064:	;No.02503 [D:0x0016D70B] [L:72]
+	text "우리 아쿠아호에"
+	line "탄 기분은 어떤가!?"
+	cont "바다 위를 미끄러지듯"
+	
+	para "달리고 있지!"
+	done
+	
+	
+UnknownText_0x760ae:	;No.02504 [D:0x0016D754] [L:172]
+	text "어이 꼬마야……"
+	line "손녀가 보이질 않는단다……"
+	
+	para "배의 어딘가에 있다면"
+	line "그렇게 걱정은 아니지만"
+	cont "활발한 여자아이라서"
+	cont "누군가에게 실례를 범하고 있을지도"
+	cont "그렇게 생각하니까 걱정이다……"
+	done
+	
+	
+	
+	
+	
+	
+	
+	
+UnknownText_0x76143:	;No.02505 [D:0x0016D801] [L:80]
+	text "그러니까 "
+	db "<PLAY_G>"
+	db "이었던가"
+	line "손녀랑 놀아주었다지"
+	cont "고맙구나!"
+	cont "내게도 보답의 기회를 주련?"
+	done
+	
+	
+	
+	
+UnknownText_0x7619b:	;No.02506 [D:0x0016D852] [L:49]
+	text "그래! 만약 너만 좋다면"
+	line "이것을 가지고 가주겠니!"
+	done
+	
+UnknownText_0x761be:	;No.02507 [D:0x0016D884] [L:46]
+	text "우리들은 세계 방방곡곡을"
+	line "여행하며 돌고 있단다"
+	done
+	
+UnknownText_0x761e0:	;No.02508 [D:0x0016D8B3] [L:42]
+	text "선장님"
+	line "나랑 놀자!"
+	
+	para "시시해!"
+	line "더 놀고싶어!"
+	done
+	
+UnknownText_0x7621f:	;No.02509 [D:0x0016D8DE] [L:104]
+	text "오빠"
+	line "나랑 놀래?"
+	cont "……엣!"
+	cont "할아버지가 걱정하고 있어?"
+	cont "그럼 나 돌아갈께!"
+	cont "할아버지가 있는 곳에 돌아갈래!"
+	done
+	
+	
+	
+	
+	
+	
+	
+UnknownText_0x76284:	;No.02510 [D:0x0016D947] [L:53]
+	text "할아버지 다녀왔습니다!"
+	line "선장님이랑"
+	cont "오빠랑"
+	cont "놀았어요!"
+	done
+	
+	
+UnknownText_0x762c6:	
+	text "할아버지 다녀왔습니다!"
+	line "선장님이랑"
+	cont "언니랑"
+	cont "놀았어요!"
+	done
+	done
+	
+UnknownText_0x7630d:	;No.02511 [D:0x0016D97D] [L:34]
+	text "모두랑 놀아서"
+	line "굉장히 재미있었다!"
+	done
+	
+PokefanmColinSeenText:	;No.02512 [D:0x0016D9A0] [L:20]
+	text "아저씨랑 승부하자!"
+	done
+	
+	
+PokefanmColinBeatenText:	;No.02513 [D:0x0016D9B5] [L:9]
+	text "강하군!"
+	done
+	
+UnknownText_0x7635b:	;No.02514 [D:0x0016D9BF] [L:42]
+	text "너 혼자니?"
+	line "어머니가 걱정하고 있지 않니?"
+	done
+	
+	
+	
+	
+TwinsMegandpeg1SeenText:	;No.02515 [D:0x0016D9EA] [L:52]
+	text "꼬맹이라고 생각하고 있습니까?"
+	line "그런 일은 없을테니까"
+	done
+	
+	
+TwinsMegandpeg1BeatenText:	;No.02516 [D:0x0016DA1F] [L:14]
+	text "이런 졌잖아!"
+	done
+	
+UnknownText_0x763c2:	;No.02517 [D:0x0016DA2E] [L:47]
+	text "꼬맹이라고 부르는 것은"
+	line "아이들에게 실례되니까!"
+	done
+	
+	
+TwinsMegandpeg2SeenText:	;No.02518 [D:0x0016DA5E] [L:52]
+	text "우리들은 꼬맹이가 아니예요"
+	line "그런건 숙녀에게 실례예요"
+	done
+	
+	
+	
+TwinsMegandpeg2BeatenText:	;No.02519 [D:0x0016DA93] [L:10]
+	text "아 졌당!"
+	done
+	
+UnknownText_0x76428:	;No.02520 [D:0x0016DA9E] [L:39]
+	text "절대 어린아이쪽이"
+	line "영리한 때가 있다구!"
+	done
+	
+	
+PsychicRodneySeenText:	;No.02521 [D:0x0016DAC6] [L:31]
+	text "움! 내 두뇌가"
+	line "전파를 잡았다!"
+	done
+	
+	
+PsychicRodneyBeatenText:	;No.02522 [D:0x0016DAE6] [L:22]
+	text "……무엇인가 들린다!"
+	done
+	
+	
+UnknownText_0x76497:	;No.02523 [D:0x0016DAFD] [L:52]
+	text "그래 쾌속선의 안에는"
+	line "성도의 라디오를 들을 수 있다!"
+	done
+	
+	
+PokefanmJeremySeenText:	;No.02524 [D:0x0016DB32] [L:31]
+	text "어때 우리 포켓몬"
+	line "매우 예쁘지?"
+	done
+	
+	
+PokefanmJeremyBeatenText:	;No.02525 [D:0x0016DB52] [L:34]
+	text "아아……!"
+	line "겨우 예쁘게 했었는데!"
+	done
+	
+UnknownText_0x7651c:	;No.02526 [D:0x0016DB75] [L:41]
+	text "포켓몬 미용실에서"
+	line "또 예쁘게 다듬어야지!"
+	done
+	
+	
+PokefanfGeorgiaSeenText:	;No.02527 [D:0x0016DB9F] [L:35]
+	text "백화점에서 쇼핑을!"
+	line "그리고나서……"
+	done
+	
+	
+PokefanfGeorgiaBeatenText:	;No.02528 [D:0x0016DBC3] [L:13]
+	text "뭐였지……?"
+	done
+	
+	
+UnknownText_0x76596:	;No.02529 [D:0x0016DBD1] [L:51]
+	text "그래 그래 보모에게 맡겼던"
+	line "포켓몬을 찾으러 가야해!"
+	done
+	
+	
+SupernerdShawnSeenText:	;No.02530 [D:0x0016DC05] [L:36]
+	text "너 몬스터볼을"
+	line "몇 종류 가지고 있니?"
+	done
+	
+	
+SupernerdShawnBeatenText:	;No.02531 [D:0x0016DC2A] [L:22]
+	text "이봐 잠깐"
+	line "너 그만둬!"
+	done
+	
+UnknownText_0x7660f:	;No.02532 [D:0x0016DC41] [L:46]
+	text "볼은 상황에따라"
+	line "사용방법의 나누는 편이 좋아!"
+	done
+	
+	
+UnknownText_0x76645:	;No.02533 [D:0x0016DC70] [L:42]
+	text "쾌속선 아쿠아호는"
+	line "갈색항에 도착했습니다!"
+	done
+	

@@ -1,0 +1,20 @@
+UnknownText_0x70f21:	;No.02737 [D:0x00178503] [L:58]
+	text "여자친구에게 메일을 보내려고"
+	line "파도타기 메일을 사러왔단다!"
+	done
+	
+	
+UnknownText_0x70f55:	;No.02738 [D:0x0017853E] [L:38]
+	text "러브리 메일은"
+	line "이곳에서만 살 수 있지!"
+	done
+	
+	
+	
+	
+CeladonDeptStore4FDirectoryText:	;No.02739 [D:0x00178565] [L:46]
+	text "4층……진심을 보내자!"
+	line "  와이즈맨·기프트 숍!"
+	done
+	
+	

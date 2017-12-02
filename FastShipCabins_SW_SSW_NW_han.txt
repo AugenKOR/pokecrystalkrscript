@@ -1,0 +1,105 @@
+FirebreatherLyleSeenText:	;No.02486 [D:0x0016D252] [L:44]
+	text "관동에 가서"
+	line "화염의 퍼포먼스를"
+	cont "취할 것이다!"
+	done
+	
+FirebreatherLyleBeatenText:	;No.02487 [D:0x0016D27F] [L:30]
+	text "투덜 투덜……"
+	line "불꽃이 작아……"
+	done
+	
+UnknownText_0x75b52:	;No.02488 [D:0x0016D29E] [L:59]
+	text "역시 바다 위에서는"
+	line "불꽃이 약한걸까……"
+	
+	para "관계없어?"
+	line "그러니?"
+	done
+	
+Bug_catcherKenSeenText:	;No.02489 [D:0x0016D2DA] [L:34]
+	text "할머니댁에 가서"
+	line "곤충채집 할꺼다!"
+	done
+	
+	
+Bug_catcherKenBeatenText:	;No.02490 [D:0x0016D2FD] [L:23]
+	text "우와!"
+	line "강하구나 형은!"
+	done
+	
+UnknownText_0x75bd5:	;No.02491 [D:0x0016D315] [L:39]
+	text "성도의 나무에는"
+	line "많은 포켓몬이 있단다!"
+	done
+	
+	
+BeautyCassieSeenText:	;No.02492 [D:0x0016D33D] [L:47]
+	text "포켓몬 승부로"
+	line "슬픔을 잊게만들지"
+	cont "상대해주겠어?"
+	done
+	
+BeautyCassieBeatenText:	;No.02493 [D:0x0016D36D] [L:24]
+	text "내 마음이 울고 있어……"
+	done
+	
+UnknownText_0x75c43:	;No.02494 [D:0x0016D386] [L:92]
+	text "실연의 슬픔을 고치기에는"
+	line "배를 타는 여행이 최고이지만……"
+	
+	para "쾌속선은 너무 빨라서"
+	line "정취가 없어!"
+	done
+	
+	
+	
+GuitaristClydeSeenText:	;No.02495 [D:0x0016D3E3] [L:54]
+	text "금빛시티의 라디오 방송국에"
+	line "노래를 알려나가는 것이다!"
+	done
+	
+	
+	
+	
+GuitaristClydeBeatenText:	;No.02496 [D:0x0016D41A] [L:9]
+	text "띠리링!"
+	done
+	
+	
+UnknownText_0x75cfe:	
+	text "나는 배틀 타워에 가서"
+	line "나의 꿈을 이룰거야!"
+	
+	para "그러기 위해선"
+	line "갈색시티로 가야되……"
+	done
+	
+UnknownText_0x75d65:	;No.02497 [D:0x0016D424] [L:68]
+	text "라디오 방송국이라고 하면"
+	line "오늘의 럭키채널의"
+	cont "당첨 번호는 무엇일까……"
+	done
+	
+	
+	
+FastShipBedText1:	;No.02498 [D:0x0016D469] [L:36]
+	text "푹신푹신 침대다!"
+	line "느긋하게 쉬자……"
+	done
+	
+FastShipBedText2:	;No.02499 [D:0x0016D48E] [L:25]
+	text "완전히 활기를 되찾았다!"
+	done
+	
+	
+FastShipArrivedOlivineText:	;No.02500 [D:0x0016D4A8] [L:42]
+	text "쾌속선 아쿠아호는"
+	line "담청항에 도착했습니다!"
+	done
+	
+FastShipArrivedVermilionText:	
+	text "쾌속선 아쿠아호는"
+	line "갈색항에 도착했습니다!"
+	done
+	

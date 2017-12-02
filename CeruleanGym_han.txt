@@ -1,0 +1,165 @@
+UnknownText_0x1884fb:	
+	text "오우! 쏘리!"
+	line "유 상처 낫씽입니까?"
+	cont "나는 베리 비지해요!"
+	cont "유랑 천천히 토킹"
+	cont "할 수 없어요!"
+	cont "누군가에게 발견되면"
+	cont "난 골란해지니까요!"
+	done
+	
+	
+	
+UnknownText_0x188574:	;No.01919 [D:0x0015049B] [L:64]
+	text "……오- 노-!"
+	line "이미 유에게 들켜버렸네요!"
+	cont "빅 마이 미스테이크!"
+	done
+	
+UnknownText_0x1885a5:	;No.01920 [D:0x001504DC] [L:107]
+	text "헤이 유!"
+	line "이 일에대해 포겟 해야해!"
+	cont "유는 아무것도 못 봤다"
+	cont "듣지도 않고 모르는거다!"
+	
+	para "바이 키드!"
+	line "롱 굿바이!"
+	done
+	
+	
+	
+	
+CeruleanGymNote1:	;No.01921 [D:0x00150548] [L:38]
+	text "잠시 외출합니다"
+	line "…… 체육관 관장 이슬"
+	done
+	
+	
+CeruleanGymNote2:	;No.01922 [D:0x0015056F] [L:62]
+	text "이슬이가 없어서"
+	line "놀러 다녀오겠습니다"
+	cont "…… 체육관 트레이너 일동"
+	done
+	
+UnknownText_0x188674:	;No.01923 [D:0x001505AE] [L:142]
+	text "이슬『왔구나!"
+	line "방해꾼 나으리!"
+	
+	para "성도의 체육관 배지를"
+	line "많이 가지고 있어 보이지만"
+	cont "나를 얕보다간 큰 코 다칠껄"
+	
+	para "내 물타입의 포켓몬은"
+	line "무척 강하다구!"
+	done
+	
+	
+	
+	
+	
+UnknownText_0x18870c:	;No.01924 [D:0x0015063D] [L:80]
+	text "이슬『꽤 하는군……"
+	
+	para "너의 실력"
+	line "마음을 비우고 받아들이지……"
+	
+	para "자 이거"
+	line "블루배지야!"
+	done
+	
+	
+UnknownText_0x188768:	;No.01925 [D:0x0015068E] [L:43]
+	text ""
+	db "<PLAYER>"
+	db "는(은) 이슬이로부터"
+	line "블루배지를 얻었다!"
+	done
+	
+UnknownText_0x188782:	;No.01926 [D:0x001506BA] [L:103]
+	text "이슬『강한 트레이너가"
+	line "성도에는 많이 있니?"
+	cont "너처럼"
+	
+	para "나도 언젠가 여행을 떠나서"
+	line "강한 트레이너랑 싸울꺼야!"
+	done
+	
+	
+	
+	
+	
+SwimmerfDianaSeenText:	;No.01927 [D:0x00150722] [L:46]
+	text "미안 부재중이어서"
+	line "그럼 바로 승부에 들어갈까!"
+	done
+	
+	
+SwimmerfDianaBeatenText:	;No.01928 [D:0x00150751] [L:24]
+	text "아잉 몰라!"
+	line "내가 졌어!"
+	done
+	
+UnknownText_0x188856:	;No.01929 [D:0x0015076A] [L:27]
+	text "우아하게 헤엄치고 있습니다"
+	done
+	
+	
+SwimmerfBrianaSeenText:	;No.01930 [D:0x00150786] [L:43]
+	text "나의 화려한"
+	line "헤엄치기를 보고 놀라지마세요!"
+	done
+	
+	
+SwimmerfBrianaBeatenText:	;No.01931 [D:0x001507B2] [L:43]
+	text "전혀 놀라지 않는군……"
+	line "엄청 냉정하네……!"
+	done
+	
+UnknownText_0x1888c0:	;No.01932 [D:0x001507DE] [L:61]
+	text "나를 쓰러뜨렸다고해서"
+	line "안심하지 마라"
+	cont "이슬이는 정말 강하니까!"
+	done
+	
+	
+	
+	
+SwimmermParkerSeenText:	;No.01933 [D:0x0015081C] [L:35]
+	text "어푸!"
+	
+	para "먼저 내가 상대다!"
+	line "덤벼라!"
+	done
+	
+SwimmermParkerBeatenText:	;No.01934 [D:0x00150840] [L:14]
+	text "이럴리 없는데"
+	done
+	
+UnknownText_0x188943:	;No.01935 [D:0x0015084F] [L:77]
+	text "이슬이는 요 근래 수년동안"
+	line "점점 강해졌단다!"
+	cont "방심하지말거라"
+	cont "혼쭐이 날테니까!"
+	done
+	
+	
+	
+	
+CeruleanGymGuyText:	;No.01936 [D:0x0015089D] [L:77]
+	text "야아-!"
+	line "미래의 챔피언!"
+	
+	para "이슬이가 없어서"
+	line "우리들도 놀러 갔었단다"
+	cont "와하하하핫!"
+	done
+	
+	
+	
+CeruleanGymGuyWinText:	;No.01937 [D:0x001508EB] [L:34]
+	text "역시 강하구나!"
+	line "좋은 시합이었어!"
+	done
+	
+	
+	

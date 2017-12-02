@@ -1,0 +1,33 @@
+PharmacistGiveSecretpotionText:	;No.02716 [D:0x001758AF] [L:146]
+	text "너의 포켓몬"
+	line "어딘가 중병이라도 있는건가"
+	cont "뭔가 심각한 일이라도?"
+	
+	para "…… …… ……"
+	
+	para "흐-음"
+	line "등대의 포켓몬인가"
+	
+	para "알았다!"
+	line "그것이라면 이 약이지"
+	cont "가지고 가거라"
+	done
+	
+	
+	
+	
+	
+ReceivedSecretpotionText:	;No.02717 [D:0x00175942] [L:31]
+	text ""
+	db "<PLAYER>"
+	db "는(은)"
+	line "비전 신약을 맡았다!"
+	done
+	
+PharmacistDescribeSecretpotionText:	;No.02718 [D:0x00175962] [L:73]
+	text "나의 비전 신약은"
+	line "효능이 너무 뛰어나기에"
+	cont "아주 중증이 아니라면 주지 않는다"
+	done
+	
+	

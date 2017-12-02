@@ -1,0 +1,20 @@
+UnknownText_0x18814d:	;No.01912 [D:0x0015012E] [L:67]
+	text "우리 영감은"
+	
+	para "여러 사람들과 교환한"
+	line "포켓몬들과"
+	cont "행복하게 지내고 있단다"
+	done
+	
+UnknownText_0x18818a:	;No.01913 [D:0x00150172] [L:27]
+	text "아-……"
+	line "난- 행복하구나-"
+	done
+UnknownText_0x18819c:	;No.01914 [D:0x0015018E] [L:18]
+	text "캥카『캥카 캥카!"
+	done
+	
+	
+UnknownText_0x1881b5:	;No.01915 [D:0x001501A1] [L:18]
+	text "주벳『주벳 주벳!"
+	done

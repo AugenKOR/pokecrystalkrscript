@@ -1,0 +1,20 @@
+UnknownText_0x189b6c:	;No.02983 [D:0x0018400E] [L:68]
+	text "어서오셔!"
+	
+	para "격투 도장의 사범"
+	line "태권왕은"
+	cont "수행을 위해"
+	cont "성도의 동굴에 계셔"
+	done
+	
+	
+	
+UnknownText_0x189bc0:	;No.02984 [D:0x00184053] [L:10]
+	text "인과 응보"
+	done
+	
+	
+UnknownText_0x189be0:	;No.02985 [D:0x0018405E] [L:9]
+	text "사면초가"
+	done
+	

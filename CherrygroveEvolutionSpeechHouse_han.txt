@@ -1,0 +1,14 @@
+UnknownText_0x196cc3:	;No.03059 [D:0x001884C5] [L:65]
+	text "포켓몬이라고 하는 것은"
+	line "싸움을 거치면 경험을 쌓아"
+	cont "모습이 변한단다"
+	done
+	
+	
+	
+UnknownText_0x196cfc:	;No.03060 [D:0x00188507] [L:61]
+	text "포켓몬의 모습이 변해버려?"
+	
+	para "갑자기 바뀌면"
+	line "깜짝 놀라버릴꺼야!"
+	done

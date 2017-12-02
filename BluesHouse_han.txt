@@ -1,0 +1,78 @@
+UnknownText_0x19b130:	
+	text "남나리『내 남동생"
+	line "상록시티 체육관의 관장이란다"
+	
+	para "종일 체육관을 비우고"
+	line "모두를 곤란하게 만드는 것 같아"
+	done
+	
+	
+	
+	
+	
+	
+	
+UnknownText_0x19b1b6:	;No.02364 [D:0x001654F4] [L:128]
+	text "남나리『어서와"
+	line "마침 잘 되었어!"
+	cont "지금부터 녹차를 마실 시간이란다"
+	
+	para "응? 너의 포켓몬"
+	line "엄청 더러워진 것 같구나!"
+	cont "내가 깨끗하게 해줄까"
+	done
+	
+	
+	
+	
+	
+	
+UnknownText_0x19b244:	;No.02365 [D:0x00165575] [L:31]
+	text "남나리『어느 포켓몬으로 할래?"
+	done
+	
+	
+UnknownText_0x19b266:	;No.02366 [D:0x00165595] [L:31]
+	text "남나리『그럼"
+	line "깨끗하게 해줄게!"
+	done
+	
+	
+UnknownText_0x19b296:	
+	text_from_ram StringBuffer3
+	text"는(은)"
+	line "매우 기분이 좋아보인다!"
+	done
+	
+UnknownText_0x19b2aa:	
+	text "남나리『자!"
+	line "엄청 깨끗해졌단다!"
+	
+	para "우후후"
+	line "귀여운 포켓몬이네!"
+	done
+	
+	
+	
+	
+UnknownText_0x19b2fa:	;No.02369 [D:0x0016561A] [L:54]
+	text "남나리『이 시간은"
+	line "매일 녹차를 마시고 있으니까"
+	cont "또 와!"
+	done
+	
+	
+	
+UnknownText_0x19b334:	;No.02370 [D:0x00165651] [L:43]
+	text "남나리『깨끗해지기 싫어?"
+	line "그럼 차나 마시렴"
+	done
+	
+	
+	
+	
+UnknownText_0x19b377:	;No.02371 [D:0x0016567D] [L:34]
+	text "남나리『우후후!"
+	line "알은 광이나 내렴"
+	done
+	

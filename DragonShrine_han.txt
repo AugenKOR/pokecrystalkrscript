@@ -1,0 +1,260 @@
+
+UnknownText_0x18d2ea:
+	text "Hm… Good to see"
+	line "you here."
+
+	para "No need to explain"
+	line "why you came."
+
+	para "CLAIR sent you"
+	line "here, didn't she?"
+
+	para "That girl is a"
+	line "handful…"
+
+	para "I am sorry, but I"
+	line "must test you."
+
+	para "Not to worry, you"
+	line "are to answer only"
+	cont "a few questions."
+
+	para "Ready?"
+	done
+
+UnknownText_0x18d3bc:
+	text "What are #MON"
+	line "to you?"
+	done
+
+UnknownText_0x18d3d3:
+	text "What helps you to"
+	line "win battles?"
+	done
+
+UnknownText_0x18d3f3:
+	text "What kind of"
+	line "trainer do you"
+	cont "wish to battle?"
+	done
+
+UnknownText_0x18d420:
+	text "What is most"
+	line "important for"
+	cont "raising #MON?"
+	done
+
+UnknownText_0x18d44a:
+	text "Strong #MON."
+	line "Weak #MON."
+
+	para "Which is more"
+	line "important?"
+	done
+
+UnknownText_0x18d47c:
+	text "Hm… I see…"
+
+	para "You care deeply"
+	line "for #MON."
+
+	para "Very commendable."
+
+	para "That conviction is"
+	line "what is important!"
+
+	para "<PLAYER>, don't"
+	line "lose that belief."
+
+	para "It will see you"
+	line "through at the"
+	cont "#MON LEAGUE."
+	done
+
+UnknownText_0x18d520:
+	text "CLAIR!"
+
+	para "This child is"
+	line "impeccable, in"
+	cont "skill and spirit!"
+
+	para "Admit defeat and"
+	line "confer the RISING-"
+	cont "BADGE!"
+
+	para "…Or must I inform"
+	line "LANCE of this?"
+	done
+
+UnknownText_0x18d5a3:
+	text "CLAIR…"
+
+	para "Reflect upon what"
+	line "it is that you"
+
+	para "lack and this"
+	line "child has."
+	done
+
+UnknownText_0x18d5e5:
+	text "Come again, if you"
+	line "so desire."
+	done
+
+UnknownText_0x18d604:
+	text "Hm… Good to see"
+	line "you here."
+
+	para "Your arrival is"
+	line "most fortunate."
+
+	para "I have something"
+	line "for you."
+
+	para "Take this DRATINI"
+	line "as proof that I"
+
+	para "have recognized"
+	line "your worth."
+	done
+
+UnknownText_0x18d697:
+	text "<PLAYER> received"
+	line "DRATINI!"
+	done
+
+UnknownText_0x18d6ac:
+	text "Hm? Your #MON"
+	line "party is full."
+	done
+
+UnknownText_0x18d6ca:
+	text "Dragon #MON are"
+	line "symbolic of our"
+	cont "clan."
+
+	para "You have shown"
+	line "that you can be"
+
+	para "entrusted with"
+	line "one."
+	done
+
+UnknownText_0x18d724:
+	text "CLAIR appears to"
+	line "have learned an"
+
+	para "invaluable lesson"
+	line "from you."
+
+	para "I thank you as her"
+	line "grandfather."
+	done
+
+UnknownText_0x18d782:
+	text "A boy close to"
+	line "your age is in"
+	cont "training here."
+
+	para "He is much like"
+	line "CLAIR when she was"
+
+	para "younger. It is a"
+	line "little worrisome…"
+	done
+
+UnknownText_0x18d7f6:
+	text "Hah? I didn't"
+	line "quite catch that…"
+	done
+
+UnknownText_0x18d816:
+	text "What was it you"
+	line "said?"
+	done
+
+UnknownText_0x18d82d:
+	text "Oh, I understand…"
+	done
+
+UnknownText_0x18d840:
+	text "It's been quite"
+	line "some time since a"
+
+	para "trainer has gained"
+	line "our MASTER's rare"
+	cont "approval."
+
+	para "In fact, not since"
+	line "Master LANCE."
+	done
+
+UnknownText_0x18d8b1:
+	text "You know young"
+	line "Master LANCE?"
+
+	para "He looks so much"
+	line "like our MASTER"
+	cont "did in his youth."
+
+	para "It's in their"
+	line "blood."
+	done
+
+UnknownText_0x18d916:
+	text "So how did it go?"
+
+	para "I guess there's no"
+	line "point in asking."
+
+	para "You did fail?"
+
+	para $56, $56, $56, $56, $56, $56
+
+	para "…What? You passed?"
+	done
+
+UnknownText_0x18d974:
+	text "That can't be!"
+	done
+
+UnknownText_0x18d983:
+	text "You're lying!"
+
+	para "Even I haven't"
+	line "been approved!"
+	done
+
+UnknownText_0x18d9ae:
+	text "I-I understand…"
+	done
+
+UnknownText_0x18d9bf:
+	text "Here, this is the"
+	line "RISINGBADGE…"
+
+	para "Hurry up! Take it!"
+	done
+
+UnknownText_0x18d9f2:
+	text "<PLAYER> received"
+	line "RISINGBADGE."
+	done
+
+UnknownText_0x18da0b:
+	text "RISINGBADGE will"
+	line "enable your"
+
+	para "#MON to use the"
+	line "move for climbing"
+	cont "waterfalls."
+
+	para "Also, all #MON"
+	line "will recognize you"
+
+	para "as a trainer and"
+	line "obey your every"
+
+	para "command without"
+	line "question."
+	done

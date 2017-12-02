@@ -1,0 +1,54 @@
+UnknownText_0x54787:	;No.02196 [D:0x0015C826] [L:133]
+	text "하아……"
+	line "일부러 멀리서 금빛시티까지 왔는데"
+	cont "자전거가 전혀 팔리지 않아"
+	
+	para "어째서일까?"
+	line "너 자전거를 타고 돌아다니며"
+	cont "선전을 해주지 않겠니?"
+	done
+	
+	
+	
+UnknownText_0x547f8:	;No.02197 [D:0x0015C8AC] [L:64]
+	text "저 정말?"
+	
+	para "그럼 이름이랑 전화번호"
+	line "가르쳐줘"
+	cont "자전거를 빌려줄테니까"
+	done
+	
+	
+	
+UnknownText_0x54848:	;No.02198 [D:0x0015C8ED] [L:28]
+	text ""
+	db "<PLAYER>"
+	db "는(은)"
+	line "자전거를 빌렸다!"
+	done
+	
+UnknownText_0x5485f:	;No.02199 [D:0x0015C90A] [L:71]
+	text "미라클 사이클의 자전거는"
+	line "성능 최고니까!"
+	cont "어떤 길이라도 씽씽 달린단다!"
+	done
+	
+	
+	
+UnknownText_0x54898:	;No.02200 [D:0x0015C952] [L:40]
+	text "하아……"
+	line "사람들의 친절함에 젖어들고싶어"
+	done
+	
+	
+UnknownText_0x548c0:	;No.02201 [D:0x0015C97B] [L:35]
+	text "드디어 발매!"
+	line "최고급 컴팩트 사이클"
+	done
+	
+	
+	
+UnknownText_0x548ed:	;No.02202 [D:0x0015C99F] [L:26]
+	text "번쩍번쩍거리는 자전거다!"
+	done
+	

@@ -1,0 +1,19 @@
+
+UnknownText_0x71a3f:
+	text "High places--I do"
+	line "love them so!"
+
+	para "I'd say the only"
+	line "thing that loves"
+
+	para "heights as much as"
+	line "me is smoke!"
+	done
+
+UnknownText_0x71aa1:
+	text "There's graffiti"
+	line "on the wall…"
+
+	para "<PLAYER> added a"
+	line "moustache!"
+	done

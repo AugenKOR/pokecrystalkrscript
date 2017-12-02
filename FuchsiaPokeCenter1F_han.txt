@@ -1,0 +1,27 @@
+UnknownText_0x196494:	;No.02608 [D:0x0017072B] [L:46]
+	text "오!"
+	line "최신형의 포켓몬 도감"
+	cont "오박사님께 받았니?"
+	done
+	
+	
+	
+	
+UnknownText_0x1964dc:	;No.02609 [D:0x0017075A] [L:69]
+	text "체육관에 가보면 깜짝 놀랜다!"
+	line "같은 얼굴의 여자아이들이"
+	cont "많이 있었어!"
+	done
+	
+	
+	
+	
+UnknownText_0x19652e:	;No.02610 [D:0x001707A0] [L:25]
+	text "도희 언니란다!"
+	line "뾰로롱!"
+	done
+	
+UnknownText_0x19654e:	;No.02611 [D:0x001707BA] [L:14]
+	text "어때 똑같지?"
+	done
+	

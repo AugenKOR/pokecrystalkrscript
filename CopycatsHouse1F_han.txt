@@ -1,0 +1,34 @@
+UnknownText_0x18ad34:	;No.03026 [D:0x00184F68] [L:121]
+	text "…… 곤란한 것은 딸애가"
+	line "사람들의 흉내를 내는 것이지!"
+	
+	para "하루종일 사람들을 놀려서"
+	line "근처에서는"
+	cont "흉내내기 아가씨라고 불려진다!"
+	done
+	
+	
+	
+UnknownText_0x18ad95:	;No.03027 [D:0x00184FE2] [L:65]
+	text "댁의 따님은"
+	line "정말 제멋대로 키워서……"
+	cont "친구들도 그다지 많지 않아요"
+	done
+	
+	
+	
+UnknownText_0x18add3:	;No.03028 [D:0x00185024] [L:86]
+	text "3년전 남자아이에게 얻은"
+	line "삐삐인형을 잃어버리고부터"
+	
+	para "점점 흉내내기에"
+	line "자신이 없어져서……"
+	done
+	
+	
+	
+	
+	
+UnknownText_0x18ae4b:	;No.03029 [D:0x0018507B] [L:17]
+	text "해피너스『해피!"
+	done

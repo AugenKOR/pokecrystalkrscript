@@ -1,0 +1,40 @@
+UnknownText_0x9e1bc:	;No.02722 [D:0x00175AA9] [L:77]
+	text "담청시티에서 왔니?"
+	line "도중에 4개의 섬이 있었지"
+	cont "섬 안에는 바다의 신이 살고 있대"
+	done
+	
+	
+	
+	
+	
+	
+	
+	
+	
+UnknownText_0x9e23f:	;No.02723 [D:0x00175AF7] [L:96]
+	text "은빛 날개를 가지고 있으면"
+	line "만날 수 있다고 전해들었어"
+	
+	para "아마도 자신이랑"
+	line "같은 향기가 나기 때문일지도"
+	done
+	
+	
+	
+	
+	
+UnknownText_0x9e2a9:	
+	text "섬 주변의 소용돌이는"
+	line "바다의 신이 만들냈다고"
+	cont "전해지는 이야기가 있어"
+	
+	
+	
+	
+	para "그 소용돌이를 지나기 위해선"
+	line "특별한 기술이 필요할거야"
+	done
+	
+	
+	

@@ -1,0 +1,92 @@
+UnknownText_0x730de:	;No.02828 [D:0x0017A436] [L:51]
+	text "어서와요!"
+	
+	para "많이먹기 대회가"
+	line "한창이다!"
+	cont "미안하구나!"
+	done
+	
+	
+	
+UnknownText_0x73129:	;No.02829 [D:0x0017A46A] [L:15]
+	text "와구와구……!"
+	done
+	
+UnknownText_0x7313a:	;No.02830 [D:0x0017A47A] [L:26]
+	text "말 걸지마!"
+	line "김 빠지잖아!"
+	done
+	
+	
+	
+UnknownText_0x7316a:	;No.02831 [D:0x0017A495] [L:15]
+	text "우걱우걱……!"
+	done
+	
+UnknownText_0x73178:	;No.02832 [D:0x0017A4A5] [L:54]
+	text "밥이란 맛 보다는 양이 최고!"
+	line "배가 띵띵하면 만족이다!"
+	done
+	
+	
+	
+	
+UnknownText_0x731ae:	;No.02833 [D:0x0017A4DC] [L:11]
+	text "쩝쩝……!"
+	done
+	
+UnknownText_0x731bd:	;No.02834 [D:0x0017A4E8] [L:48]
+	text "이곳도 맛있지만"
+	line "역시 음식은"
+	cont "금빛시티가 최고야!"
+	done
+	
+	
+UnknownText_0x73201:	;No.02835 [D:0x0017A519] [L:15]
+	text "열심열심……!"
+	done
+	
+UnknownText_0x73212:	;No.02836 [D:0x0017A529] [L:57]
+	text "이 가게에 동전 케이스를"
+	line "주는 사람은 없어"
+	cont "성도에서 찾아봐"
+	done
+	
+	
+	
+UnknownText_0x73254:	;No.02837 [D:0x0017A563] [L:37]
+	text "으작으작……!"
+	
+	para "아직도 먹을 수 있어!"
+	done
+	
+UnknownText_0x73278:	;No.02838 [D:0x0017A589] [L:25]
+	text "한그릇 더! 주인아저씨!"
+	done
+	
+EatathonContestPosterText:	;No.02839 [D:0x0017A5A3] [L:71]
+	text "많이먹기 대회!"
+	line "시간 무제한"
+	cont "끝이 없는 배틀!"
+	cont "1등은 공짜가 되겠습니다!"
+	done
+	
+	
+	
+	
+	
+FoundLeftoversText:	
+	text ""
+	db "<PLAYER>"
+	db "는(은)"
+	line "@"
+	text_from_ram StringBuffer3
+	text "를(을)"
+	cont "발견했다!"
+	done
+NoRoomForLeftoversText:	;No.02841 [D:0x0017A60F] [L:47]
+	text "그러나 "
+	db "<PLAYER>"
+	db "는(은)"
+	line "더 이상 도구를 지닐 수 없다!"
+	done

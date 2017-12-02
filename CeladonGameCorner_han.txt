@@ -1,0 +1,128 @@
+UnknownText_0x721d0:	;No.02779 [D:0x001794D8] [L:87]
+	text "어서오세요!"
+	
+	para "게임을 해서 모은 동전은"
+	line "옆의 교환장에서"
+	cont "마음에 드는 경품으로 골라주세요!"
+	done
+	
+	
+	
+UnknownText_0x72215:	;No.02780 [D:0x00179530] [L:71]
+	text "이곳의 슬롯머신은 전부"
+	line "최신형이란다!"
+	cont "진짜 재미있어서 참을 수 없단다!"
+	done
+	
+UnknownText_0x72242:	;No.02781 [D:0x00179578] [L:69]
+	text "이거야 이 기계"
+	
+	para "어제 전혀 동전을"
+	line "내지 않았기때문에"
+	cont "오늘은 꼭 될꺼야!"
+	done
+	
+	
+	
+	
+UnknownText_0x72295:	;No.02782 [D:0x001795BE] [L:100]
+	text "이 기계는 나올 것 같은"
+	line "기분이 들기는 하는데……"
+	
+	para "잘 터지는 슬롯머신과"
+	line "잘 되지 않는 슬롯머신이 있단다"
+	done
+	
+	
+UnknownText_0x722dc:	;No.02783 [D:0x00179623] [L:134]
+	text "캬하핫!"
+	line "동전이 점점 나오고 있다!"
+	cont "웃음이 멈추지 않는다-!"
+	
+	para "…… 오? 꼬마야!"
+	line "게임을 하며 놀고싶은가?"
+	
+	para "좋아 나의 행운을"
+	line "나누어주마!"
+	done
+	
+	
+UnknownText_0x72345:	;No.02784 [D:0x001796AA] [L:54]
+	text "캬하핫!"
+	
+	para "다른사람에게 친절을 베풀면"
+	line "기분이 좋단다-!"
+	done
+	
+	
+	
+	
+UnknownText_0x7238a:	;No.02785 [D:0x001796E1] [L:74]
+	text "어이쿠 꼬마야!"
+	line "동전 케이스를 가지고 있지 않구나"
+	cont "그럼 동전을 줄 수 없단다"
+	done
+	
+	
+	
+	
+UnknownText_0x723d9:	;No.02786 [D:0x0017972C] [L:72]
+	text "어이 꼬마야!"
+	line "동전 케이스가 가득찼다!"
+	cont "꼬맹이에게도 운이 있는 것 같군!"
+	done
+	
+	
+	
+	
+CeladonGymGuyText:	;No.02787 [D:0x00179775] [L:111]
+	text "오오!"
+	line "미래의 챔피언!"
+	cont "슬롯머신을 할꺼니?"
+	
+	para "나도 경품의 포켓몬을"
+	line "노리고 있지만……"
+	cont "어찌 잘 동전이 모이질 않아서"
+	done
+	
+	
+	
+	
+	
+	
+UnknownText_0x724ad:	;No.02788 [D:0x001797E5] [L:75]
+	text "우으으…… 확률에서는"
+	line "피카츄의 라인이 좋지만……"
+	cont "에이 망설여지는구나……!"
+	done
+	
+	
+	
+UnknownText_0x724f3:	;No.02789 [D:0x00179831] [L:39]
+	text "아!"
+	
+	para "포스터 뒤에……"
+	
+	para "아무것도 없었다!"
+	done
+	
+	
+UnknownText_0x72521:	;No.02790 [D:0x00179859] [L:39]
+	text "아!"
+	
+	para "포스터 뒤에……"
+	
+	para "아무것도 없었다!"
+	done
+	
+	
+UnknownText_0x7254f:	;No.02791 [D:0x00179881] [L:23]
+	text "라이터가 놓여져 있다!"
+	done
+	
+	
+UnknownText_0x72567:	;No.02792 [D:0x00179899] [L:75]
+	text "쥬스 깡통이 놓여져 있다"
+	line "누군가의 자리인가보다……"
+	cont "얼라리……? 텅 비었다!"
+	done

@@ -1,0 +1,162 @@
+UnknownText_0x72b28:	;No.02803 [D:0x00179EBD] [L:216]
+	text "민화『하아-이……"
+	line "좋은 날씨로군요"
+	cont "……자기도 모르게 꾸벅꾸벅"
+	cont "잠들어버릴 것 같네요……"
+	
+	para "나는 무지개시티 체육관의"
+	line "민화라고 합니다"
+	
+	para "…… ……아아!"
+	line "성도로부터 멀리서도"
+	
+	para "…… 엣"
+	line "시합을 하시려구요?"
+	
+	para "저런……"
+	line "난 지지 않아요"
+	done
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+UnknownText_0x72c3e:	;No.02804 [D:0x00179F96] [L:69]
+	text "민화『……!"
+	line "졌습니다"
+	
+	para "아주 강하군요……"
+	
+	para "이 무지개배지를"
+	line "드리겠습니다"
+	done
+	
+	
+UnknownText_0x72c96:	;No.02805 [D:0x00179FDC] [L:32]
+	text ""
+	db "<PLAYER>"
+	db "는(은)"
+	line "무지개배지를 얻었다!"
+	done
+	
+UnknownText_0x72cb0:	;No.02806 [D:0x00179FFD] [L:177]
+	text "민화『멋있는 시합이었어요"
+	line "저는 아주 감동했어요"
+	cont "이 기술머신을 드리겠습니다"
+	
+	para "기가 드레인이라고 하는"
+	line "받은 데미지의 반이"
+	cont "포켓몬의 영양이 되는"
+	cont "대단한 기술입니다"
+	
+	para "괜찮다면"
+	line "사용해보세요"
+	done
+	
+	
+	
+	
+	
+	
+	
+	
+UnknownText_0x72d8f:	;No.02807 [D:0x0017A0AF] [L:95]
+	text "민화『진다고 하는 것은"
+	line "분한 것이군요……"
+	
+	para "그러나 강한 분이 계시다는"
+	line "것은 격려가 되기도 하는군요"
+	done
+	
+	
+	
+	
+	
+LassMichelleSeenText:	;No.02808 [D:0x0017A10F] [L:47]
+	text "이곳은말야!"
+	line "여자아이 전용 체육관이야!"
+	done
+	
+	
+LassMichelleBeatenText:	;No.02809 [D:0x0017A13F] [L:12]
+	text "아앙 분해!"
+	done
+	
+UnknownText_0x72e30:	
+	text "여자아이끼리만 할수있는"
+	line "이야기가 있잖아!"
+	done
+	
+	
+	
+	
+	
+	
+	
+PicnickerTanyaSeenText:	;No.02811 [D:0x0017A1A4] [L:61]
+	text "에엣 포켓몬 승부를 할꺼니?"
+	line "가끔씩 하고 있긴한데 한번 해볼까"
+	done
+	
+	
+PicnickerTanyaBeatenText:	;No.02812 [D:0x0017A1E2] [L:17]
+	text "엣 이건 꿈일꺼야"
+	done
+	
+UnknownText_0x72e8e:	;No.02813 [D:0x0017A1F4] [L:48]
+	text "엣 그렇게많이 배지를 가지고"
+	line "있다면 이길 수 없지"
+	done
+	
+	
+	
+	
+BeautyJuliaSeenText:	;No.02814 [D:0x0017A225] [L:44]
+	text "엥? 꽃이랑 나"
+	line "어느쪽을 정신없이 보고있니?"
+	done
+	
+	
+BeautyJuliaBeatenText:	;No.02815 [D:0x0017A252] [L:9]
+	text "에에엥!"
+	done
+	
+UnknownText_0x72f01:	;No.02816 [D:0x0017A25C] [L:47]
+	text "어떡게해야 민화님 같이"
+	line "품위있게 될 수 있을까?"
+	done
+	
+	
+TwinsJoandzoe1SeenText:	;No.02817 [D:0x0017A28C] [L:46]
+	text "민화 언니를 습격했던"
+	line "포켓몬의 기술을 보여줘!"
+	done
+	
+	
+TwinsJoandzoe1BeatenText:	;No.02818 [D:0x0017A2BB] [L:11]
+	text "졌어요……"
+	done
+	
+UnknownText_0x72f70:	;No.02819 [D:0x0017A2C7] [L:30]
+	text "민화 언니가"
+	line "복수를 할꺼예요!"
+	done
+	
+TwinsJoandzoe2SeenText:	;No.02820 [D:0x0017A2E6] [L:34]
+	text "민화 언니는"
+	line "우리들이 지킬꺼예요!"
+	done
+	
+TwinsJoandzoe2BeatenText:	;No.02821 [D:0x0017A309] [L:20]
+	text "이기지 못했어요……"
+	done
+	
+UnknownText_0x72fc0:	;No.02822 [D:0x0017A31E] [L:24]
+	text "민화 언니는"
+	line "더 강해요!"
+	done

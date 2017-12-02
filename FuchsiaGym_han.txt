@@ -1,0 +1,147 @@
+UnknownText_0x195f35:	;No.02587 [D:0x00170235] [L:91]
+	text "후후후……"
+	line "유감이네……"
+	
+	para "라고 말한 것은 거짓말!"
+	
+	para "내가 진짜!"
+	line "연분홍시티 체육관의 도희란다!"
+	done
+	
+	
+	
+	
+	
+UnknownText_0x195fa1:	;No.02588 [D:0x00170291] [L:75]
+	text "도희『강하구나 너!"
+	line "졌다 그것도 완전히……"
+	
+	para "자 이것을 가져가!"
+	line "핑크배지야!"
+	done
+	
+	
+UnknownText_0x195feb:	;No.02589 [D:0x001702DD] [L:41]
+	text ""
+	db "<PLAYER>"
+	db "는(은) 도희로부터"
+	line "핑크배지를 받았다!"
+	done
+	
+UnknownText_0x196002:	;No.02590 [D:0x00170307] [L:97]
+	text "도희『너 강하구나!"
+	line "특별히 이걸줄께!"
+	
+	para "강한 독이라서"
+	line "상대방의 체력을 빼앗는"
+	cont "맹독이라는 기술이야!"
+	done
+	
+	
+	
+	
+UnknownText_0x196074:	;No.02591 [D:0x00170369] [L:85]
+	text "도희『더욱 수행을 해서"
+	line "더욱 더 강해질꺼야!"
+	
+	para "내 아버지께도"
+	line "너에게도 지지 않도록말야!"
+	done
+	
+	
+	
+	
+	
+UnknownText_0x1960e6:	;No.02592 [D:0x001703BF] [L:50]
+	text "후훗!"
+	line "내가 관장 도희……"
+	cont "이라니!"
+	cont "걸려들었구나!"
+	done
+	
+	
+	
+	
+UnknownText_0x196126:	;No.02593 [D:0x001703F2] [L:22]
+	text "멋지게 속였는데……!"
+	done
+	
+UnknownText_0x196139:	;No.02594 [D:0x00170409] [L:39]
+	text "누가 진짜 관장인가"
+	line "보고 알 수 있을까?"
+	done
+	
+	
+UnknownText_0x196166:	;No.02595 [D:0x00170431] [L:20]
+	text "속았지!"
+	line "아하하하!"
+	done
+	
+UnknownText_0x19617b:	;No.02596 [D:0x00170446] [L:31]
+	text "졌다……!"
+	line "강하구나 이사람은!"
+	done
+	
+UnknownText_0x196199:	;No.02597 [D:0x00170466] [L:31]
+	text "어떠니?"
+	line "내 변장술"
+	cont "꼭 닮았지!"
+	done
+	
+UnknownText_0x1961bb:	;No.02598 [D:0x00170486] [L:39]
+	text "내가 도희!"
+	line "잘도 알아챘구나!"
+	cont "승부닷!"
+	done
+	
+	
+	
+	
+UnknownText_0x1961f1:	;No.02599 [D:0x001704AE] [L:30]
+	text "……분하다!"
+	line "이기고싶었는데!"
+	done
+	
+UnknownText_0x19620c:	;No.02600 [D:0x001704CD] [L:34]
+	text "이제 슬슬"
+	line "지치기 시작한 것 같군!"
+	done
+	
+UnknownText_0x196228:	;No.02601 [D:0x001704F0] [L:33]
+	text "왓 하핫!"
+	
+	para "그래!"
+	line "내가 도희란다!"
+	done
+	
+UnknownText_0x19624a:	;No.02602 [D:0x00170512] [L:29]
+	text "완벽한 변장이었는데"
+	line "분해랏!"
+	done
+	
+UnknownText_0x19626b:	;No.02603 [D:0x00170530] [L:26]
+	text "꽤 귀여운"
+	line "변장을 했었지!"
+	done
+	
+	
+FuchsiaGymGuyText:	;No.02604 [D:0x0017054B] [L:97]
+	text "여어!"
+	line "미래의 챔피언!"
+	
+	para "……오호!"
+	line "잘 둘러 보아라!"
+	cont "관장 도희가"
+	cont "많이 있단다!"
+	
+	para "진짜는 누구일까!?"
+	done
+	
+	
+	
+	
+FuchsiaGymGuyWinText:	;No.02605 [D:0x001705AD] [L:36]
+	text "멋있는 싸움이었다"
+	line "성도의 트레이너!"
+	done
+	

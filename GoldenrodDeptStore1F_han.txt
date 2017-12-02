@@ -1,0 +1,40 @@
+UnknownText_0x55993:	;No.02250 [D:0x0015DA23] [L:35]
+	text "어서오세요!"
+	line "금빛시티 백화점입니다"
+	done
+	
+UnknownText_0x559b7:	;No.02251 [D:0x0015DA47] [L:120]
+	text "금빛시티 백화점에는"
+	line "여러가지 물건이 진열되어 있다"
+	
+	para "하지만 이 마을의"
+	line "게임코너 경품이 아니면"
+	cont "손에 넣을 수 없는 것도 있단다"
+	done
+	
+	
+	
+	
+UnknownText_0x55a1a:	;No.02252 [D:0x0015DAC0] [L:31]
+	text "자 오늘도"
+	line "많이 쇼핑을 해야지!"
+	done
+	
+UnknownText_0x55a3a:	;No.02253 [D:0x0015DAE0] [L:57]
+	text "엄마는 쇼핑을 아주 잘하셔"
+	
+	para "약간 싼 가격에"
+	line "도구를 사오신다"
+	done
+	
+	
+	
+GoldenrodDeptStore1FDirectoryText:	;No.02254 [D:0x0015DB1A] [L:122]
+	text "1층……서비스 카운터"
+	line "2층……트레이너즈 마켓"
+	cont "3층……배틀 컬렉션"
+	cont "4층……메디신 박스"
+	cont "5층……기술머신 코너"
+	cont "6층……휴식의 광장"
+	cont "    옥상관람대"
+	done

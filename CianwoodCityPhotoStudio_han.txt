@@ -1,0 +1,20 @@
+UnknownText_0x9e0f9:	;No.02719 [D:0x001759EE] [L:78]
+	text "훌륭한 포켓몬을 데리고 있구나"
+	line "등대에서 기념으로 1장"
+	cont "포켓몬 사진 찍지 않을래?"
+	done
+	
+	
+	
+	
+UnknownText_0x9e142:	;No.02720 [D:0x00175A3D] [L:10]
+	text "그럼 간다"
+	done
+	
+UnknownText_0x9e156:	;No.02721 [D:0x00175A48] [L:53]
+	text "그런가 그렇다면 유감"
+	line "여행의 기념이 될꺼라 생각했는데"
+	done
+	
+	
+	

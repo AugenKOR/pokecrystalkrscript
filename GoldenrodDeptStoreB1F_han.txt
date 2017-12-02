@@ -1,0 +1,34 @@
+UnknownText_0x7d7cb:	;;No.00581 [D:0x00119688] [L:82]
+	text "어이어이, 일하는데 방해하지마"
+	line "아무도 보는이 없을때 일한다"
+	cont "그것이 우리들의 방침!"
+	done
+	
+	
+	
+	
+	
+	
+UnknownText_0x7d82c:	;;No.00582 [D:0x001196DB] [L:65]
+	text "사람들에게 보여지면"
+	line "짐을 나르는 힘이 없어진다구"
+	cont "저쪽으로 가 가!"
+	done
+	
+	
+	
+	
+UnknownText_0x7d875:	;;No.00583 [D:0x0011971D] [L:56]
+	text "엣취 엣취"
+	
+	para "떨어져 있는 것은 잡동사니뿐"
+	line "원한다면 가져가!"
+	done
+	
+	
+	
+	
+UnknownText_0x7d8bb:	;;No.00584 [D:0x00119756] [L:22]
+	text "근육몬『근육 우오오!"
+	done
+	

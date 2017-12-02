@@ -1,0 +1,132 @@
+CooltrainermSeanSeenText:	;No.02465 [D:0x0016CDC3] [L:30]
+	text "관동에 가서"
+	line "실력을 겨룬단다!"
+	done
+	
+CooltrainermSeanBeatenText:	;No.02466 [D:0x0016CDE2] [L:21]
+	text "이기고싶었는데……!"
+	done
+	
+UnknownText_0x7567b:	;No.02467 [D:0x0016CDF8] [L:60]
+	text "성도의 트레이너들도"
+	line "관동의 체육관 관장과"
+	cont "싸울 수 있으니까!"
+	done
+	
+	
+	
+CooltrainerfCarolSeenText:	;No.02468 [D:0x0016CE35] [L:36]
+	text "나도 챔피언을"
+	line "목표로 노력하고있어!"
+	done
+	
+CooltrainerfCarolBeatenText:	;No.02469 [D:0x0016CE5A] [L:34]
+	text "나랑 너는"
+	line "무엇이 다른걸까……!?"
+	done
+	
+UnknownText_0x756f7:	;No.02470 [D:0x0016CE7D] [L:36]
+	text "언젠가 반드시"
+	line "너에게 이기고말꺼야!"
+	done
+	
+PokemaniacEthanSeenText:	;No.02471 [D:0x0016CEA2] [L:36]
+	text "관동의 인기 DJ"
+	line "리리스를 알고 있니?"
+	done
+	
+	
+PokemaniacEthanBeatenText:	;No.02472 [D:0x0016CEC7] [L:9]
+	text "우악-!"
+	done
+	
+UnknownText_0x7574b:	;No.02473 [D:0x0016CED1] [L:59]
+	text "리리스도 좋지만"
+	line "호두가 최고야!"
+	cont "성도의 라디오를 듣고싶어!"
+	done
+	
+	
+	
+	
+HikerNolandSeenText:	;No.02474 [D:0x0016CF0D] [L:35]
+	text "너 혼자니!?"
+	line "그럼 포켓몬 승부다!"
+	done
+	
+HikerNolandBeatenText:	;No.02475 [D:0x0016CF31] [L:12]
+	text "너무 강해!"
+	done
+	
+	
+UnknownText_0x757d4:	;No.02476 [D:0x0016CF3E] [L:48]
+	text "나를 만족시킬만한"
+	line "가파른 산이"
+	cont "관동에도 있을까?"
+	done
+	
+	
+	
+UnknownText_0x75812:	;No.02477 [D:0x0016CF6F] [L:130]
+	text "어떻든 나는 선원이다!"
+	line "그러나 게으름 피우는 건 아니야!"
+	cont "아무도 없는 방이라서"
+	cont "잠시 낮잠을 자고 있었어……!"
+	
+	para "에이!"
+	line "포켓몬 승부다!"
+	done
+	
+	
+	
+	
+	
+	
+UnknownText_0x75897:	;No.02478 [D:0x0016CFF2] [L:23]
+	text "미안!"
+	line "내가 잘못했다!"
+	done
+	
+UnknownText_0x758b1:	;No.02479 [D:0x0016D00A] [L:47]
+	text "선원이란 직업은 힘을 쓰는 일"
+	line "정말 지친단다……"
+	done
+	
+	
+	
+GentlemanEdwardSeenText:	;No.02480 [D:0x0016D03A] [L:35]
+	text "움 곤란하군"
+	line "중요한 것을 잃어버렸다"
+	done
+	
+	
+GentlemanEdwardBeatenText:	;No.02481 [D:0x0016D05E] [L:28]
+	text "차……"
+	line "찾을 수가 없어……!"
+	done
+	
+UnknownText_0x75937:	;No.02482 [D:0x0016D07B] [L:65]
+	text "할 수 없군! 포기할까"
+	line "아- 너 너말야!"
+	cont "찾지 않아도 좋아"
+	cont "잊어줘!"
+	done
+	
+	
+BurglarCoreySeenText:	;No.02483 [D:0x0016D0BD] [L:16]
+	text "이익!"
+	line "럭키-!"
+	done
+	
+BurglarCoreyBeatenText:	;No.02484 [D:0x0016D0CE] [L:18]
+	text "진것은 "
+	line "노 럭키!"
+	done
+	
+UnknownText_0x75996:	;No.02485 [D:0x0016D0E1] [L:74]
+	text "예쁜 동전을"
+	line "방에서 주웠어"
+	
+	para "전에 이 방을 쓰고있던"
+	line "손님이 떨어뜨렸을까……?"
+	done

@@ -1,0 +1,199 @@
+UnknownText_0x54122:	
+	text "네-에!"
+	line "내가 바로 꼭두!!"
+	
+	para "모두 포켓몬 하고 있잖아"
+	line "나도 시작해보니까"
+	cont "뭐- 엄청 귀여워서!"
+	
+	para "으-응 도전할꺼니?"
+	line "말해두겠는데 나"
+	cont "엄청 강하단다!"
+	done
+	
+	
+	
+UnknownText_0x541a5:	;No.02174 [D:0x0015C1B3] [L:76]
+	text "우우……"
+	
+	para "…… 으앙!!"
+	line "너무해 너무하다구!!"
+	
+	para "상대 못하겠어!!"
+	line "꼬마니까……"
+	done
+	
+	
+UnknownText_0x541f4:	;No.02175 [D:0x0015C200] [L:51]
+	text "와앙!!"
+	
+	para "와-앙!!"
+	
+	para "…… 훌쩍 훌쩍"
+	line "…… 너무해!!"
+	done
+	
+UnknownText_0x54222:	;No.02176 [D:0x0015C234] [L:93]
+	text "……훌쩍"
+	
+	para "뭐야? 아직 뭔가 남았어?"
+	line "아아 배지?"
+	
+	para "미안해 까먹었었어"
+	line "자 레귤러배지"
+	cont "이거 말이지!"
+	done
+	
+UnknownText_0x54273:	;No.02177 [D:0x0015C292] [L:43]
+	text ""
+	db "<PLAYER>"
+	db "는(은) 꼭두로부터"
+	line "레귤러배지를 받았다!"
+	done
+	
+UnknownText_0x5428b:	;No.02178 [D:0x0015C2BE] [L:117]
+	text "레귤러배지를 가지고 있으면"
+	line "싸우지 않을 때에도"
+	cont "괴력의 기술을 쓸 수 있고"
+	cont "포켓몬의 스피드도 빨라진단다"
+	
+	para "또 이것도 줄께!"
+	done
+	
+	
+	
+	
+	
+	
+	
+UnknownText_0x54302:	;No.02179 [D:0x0015C334] [L:96]
+	text "내용물은 헤롱헤롱이라고 해"
+	line "포켓몬의 매력을"
+	cont "최대한 사용하는 기술이야"
+	cont "귀여운 나한테 딱 어울리지?"
+	done
+	
+	
+	
+	
+	
+	
+UnknownText_0x54360:	;No.02180 [D:0x0015C395] [L:59]
+	text "후우!"
+	line "울고나니까 후련해졌다!"
+	
+	para "그럼 또 놀러와!"
+	line "바이바이!"
+	done
+	
+LassCarrieSeenText:	
+	text "Don't let my"
+	line "#MON's cute"
+	
+	para "looks fool you."
+	line "They can whip you!"
+	done
+	
+LassCarrieBeatenText:	
+	text "Darn… I thought"
+	line "you were weak…"
+	done
+	
+LassCarrieOWText:	
+	text "Do my #MON"
+	line "think I'm cute?"
+	done
+	
+	
+	
+	
+LassBridgetSeenText:	
+	text "강한 포켓몬 보다"
+	line "귀여운 포켓몬을 좋아해!"
+	
+	para "하지만 내가 가지고 있는 것은"
+	line "강하고 귀여운 포켓몬이야!"
+	done
+	
+	
+LassBridgetBeatenText:	;No.02185 [D:0x0015C4BD] [L:19]
+	text "아앙- 안 되는군!"
+	done
+	
+LassBridgetOWText:	;No.02186 [D:0x0015C4D1] [L:116]
+	text "꼭두에게 이기려고"
+	line "열심히 하는데 아직 멀었을까"
+	cont "어쩐지 자신이 없어져……"
+	
+	para "라고 하다니"
+	line "지면 다음에 또 열심히하면 되지!"
+	done
+	
+	
+	
+	
+BridgetWhitneyCriesText:	;No.02187 [D:0x0015C546] [L:81]
+	text "아-아 꼭두를"
+	line "울게만들었군"
+	
+	para "괜찮아!"
+	line "이제 곧 울음을 그칠테니까"
+	cont "지면 언제나 운단다"
+	done
+	
+	
+	
+BeautyVictoriaSeenText:	;No.02188 [D:0x0015C598] [L:73]
+	text "음 귀여운 트레이너네!"
+	line "누님께서 맘에 들었다!"
+	cont "하지만 봐주지는 않을꺼다!"
+	done
+	
+	
+	
+BeautyVictoriaBeatenText:	;No.02189 [D:0x0015C5E2] [L:25]
+	text "에-그럼……"
+	line "엥 끝났냐?"
+	done
+	
+BeautyVictoriaOWText:	;No.02190 [D:0x0015C5FC] [L:56]
+	text "누나에게 이기다니"
+	line "대단해 대단해!"
+	cont "그 상태로 열심히 해라"
+	done
+	
+BeautySamanthaSeenText:	;No.02191 [D:0x0015C635] [L:46]
+	text "전력을 다하지 않으면"
+	line "병원에 입원하게 될꺼야!"
+	done
+	
+	
+BeautySamanthaBeatenText:	;No.02192 [D:0x0015C664] [L:30]
+	text "아-야!!"
+	line "미안해 나의 나옹아"
+	done
+	
+BeautySamanthaOWText:	;No.02193 [D:0x0015C683] [L:56]
+	text "어떤 타입의 포켓몬도"
+	line "공격할 수 있도록"
+	cont "기술을 가르쳤는데"
+	done
+	
+GoldenrodGymGuyText:	;No.02194 [D:0x0015C6BC] [L:130]
+	text "여어!"
+	line "미래의 챔피언!"
+	
+	para "이 체육관은"
+	line "노말타입 포켓몬의"
+	cont "조련사들이 모여 있단다!"
+	
+	para "싸우게 한다고 하면"
+	line "격투타입의"
+	cont "포켓몬이 추천감이다!"
+	done
+	
+GoldenrodGymGuyWinText:	;No.02195 [D:0x0015C73F] [L:60]
+	text "이겼니? 그것 참 잘 되었구나!"
+	line "나는 여자아이에게 걸었었단다"
+	done
+	
