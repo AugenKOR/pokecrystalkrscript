@@ -126,39 +126,30 @@ BlackthornGymClairText_DescribeTM24:	;;No.01849 [D:0x0014C49A] [L:101]
 	
 	
 BlackthornGymClairText_BagFull:	
-	text "What is this? You"
-	line "don't have room?"
+	text "이게뭐야?"
+	line "가방에 자리가 없잖아?"
 	done
 	
 BlackthornGymClairText_League:	
-	text "What's the matter?"
+	text "무슨 일이야?"
 	
-	para "Aren't you headed"
-	line "to the #MON"
-	cont "LEAGUE?"
+	para "넌 #몬 리그로 가는 거지?"
 	
-	para "Don't you know"
-	line "where it is?"
+	para "어디 있는지 모르는거야?"
 	
-	para "From here, go to"
-	line "NEW BARK TOWN."
+	para "여기서, 연두마을로 가."
+	line "그리고 파도타기로 동쪽으로 가."
 	
-	para "Then SURF east."
-	line "The route there is"
-	cont "very tough."
+	para "참고로 그 길은 매우 험할거야."
 	
-	para "Don't you dare"
-	line "lose at the #-"
-	cont "MON LEAGUE!"
+	para "절대로 #몬리그에서"
+	line "패배하지 마!"
 	
-	para "If you do, I'll"
-	line "feel even worse"
+	para "만약 지게되면, 나는 너를"
+	line "잃어버린 것에 대해 매우"
+	cont "슬플거야!"
 	
-	para "about having lost"
-	line "to you!"
-	
-	para "Give it every-"
-	line "thing you've got."
+	para "너의 모든것을 보여주도록 해."
 	done
 	
 CooltrainermPaulSeenText:	
@@ -168,16 +159,15 @@ CooltrainermPaulSeenText:
 	
 	
 CooltrainermPaulBeatenText:	
-	text "My dragon #MON"
-	line "lost?"
+	text "내 드래곤 #몬이..."
+	line "졌다고..?"
 	done
 	
 CooltrainermPaulAfterText:	
-	text "LANCE told you"
-	line "that he'd like to"
+	text "목호가 너를 다시 만나고 싶다"
+	line "라고 했었다고?"
 	
-	para "see you again?"
-	line "Not a chance!"
+	para "설마! 웃기지마!"
 	done
 	
 CooltrainermMikeSeenText:	
@@ -248,34 +238,4 @@ BlackthornGymGuyWinText:
 	para "남은 것은 포켓몬 리그의 도전!"
 	line "목표로 삼아라 챔피언을!"
 	done
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
 	
