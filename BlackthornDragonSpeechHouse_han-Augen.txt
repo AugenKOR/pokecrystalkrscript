@@ -4,8 +4,6 @@ UnknownText_0x19595c:
 	line "트레이너 일가가 바로 이곳"
 
 	para "검은먹시티에 살고 있어."
-	line ""
-	cont ""
 
 	para "그래서, 이 마을에는 "
 	line "용에 대한 많은 전설이 있어."
