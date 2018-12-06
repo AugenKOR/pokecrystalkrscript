@@ -1,0 +1,16 @@
+
+UnknownText_0x19595c:
+	text "용을 자유롭게 지휘할 수 있는"
+	line "트레이너 일가가 바로 이곳"
+
+	para "검은먹시티에 살고 있어."
+	line ""
+	cont ""
+
+	para "그래서, 이 마을에는 "
+	line "용에 대한 많은 전설이 있어."
+	done
+
+DratiniText:
+	text "미뇽: 드라-!"
+	done
