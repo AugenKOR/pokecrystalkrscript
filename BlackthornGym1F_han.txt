@@ -51,21 +51,15 @@ ClairText_GoToDragonsDen:	;;No.01844 [D:0x0014C20D] [L:343]
 	cont "참 된 드래곤 조련사로"
 	cont "인정받기 위한 의식이지"
 	
-	para "There is a small"
-	line "shrine at its"
+	para "그 중심에는 작은 신전이 있어."
 	
-	para "center."
-	line "Go there."
+	para "거기로 가."
 	
-	para "If you can prove"
-	line "that you've lost"
+	para "너가 게으른 이상을 가지지"
+	line "않았다는 것을 증명할 수 있다면"
 	
-	para "your lazy ideals,"
-	line "I will recognize"
-	
-	para "you as a trainer"
-	line "worthy of a GYM"
-	cont "BADGE!"
+	para "나는 너에게 라이징배지에 합당한"
+	line "트레이너로 인정할 거야!"
 	done
 	
 	
@@ -159,8 +153,8 @@ CooltrainermPaulSeenText:
 	
 	
 CooltrainermPaulBeatenText:	
-	text "내 드래곤 #몬이..."
-	line "졌다고..?"
+	text "내 드래곤 #몬이…"
+	line "졌다고…?"
 	done
 	
 CooltrainermPaulAfterText:	
